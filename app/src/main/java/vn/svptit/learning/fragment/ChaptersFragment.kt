@@ -69,7 +69,7 @@ class ChaptersFragment: BaseFragment(), OnItemClickListener {
     }
 
     override fun onClick(position: Int) {
-        mainActivity.onOpenFragment(ChapterDetailFragment2().newInstance(subject.id, subject.chapters[position]), true)
+        mainActivity.onOpenFragment(ChapterDetailFragment().newInstance(subject.id, subject.chapters[position]), true)
     }
 
 }

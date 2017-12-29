@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Đặt JavaScript trong thẻ nào của HTML?",
+    "choices": [
+      "<js>",
+      "<scripting>",
+      "<script>",
+      "<javascript>"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cú pháp JS để thay đổi nội dung của 1 thành phần HTML?",
+    "choices": [
+      "document.getElement(\"p\").innerHTML = \"Hello World!\";",
+      "document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
+      "#demo.innerHTML = \"Hello World!\";",
+      "document.getElementByName(\"p\").innerHTML = \"Hello World!\";"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Vị trí đặt mã JavaScript?",
+    "choices": [
+      "<head>section",
+      "Cả <head> và <body> đều được",
+      "<body> section",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cú pháp JS để gắn mã ngoài?",
+    "choices": [
+      "<script src=\"xxx.js\">",
+      "<script name=\"xxx.js\">",
+      "<script href=\"xxx.js\">",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong tập tin JavaScript bắt buộc phải chứa thẻ <script>",
+    "choices": [
+      "True",
+      "False",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Viết \"Hello World\" trong hộp thông báo bằng JS?",
+    "choices": [
+      "alert(\"Hello World\");",
+      "msgBox(\"Hello World\");",
+      "alertBox(\"Hello World\");",
+      "msg(\"Hello World\");"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tạo hàm trong JavaScript?",
+    "choices": [
+      "function:myFunction()",
+      "function myFunction()",
+      "function = myFunction()",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gọi hàm \"myFunction\" trong JS?",
+    "choices": [
+      "call myFunction()'",
+      "myFunction()'",
+      "call function myFunction()",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu lệnh IF trong JavaScript?",
+    "choices": [
+      "if i == 5 then",
+      "if i = 5",
+      "if i = 5 then",
+      "if (i == 5)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Cậu lệnh IF thực thi mã khi i KHÔNG bằng 5 trong JS là?",
+    "choices": [
+      "if i <> 5",
+      "if i =! 5 then",
+      "if (i != 5)",
+      " if (i <> 5)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu lệnh WHILE trong JS bắt đầu bằng?",
+    "choices": [
+      "while (i <= 10; i++)",
+      "while (i <= 10)",
+      "while i = 1 to 10",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu lệnh FOR trong JS bắt đầu bằng?",
+    "choices": [
+      " for (i = 0; i <= 5; i++)",
+      " for i = 1 to 5 ",
+      "for (i = 0; i <= 5)",
+      " for (i <= 5; i++); "
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cách comment trong JavaScript?",
+    "choices": [
+      " 'This is a comment",
+      "//This is a comment",
+      "<!--This is a comment-->",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cách comment nhiều dòng trong JavaScript?",
+    "choices": [
+      "//This comment has\nmore than one line//",
+      " /*This comment has\nmore than one line*/",
+      "<!--This comment has\nmore than one line-->\n",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cách tạo 1 mảng trong JavaScript?",
+    "choices": [
+      "var colors = (1:\"red\", 2:\"green\", 3:\"blue\")e",
+      "var colors = 1 = (\"red\"), 2 = (\"green\"), 3 = (\"blue\")",
+      "var colors = \"red\", \"green\", \"blue\"",
+      "var colors = [\"red\", \"green\", \"blue\"]"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Làm tròn số 7.25 về số nguyên gần nhất trong JS?",
+    "choices": [
+      "Math.rnd(7.25)",
+      "rnd(7.25)",
+      "Math.round(7.25)",
+      "round(7.25)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Tìm số lớn nhất giữa x và y trong JS?",
+    "choices": [
+      "ceil(x, y)",
+      "Math.ceil(x, y)",
+      "top(x, y)",
+      "Math.max(x, y)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Cú pháp JavaScript để mở 1 cửa sổ mới đặt là w2?",
+    "choices": [
+      "w2 = window.open(\"http://www.w3schools.com\");",
+      "w2 = window.new(\"http://www.w3schools.com\");",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "JavaScript giống Java?",
+    "choices": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Làm thế nào để biết tên browser của khách trong JS?",
+    "choices": [
+      "browser.name",
+      "navigator.appName",
+      "client.navName",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong JS, sự kiện nào xảy ra khi user click vào 1 phần tử HTML?",
+    "choices": [
+      "onmouseclick",
+      "onclick",
+      "onmouseover",
+      "onchange"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Khai báo biến trong JS như thế nào?",
+    "choices": [
+      " v carName;",
+      "var carName;",
+      "variable carName;",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Toán tử nào gán giá trị cho biến trong JS?",
+    "choices": [
+      "-",
+      "=",
+      "*",
+      "*"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong Js, đoạn code sau trả về giá trị gì?: Boolean(10 > 9)",
+    "choices": [
+      "NaN",
+      "true",
+      "false",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "JavaScript có phân biệt chữ viêt HOA không?",
+    "choices": [
+      "Yes",
+      "No",
+      "",
+      ""
+    ],
+    "answer": 1
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "question": "PHP là viết tắt của?",
+    "choicees": [
+      "Personal Hypertext Processor",
+      "PHP: Hypertext Preprocessor",
+      "Private Home Page",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mã php server được bao quanh bởi đoạn phân cách nào?",
+    "choicees": [
+      " <script>...</script>",
+      " <>...</>",
+      " <?php...?>",
+      "<?php>...</?>"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Làm thế nào để hiển thị \"Hello World\" với PHP",
+    "choicees": [
+      "Document.Write(\"Hello World\");",
+      "echo \"Hello World\";",
+      "\"Hello World\";",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Biến PHP bắt đầu bằng ký tự nào?",
+    "choicees": [
+      "!",
+      "$",
+      "&",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kết thúc câu lệnh PHP bằng?",
+    "choicees": [
+      ".",
+      "New line",
+      ";",
+      " </php> "
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cú pháp PHP giống ngôn ngữ nào nhất?",
+    "choicees": [
+      "JavaScript",
+      "Perl and C",
+      "VBScript",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong PHP, làm thế nào để lấy thông tin từ 1 form được submit sử dụng phương thức GET?",
+    "choicees": [
+      "$_GET[];",
+      "Request.QueryString;",
+      "Request.Form;",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sử dụng phương thức POST, biến sẽ hiển thị trong URL?",
+    "choicees": [
+      "True'",
+      "False'",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong PHP, ngoặc đơn ' ' và ngoặc kép \" \" đều có thể dùng cho chuỗi?",
+    "choicees": [
+      "False",
+      "True",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong PHP, Include files phải có file extension",
+    "choicees": [
+      "True",
+      "False",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong PHP, làm thế nào để include the file \"time.inc\" ?",
+    "choicees": [
+      " < !-- include file=\"time.inc\" --> ",
+      " <?php include \"time.inc\"; ?>  ",
+      " <?php include file=\"time.inc\"; ?> ",
+      "  <?php include:\"time.inc\"; ?> "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Làm thế nào để tạo hàm trong PHP?",
+    "choicees": [
+      "new_function myFunction()",
+      "function myFunction()",
+      "create myFunction()",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong PHP, cách mở file \"time.txt\" để đọc là?",
+    "choicees": [
+      "fopen(\"time.txt\",\"r+\");",
+      "fopen(\"time.txt\",\"r\");",
+      "open(\"time.txt\");",
+      "open(\"time.txt\",\"read\");"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "PHP cho phép gửi mail trực tiếp?",
+    "choicees": [
+      "False",
+      "True",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Biến nào giữ thông tin về headers, paths, và script locations trong PHP?",
+    "choicees": [
+      "$_SESSION",
+      "$_GET",
+      "$_SERVER",
+      "$_GLOBALS"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cách nào để cộng 1 vào biến count trong PHP?",
+    "choicees": [
+      "$count =+1",
+      "++count",
+      "$count++;",
+      "count++;"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thêm comment trong PHP?",
+    "choicees": [
+      "/*...*/",
+      "*\\...\\*",
+      "<comment>...</comment>",
+      "<!--...-->"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "PHP có thể chạy trên Microsoft Windows IIS(Internet Information Server):",
+    "choicees": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hàm die() và exit() thực hiện cùng 1 chức năng trong PHP?",
+    "choicees": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Biến nào KHÔNG hợp lệ trong PHP?",
+    "choicees": [
+      "$myVar",
+      "$my_Var",
+      "$my-Var",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong PHP, Hàm setcookie() phải viết trước thẻ >html>",
+    "choicees": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong PHP, cách duy nhất để hiển thị text là echo?",
+    "choicees": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Tạo mảng trong PHP bằng cách nào?",
+    "choicees": [
+      "$cars = array[\"Volvo\", \"BMW\", \"Toyota\"];",
+      "$cars = \"Volvo\", \"BMW\", \"Toyota\";",
+      "$cars = array(\"Volvo\", \"BMW\", \"Toyota\");",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong PHP, lệnh if dùng để thực thi đoạn mã chỉ khi điều kiện nào đó là đúng?",
+    "choicees": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Toán tử nào kiểm tra 2 biến bằng nhau và cùng kiểu dữ liệu trong PHP?",
+    "choicees": [
+      "!=",
+      "==",
+      "===",
+      "="
+    ],
+    "answer": 3
+  }
+]

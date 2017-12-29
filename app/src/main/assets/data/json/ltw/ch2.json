@@ -1,0 +1,252 @@
+[
+  {
+    "question": "CSS là viết tắt của ...?",
+    "choices": [
+      "Colorful Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style Sheets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gắn CSS từ file bên ngoài vào HTML như thế nào?",
+    "choices": [
+      "<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">",
+      "<style src=\"mystyle.css\">",
+      "<stylesheet>mystyle.css</stylesheet>",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gắn CSS từ file bên ngoài đặt vào vị trí nào trong HTML?",
+    "choices": [
+      "Cuối cùng của trang HTML",
+      "Trong phần head",
+      "Trong phần body",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Muốn viết CSS bên trong HTML thì phải dùng thẻ nào?",
+    "choices": [
+      "script",
+      "css",
+      "style",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thuộc tính HTML nào dùng để định nghĩa kiểu dáng ngay bên trong thẻ?",
+    "choices": [
+      "styles",
+      "class",
+      "style",
+      "font"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Đáp án nào đúng cú pháp CSS?",
+    "choices": [
+      "body:color=black;",
+      "{body;color:black;}",
+      "body {color: black;}",
+      "{body:color=black;}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Làm thế nào để chèn comment trong CSS?",
+    "choices": [
+      "// this is a comment//",
+      "// this is a comment",
+      "/* this is a comment */",
+      "' this is a comment"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Làm thế nào để thêm màu nền cho toàn bộ thẻ h1?",
+    "choices": [
+      "all.h1 {background-color:#FFFFFF;}",
+      "h1.all {background-color:#FFFFFF;}",
+      "h1 {background-color:#FFFFFF;}",
+      "h1.* {background-color:#FFFFFF;}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thuộc tính CSS nào đổi màu nền?",
+    "choices": [
+      "bgcolor",
+      "background-color",
+      "color",
+      "bg"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Thuộc tính CSS nào để đổi màu chữ?",
+    "choices": [
+      "color",
+      "text-color",
+      "fgcolor",
+      "textcolor"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thuộc tính CSS nào để điều chỉnh cỡ chữ?",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cú pháp CSS để làm chữ đậm cho tất cả thẻ p?",
+    "choices": [
+      "p {text-size:bold;}",
+      "<p style=\"text-size:bold;\">",
+      "p {font-weight:bold;}",
+      "<p style=\"font-size:bold;\">"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Làm thế nào để hiển thị liên kết không có gạch chân trong CSS?",
+    "choices": [
+      "a {decoration:no-underline;}",
+      "a {underline:none;}",
+      "a {text-decoration:none;}",
+      "a {text-decoration:no-underline;}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Làm thế nào để mỗi từ hiển thị viết hoa chữ cái đầu tiên trong CSS?",
+    "choices": [
+      "text-transwerform:capitalize",
+      "text-transwerform:uppercase",
+      "Không làm được với CSS",
+      "text-transwerform:uppercase-first"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thuộc tính CSS để đổi font chữ?",
+    "choices": [
+      "font",
+      "font-family",
+      "Cả font-family và font",
+      "font-base"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Làm thế nào để hiển thị chữ in đậm trong CSS?",
+    "choices": [
+      "style:bold;",
+      "font-weight:bold;",
+      "font:bold;",
+      "text:bold;"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kẻ viền trong CSS, phía trên 10px, phía dưới 5px, bên trái 20px, bên phải 1px?",
+    "choices": [
+      "border-width:10px 1px 5px 20px;",
+      "border-width:10px 20px 5px 1px;",
+      "border-width:10px 5px 20px 1px;",
+      "border-width:5px 20px 10px 1px;"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thuộc tính CSS để căn lề trái?",
+    "choices": [
+      "indent",
+      "padding-left",
+      "margin-left",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thuộc tính padding trong CSS có thể nhận giá trị âm hay không??",
+    "choices": [
+      "Có",
+      "Không",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Liệt kê danh sách với ô vuông trong CSS?",
+    "choices": [
+      "list: square;",
+      "list-style-type: square;",
+      "list-type: square;",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Chọn phần tử với id là demo trong CSS?",
+    "choices": [
+      ".demo",
+      "demo",
+      "#demo",
+      "$demo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Chọn phần tử với class là test trong CSS?",
+    "choices": [
+      "#test",
+      "test",
+      ".test",
+      "$test"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Chọn toàn bộ phần tử p bên trong 1 thẻ div?",
+    "choices": [
+      "div p",
+      "div.p",
+      "div + p",
+      "div(p)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "1 nhóm selectors trong CSS ...?",
+    "choices": [
+      "Phân cách mỗi selector bằng dấu cộng",
+      "Phân cách mỗi selector bằng dấu phẩy",
+      "Phân cách mỗi selector bằng khoảng trắng",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Giá trị mặc định cho thuộc tính position trong CSS?",
+    "choices": [
+      "fixed",
+      "absolute",
+      "static",
+      "relative"
+    ],
+    "answer": 3
+  }
+]

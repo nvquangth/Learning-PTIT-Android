@@ -23,8 +23,7 @@ class QuestionViewPagerAdapter(fm: FragmentManager?, questionList: ArrayList<Que
         if (position == questionList.size) {
             return ResultTestFragment().newInstance(questionList, chapterId, subjectId)
         }
-        var question = questionList[position]
-        return QuestionFragment().newInstance(question)
+        return QuestionFragment().newInstance(questionList[position])
     }
 
     override fun getCount(): Int {

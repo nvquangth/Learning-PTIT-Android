@@ -1,0 +1,402 @@
+[
+  {
+    "question": "HTML là viết tắt của:",
+    "choices": [
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Text Markup Language",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Ai là người tạo ra các tiêu chuẩn WEB:",
+    "choices": [
+      "Microsoft",
+      "Google",
+      "The World Wide Web Consortium",
+      "Mozilla"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Chọn phần tử HTML cho tiêu đề lớn nhất:",
+    "choices": [
+      "<heading>",
+      "<h1>",
+      "<head>",
+      "<h6>"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Phần tử HTML để ngắt dòng:",
+    "choices": [
+      "<break>",
+      "<lb>",
+      "<br>",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong HTML, cách nào để thêm màu cho background:",
+    "choices": [
+      "<body style=\"background-color:yellow;\">",
+      "<background>yellow</background>",
+      "<body bg=\"yellow\">",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chọn phần tử HTML để xách định important text:",
+    "choices": [
+      "<b>",
+      "<strong>",
+      "<important>",
+      "<i>"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Chọn phần tử HTML để xách định emphasized text:",
+    "choices": [
+      "<italic>",
+      "<i>",
+      "<em>",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong HTML, cách tạo hyperlink đúng la:",
+    "choices": [
+      "<a name=\"http://www.w3schools.com\">W3Schools.com</a>",
+      "<a>http://www.w3schools.com</a>",
+      "<a url=\"http://www.w3schools.com\">W3Schools.com</a>",
+      "<a href=\"http://www.w3schools.com\">W3Schools</a>"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Trong HTML, ký tự nào dùng để thể hiện end tag",
+    "choices": [
+      "/",
+      "<",
+      "^",
+      "*"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, làm thế nào để 1 đường link được mở trong tab/window mới",
+    "choices": [
+      "<a href=\"url\" target=\"new\">",
+      "<a href=\"url\" new>",
+      "<a href=\"url\" target=\"_blank\">",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong các thẻ HTML dưới đây, đáp án nào mà toàn bộ đều là phần tử thuộc về bảng:",
+    "choices": [
+      "<table><tr><tt>",
+      "<table><head><tfoot>",
+      "<table><tr><td>",
+      "<thead><body><tr>"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong HTML, các phần tủ inline thường sẽ được hiển thị mà không bắt đầu từ dòng mới",
+    "choices": [
+      "SAI",
+      "ĐÚNG",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, làm thế nào để tạo danh sách đánh số",
+    "choices": [
+      "<ol>",
+      "<list>",
+      "<dl>",
+      "<ul>"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, làm thế nào để tạo danh sách gạch đầu dòng",
+    "choices": [
+      "<ol>",
+      "<list>",
+      "<dl>",
+      "<ul>"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Trong HTML, làm thế nào để tạo checkbox",
+    "choices": [
+      "<checkbox>",
+      "<check>",
+      "<input type=\"checkbox\">",
+      "<input type=\"check\">"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong HTML, làm thế nào để tạo text input field",
+    "choices": [
+      "<textinput>",
+      "<textfield>",
+      "<input type=\"text\">",
+      "<input type=\"textfield\">"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong HTML, làm thế nào để tạo drop-down list",
+    "choices": [
+      "<select>",
+      "<list>",
+      "<input type=\"dropdown\">",
+      "<input type=\"list\">"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, làm thế nào để tạo text area",
+    "choices": [
+      "<textarea>",
+      "",
+      "<input type=\"textbox\">",
+      "<input type=\"textarea\">"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, làm thế nào để chèn ảnh",
+    "choices": [
+      "<image src=\"image.gif\" alt=\"MyImage\">",
+      "<img src=\"image.gif\" alt=\"MyImage\">",
+      "<img alt=\"MyImage\">image.gif</img>",
+      "<img href=\"image.gif\" alt=\"MyImage\">"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, làm thế nào để chèn ảnh nền",
+    "choices": [
+      "<background img=\"background.gif\">",
+      "<body style=\"background-image:url(background.gif)\">",
+      "<body bg=\"background.gif\">",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, thẻ iframe dùng để hiển thị 1 trang web bên trong trang web",
+    "choices": [
+      "Không có thẻ iframe",
+      "ĐÚNG",
+      "SAI",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "HTML comments bắt đầu bằng <!-- và kết thúc bằng -->",
+    "choices": [
+      "SAI",
+      "ĐÚNG",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, các phần tủ block thường sẽ được hiển thị mà không bắt đầu từ dòng mới",
+    "choices": [
+      "SAI",
+      "ĐÚNG",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thẻ HTML nào xác định title",
+    "choices": [
+      "<meta>",
+      "<head>",
+      "<title>",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thuộc tính HTML nào xác định đoạn text thế chỗ cho hình ảnh nếu nó không thể hiển thị",
+    "choices": [
+      "alt",
+      "title",
+      "longdesc",
+      "scr"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Doctype cho HTML5",
+    "choices": [
+      "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 5.0//EN\" \"http://www.w3.org/TR/html5/strict.dtd\">",
+      "<!DOCTYPE html>",
+      "<!DOCTYPE HTML5>",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Thẻ HTML nào dùng để xách định phần footer",
+    "choices": [
+      "<footer>",
+      "<section>",
+      "<bottom>",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Có thể nhúng SVG thẳng vào HTML",
+    "choices": [
+      "ĐÚNG",
+      "SAI",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thẻ HTML để chạy tập tin phim",
+    "choices": [
+      "<movie>",
+      "<video>",
+      "<media>",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Thẻ HTML để chạy tập tin nhạc",
+    "choices": [
+      "<sound>",
+      "<audio>",
+      "<mp3>",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Thuộc tính contenteditable trong HTML dùng để: ",
+    "choices": [
+      "Quy định cho phép sửa nội dung của 1 thành phần hoặc không",
+      "Trả về vị trí xuất hiện đầu tiên của đoạn nội dung trong 1 chuỗi",
+      "Cập nhật nội dung từ máy chủ",
+      "Xác định 1 menu bối cảnh, xuất hiện khi user click chuột phải vào thành phần đó"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, onblur và onfocus là",
+    "choices": [
+      "Thuộc tính sự kiện",
+      "Thẻ",
+      "Thuộc tính kiểu cách",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, Đồ họa SVG viết ở dạng nào",
+    "choices": [
+      "HTML",
+      "CSS",
+      "XML",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong HTML, thẻ canvas dùng để",
+    "choices": [
+      "Hiển thị bản ghi dữ liệu",
+      "Vẽ đồ họa",
+      "Tạo 1 thành phần kéo thả",
+      "Tác động vào data MYSQL"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, thuộc tính dùng để xác định 1 input field phải được điền là",
+    "choices": [
+      "placeholder",
+      "required",
+      "validate",
+      "formvalidate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, loại input dùng để tạo thanh trượt là",
+    "choices": [
+      "slider",
+      "range",
+      "search",
+      "controls"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, thẻ nào dùng để hiển thị 1 thước đo",
+    "choices": [
+      "meter",
+      "range",
+      "measure",
+      "gauge"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, thẻ nào dùng để xác định đường dẫn điều hướng",
+    "choices": [
+      "navigation",
+      "nav",
+      "navigate",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, thẻ aside dùng để xác định",
+    "choices": [
+      "Danh sách điều hướng được hiển thị bên trái trang",
+      "Bộ ký tự ASCII, để gửi thông tin giữa các máy tính trên mạng Internet",
+      "Nội dung bổ sung từ phần nội dung chính",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thẻ HTML nào dùng để xác định header cho 1 trang",
+    "choices": [
+      "head",
+      "top",
+      "header",
+      "section"
+    ],
+    "answer": 1
+  }
+]

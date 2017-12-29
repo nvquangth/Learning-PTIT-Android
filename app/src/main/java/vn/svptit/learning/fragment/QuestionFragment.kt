@@ -1,7 +1,6 @@
 package vn.svptit.learning.fragment
 
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import android.widget.ImageButton
 import android.widget.TextView
@@ -65,25 +64,25 @@ class QuestionFragment: BaseFragment(), View.OnClickListener {
         disableSelectAnswer()
         when(view?.id) {
             R.id.layout_ans1 -> {
-                (parentFragment as ChapterDetailFragment2).onSelect(1)
+                (parentFragment as ChapterDetailFragment).onSelect(1)
                 if (question.answer != 1) {
                     setMistake(btn_ans1, txt_ans1)
                 }
             }
             R.id.layout_ans2 -> {
-                (parentFragment as ChapterDetailFragment2).onSelect(2)
+                (parentFragment as ChapterDetailFragment).onSelect(2)
                 if (question.answer != 2) {
                     setMistake(btn_ans2, txt_ans2)
                 }
             }
             R.id.layout_ans3 -> {
-                (parentFragment as ChapterDetailFragment2).onSelect(3)
+                (parentFragment as ChapterDetailFragment).onSelect(3)
                 if (question.answer != 3) {
                     setMistake(btn_ans3, txt_ans3)
                 }
             }
             R.id.layout_ans4 -> {
-                (parentFragment as ChapterDetailFragment2).onSelect(4)
+                (parentFragment as ChapterDetailFragment).onSelect(4)
                 if (question.answer != 4) {
                     setMistake(btn_ans4, txt_ans4)
                 }
@@ -120,9 +119,9 @@ class QuestionFragment: BaseFragment(), View.OnClickListener {
     fun viewResult() {
         disableSelectAnswer()
 
-        var index = (parentFragment as ChapterDetailFragment2).indexCur
-        var answer = (parentFragment as ChapterDetailFragment2).arrAnswer[index]
-        var answerCor = (parentFragment as ChapterDetailFragment2).questionList[index].answer
+        var index = (parentFragment as ChapterDetailFragment).indexCur
+        var answer = (parentFragment as ChapterDetailFragment).arrAnswer[index]
+        var answerCor = (parentFragment as ChapterDetailFragment).questionList[index].answer
 
         setResultCorrect(answerCor)
 

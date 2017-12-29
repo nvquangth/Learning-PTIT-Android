@@ -38,5 +38,135 @@
       "Tổ chức mà PM là người điều hành"
     ],
     "answer": 1
+  },
+  {
+    "question": "5. Một PM có ít kinh nghiệm quản lý dự án. Nhưng anh ta được phân công làm PM cho một dự án mới. do anh ta sẽ làm việc trong một tổ chức ma trận (matrix organization) để hoàn thành dự án của mình, anh ta có thể trông đợi việc truyền thông trong dự án của mình có đặc điểm:",
+    "choices": [
+      "Đơn giản",
+      "Truyền thông mở và thúc đẩy ",
+      "Phức tạp",
+      "Khó tự động hóa"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "6. 2 nhân viên trong đội dự án đang nói chuyện với nhau và phàn nàn về việc rất nhiều người đang yêu cầu nhân viên đó phải làm một số việc. nếu anh ta làm việc trong một tổ chức bao gồm các phòng ban chức năng (functional organization), ai sẽ có quyền để đưa ra chỉ dẫn cho các thành viên dự án?",
+    "choices": [
+      "Người quản lý dự án PM ",
+      "Người quản lý bộ phận chức năng functional manager",
+      "Đội dự án",
+      "Ma trận kiểm soát chặt tight matrix"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "7. Ai có nhiều thẩm quyền nhất trong một tổ chức hướng dự án (projectized organization) ",
+    "choices": [
+      "Người quản lý dự án PM",
+      "Người quản lý bộ phận chức năng functional manager",
+      "Đội dự án",
+      "Đội dự án đều có quyền như nhau"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "8. Tính chất nào dưới đây không phải là tính chất của một dự án",
+    "choices": [
+      "Tạm thời",
+      "Có thời gian bắt đầu và kết thúc xác định",
+      "Có các hoạt động liên quan tới nhau ",
+      "Lặp lại công việc dự án mỗi tháng. (repeat itself every month)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "9. Các bên liên quan quản lý dự án ngoại trừ việc: ",
+    "choices": [
+      "Đưa cho các bên liên quan một ít $ (giving stakeholders extras)",
+      "Xác định các bên liên quan",
+      "Xác định yêu cầu của các bên liên quan",
+      "Quản lý các mong đợi của các bên liên quan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. Một người quản lý và giám đốc kĩ thuật thảo luận về một thay đổi trong gói công việc chính. Sau khi thảo luận, người quản lý liên lạc với bạn và yêu cầu bạn hoàn thành các thủ tục giấy tờ để thực hiện việc thay đổi đó. Đây là ví dụ về:",
+    "choices": [
+      "Sự chú ý việc quản lý vào quản lý phạm vi",
+      "Lập kế hoạch quản lý ",
+      "Trách nhiệm của người giải quyết công việc dự án",
+      "Một sự thay đổi hệ thống điều khiển."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. Dự án đang trong quá trình lập kế hoạch nhóm. 3 bên có liên quan yêu cầu giám đốc dự án cung cấp một số thông tin về phương pháp quản lý dự án mới của công ty, phương pháp này lấy từ đâu và tại sao nó lại khác biệt với cách họ quản lý các dự án. 3 bên có liên quan đều là bạn của người quản lý dự án, toàn bộ nhóm dự án đều đã làm việc với nhau trong nhiều năm. Dự án sử dụng một vài điều khoản mới như “hành động hiệu chỉnh” (corective action), điều này làm cho một số bên có liên quan lo lắng, họ không chắc chắn nếu cách thức quản lý dự án sẽ thay đổi cùng với các điều khoản mới. người quản lý dự án nên làm gì?",
+    "choices": [
+      "Đưa ra lời khuyên cho các bên có liên quan rằng PM sẽ giữ lại các điều khoản này trong truyền thông trong dự án.",
+      "Cung cấp một danh sách các điều khoản mới và định nghĩa của nó ",
+      "Thông báo cho phòng quản lý dự án",
+      "Chắc chắn rằng PM sẽ duy trì thẩm quyền của mình như một người quản lý dự án, mặc dù PM và các bên có liên quan là bạn."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "12. Một PM đang quản lý dự án thứ 2 của mình. Dự án đã bắt đầu được 1 tháng sau khi dự án thứ nhất bắt đầu. dự án đầu tiên của PM này là một dự án nhỏ, tuy nhiên đang mở rộng từng ngày. Mỗi ngày trôi qua, người PM này bắt đầu cảm thấy cần sự giúp đỡ. Gần đây, anh ta đã nghe có tin rằng năm ngoái cũng có một dự án gần giống với dự án thứ 2 của anh ta. Anh ta nên làm gì?",
+    "choices": [
+      "Liên lạc với người PM của dự án kia và yêu cầu hỗ trợ ",
+      "Sử dụng bản ghi và hướng dẫn từ phòng quản lý dự án",
+      "Chờ đợi xem nếu dự án bị ảnh hưởng bởi sự mở rộng phạm vi dự án",
+      "Chắc chắn rằng phạm vi dự án phải được các bên có liên quan đồng ý và phê duyệt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. Dự án đang tiến hành tốt, ngoại trừ số lượng các thay đổi đã được tạo ra. Dự án được thực hiện và chia ra 7 ban khác nhau trong công ty và sẽ cải thiện đáng kể hiệu năng của các phòng ban này khi nó được thực hiện. có 14 quy trình quản lý dự án được lựa chọn để sử dụng trong dự án này. PM là một chuyên gia kĩ thuật và được training về truyền thông và quản lý nhân lực. điều nào dưới đây là nguyên nhân của vấn đề của dự án (số lượng các thay đổi)?",
+    "choices": [
+      "PM không đc huấn luyện để hiểu rõ môi trường công ty",
+      "Dự án nên được giám sát quản lý nhiều hơn để có kết quả tốt và đem lại lợi nhuận cho công ty",
+      "Dự án nên sử dụng thêm nhiều tiến trình quản lý dự án hơn ",
+      "Một vài bên liên quan chưa được xác định"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "14. Vòng đời dự án và vòng đời sản phẩm khác nhau. Trong vòng đời dự án có đặc điểm gì khác khi so sánh với vòng đời sản phẩm?",
+    "choices": [
+      "Không kết hợp phương pháp luận ",
+      "Là khác biệt trong từng ngành sản xuất khác nhau",
+      "Có thể sinh ra nhiều dự án khác nhau",
+      "Miêu tả các hành động quản lý dự án"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "15. Các bên có liên quan có thể được xác định trong quy trình nào của việc quản lý dự án ? ",
+    "choices": [
+      "Khởi tạo, lên kế hoạch, thực thi, kiểm soát và kết thúc dự án",
+      "Khởi tạo và lên kế hoạch",
+      "Lên kế hoạch và kiểm soát",
+      "Kiểm soát và kết thúc"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "16. Trong quản lý dự án, ta chỉ quản lý bởi mục tiêu làm việc khi nào? ",
+    "choices": [
+      "Được hỗ trợ quản lý (it’s supported by management)",
+      "Các luật được viết ra",
+      "Dự án không ảnh hưởng tới mục tiêu chung",
+      "Dự án bao gồm mục tiêu dự án trong tôn chỉ dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17. Người quản lý của bạn quyết định rằng tất cả các đơn hàng(orders) đều đc coi như trong dự án (treated as ‘project’) và người PM sẽ cập nhật các đơn hàng này hàng ngày, giải quyết các vấn đề và chắc chắn rằng khách hàng chính thức chấp nhận sản phẩm trong vòng 30 ngày. Doanh thu từ 1 đơn hàng riêng lẻ có thể dao động từ 100$ tới 150000$. PM không yêu cần phải lập kế hoạch và chỉ cần cung cấp trạng thái đơn hàng hàng ngày. Bạn xác định tình huống này như thế nào?",
+    "choices": [
+      "Do mỗi đơn hàng là một sự cố gắng tạm thời nên mỗi đơn hàng đều là một dự án",
+      "Đây là việc quản lý chương trình cho đến khi có nhiều dự án kéo theo ",
+      "Đây là công việc định kz(recurring process)",
+      "Doanh thu của các đơn hàng trên 100000$ sẽ được coi như một dự án và sẽ kéo theo các hoạt động quản lý dự án"
+    ],
+    "answer": 3
   }
 ]

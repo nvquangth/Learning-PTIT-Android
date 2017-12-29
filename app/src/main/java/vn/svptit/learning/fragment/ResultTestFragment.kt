@@ -3,7 +3,6 @@ package vn.svptit.learning.fragment
 import android.graphics.Color
 import android.os.Bundle
 import android.os.Handler
-import android.util.Log
 import android.view.View
 import com.quangnv.baseproject.fragment.BaseFragment
 import kotlinx.android.synthetic.main.fragment_test_result.*
@@ -58,7 +57,7 @@ class ResultTestFragment: BaseFragment() {
         chapterId = bundle.getInt(CHAPTER_TAG)
         subjectId = bundle.getString(SUBJECT_TAG)
         arrAnswer = IntArray(questionList.size)
-        arrAnswer = (parentFragment as ChapterDetailFragment2).arrAnswer
+        arrAnswer = (parentFragment as ChapterDetailFragment).arrAnswer
     }
 
     private fun setResult() {

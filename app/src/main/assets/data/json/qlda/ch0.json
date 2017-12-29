@@ -1,0 +1,3632 @@
+[
+  {
+    "question": "1. 4 giám đốc dự án(PM) ngồi ăn trưa với nhau và thảo luận về dự án của họ. phần lớn thời gian họ phàn nàn về việc quản lý và điều hành dự án khó khăn như thế nào. Một số lời phàn nàn là về các cổ đông và các thay đổi mà họ tạo ra cho dự án. Người khác thì phàn nàn về sự khó khăn trong việc thúc đẩy nhân viên hợp tác và làm việc. 1 người PM muốn tập trung vào tất cả các lợi ích của ma trận tổ chức mà họ đều làm ra. Anh ta sẽ đề cập tới vấn đề nào? ",
+    "choices": [
+      "Cải thiện quyền quản lý và kiểm soát nguồn lực của PM",
+      "Có hơn một người tham gia quản lý dự án",
+      "Truyền thông dễ dàng hơn",
+      "Báo cáo dễ dàng hơn."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. 2 PM vừa nhận ra họ đang ở trong một ma trận tổ chức yếu và quyền lực của họ trong vai trò là PM bị hạn chế. Một người nhận ra anh ta thật sự là người giải quyết công việc dự án (project expediter), người còn lại nhận ra rằng anh ta là điều phối viên của dự án (project coordinator). Vậy người tiến hành và điều phối viên của dự án khác nhau ntn? ",
+    "choices": [
+      "Người giải quyết công việc dự án không thể đưa ra các quyết định",
+      "Người giải quyết công việc dự án có thể đưa ra nhiều quyết định hơn điều phối viên dự án",
+      "Người giải quyết công việc báo cáo cho quản lý cấp cao hơn",
+      "Người giải quyết công việc có một số thẩm quyền riêng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "3. Trong một tổ chức hướng dự án (tổ chức trong đó k có các công việc thường nhật mà toàn là dự án), đội dự án có đặc điểm gì:",
+    "choices": [
+      "Báo cáo cho một vài thủ trưởng",
+      "Không có sự trung thành đối với dự án",
+      "Báo cáo với người quản lý có trách nhiệm và thẩm quyền (functional manager) ",
+      "Thường xuyên có mặt trong dự án, không có phòng ban chức năng(will not always have a home)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "4. Một PM đang cố gắng hoàn thành dự án phát triển phần mềm, nhưng không thể tập trung và quan tâm nhiều tới dự án. Nguồn nhân lực được tập trng vào hoàn thành các công việc liên quan tới các tiến trình sản xuất phần mềm, và PM có ít thẩm quyền để phân công nguồn lực một cách hợp lý. Loại hình tổ chức nào mà người PM này đang làm việc? ",
+    "choices": [
+      "Tổ chức bao gồm các phòng ban chức năng.",
+      "Ma trận. đối với tổ chức loại này, thành viên đội dự án phải báo cáo với 2 thủ trưởng: 1 là PM và quản lý bộ phận chức năng.",
+      "Tổ chức mà PM là người giải quyết công việc",
+      "Tổ chức mà PM là người điều hành"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "1. Trong giai đoạn (quy trình - process) nào của vòng đời dự án mà tài liệu ngân sách chi tiết được viết ra?",
+    "choices": [
+      "Khởi tạo",
+      "Trước quy trình quản lý dự án",
+      "Lập kế hoạch",
+      "Thực thi"
+    ],
+    "answer":3
+  },
+  {
+    "question": "2. Tôn chỉ dự án được viết ra trong giai đoạn nào của vòng đời dự án?",
+    "choices": [
+      "Thực thi",
+      "Lập kế hoạch",
+      "Kết thúc ",
+      "Khởi tạo"
+    ],
+    "answer":4
+  },
+  {
+    "question": "3. Đội dự án vừa hoàn thành lịch khởi tạo dự án (initial project schedule) và ngân sách dự án. Việc phải làm tiếp theo là:",
+    "choices": [
+      "Bắt đầu xác định rủi ro",
+      "Bắt đầu lặp lại hành động ",
+      "Xác định các yêu cầu truyền thông",
+      "Làm sơ đồ Gantt"
+    ],
+    "answer":3
+  },
+  {
+    "question": "4. Lịch làm việc chi tiết của dự án có thể được tạo ra sau khi đã có:",
+    "choices": [
+      "Ngân sách dự án ",
+      "Bảng phân rã công việc WBS",
+      "Kế hoạch quản lý dự án",
+      "Bảng đánh giá rủi ro chi tiết"
+    ],
+    "answer":2
+  },
+  {
+    "question": "5. Người nên được kiểm soát dự án trong quá trình lập kế hoạch dự án là: ",
+    "choices": [
+      "Người quản lý dự án PM",
+      "Nhân viên dự án",
+      "Giám đốc bộ phận chức năng",
+      "Nhà tài trợ"
+    ],
+    "answer":1
+  },
+  {
+    "question": "6. Trong giai đoạn khởi tạo dự án, văn bản nào dưới đây KHÔNG cần thiết:",
+    "choices": [
+      "Các quy trình của công ty",
+      "Văn hóa của công ty",
+      "Các bảng phân rã công việc đã có trước đó WBS ",
+      "Tuyên bố phạm vi dự án"
+    ],
+    "answer":4
+  },
+  {
+    "question": "7. Nhà tài trợ dự án vừa cung cấp bản tuyên bố phạm vi dự án sơ bộ. việc phải làm tiếp theo là:",
+    "choices": [
+      "Bắt đầu hoàn thành gói công việc",
+      "Hoàn thành phê chuẩn phạm vi dự án",
+      "Bắt đầu kết hợp điều khiển thay đổi",
+      "Bắt đầu tạo ra các kế hoạch quản lý"
+    ],
+    "answer":4
+  },
+  {
+    "question": "8. Các ràng buộc về lịch trình dự án mức cao được xác định trong giai đoạn nào? ",
+    "choices": [
+      "Khởi tạo",
+      "Lập kế hoạch",
+      "Thực thi",
+      "Kiểm soát"
+    ],
+    "answer":1
+  },
+  {
+    "question": "9. Bảng phân rã công việc WBS và từ điển WBS đều được hoàn thành. Đội dự án bắt đầu xác định các rủi ro. Nhà tài trợ liên lạc với PM để yêu cầu làm ma trận trách nhiệm. dự án có ngân sách là 100000$ với 14 nhân lực đến từ 3 quốc gia. Dự án có một rủi ro nhỏ và PM đã quản lý rất nhiều dự án giống dự án này. Việc phải làm tiếp theo là:",
+    "choices": [
+      "Hiểu rõ kinh nghiệm của nhà tài trợ trong các dự án trước ",
+      "Tạo ra danh sách hoạt động (activity list)",
+      "Chắc chắn rằng phạm vi dự án đã được xác định",
+      "Hoàn thành quản lý rủi ro và ma trận trách nhiệm"
+    ],
+    "answer":2
+  },
+  {
+    "question": "10. Một PM không có nhiều thời gian để lên kế hoạch trước khi ngày bắt buộc khởi động dự án đang tới. Do đó anh ta muốn lập kế hoạch hiệu quả nhất có thể. Anh ta nên làm gì?",
+    "choices": [
+      "Chắc chắn nên có tuyên bố phạm vi dự án sơ bộ đã hoàn thành và sau đó tiến hành làm WBS ",
+      "Tạo danh sách hoạt động trước khi tạo ra sơ đồ mạng",
+      "Có tài liệu về các rủi ro đã biết trước khi làm các giả thuyết và ước tính sâu hơn",
+      "Hoàn thiện kế hoạch quản lý chất lượng trước khi quyết định đơn vị đo chất lượng"
+    ],
+    "answer":2
+  },
+  {
+    "question": "11. PM chắc chắn rằng sản phẩm của dự án phải hoàn thiện theo kế hoạch quản lý dự án. Anh ta đang ở giai đoạn nào của dự án?",
+    "choices": [
+      "Lên kế hoạch",
+      "Thực thu",
+      "Kiểm soát",
+      "Kết thúc"
+    ],
+    "answer":4
+  },
+  {
+    "question": "12. Một PM nhận đc cuộc gọi từ nhân viên dự án, thông báo rằng đã có sự khác nhau giữa tốc độ của một hệ thống trong dự án và tốc độ đề ra. PM ngạc nhiên bởi vì quản lý hiệu năng không được xác định trong giai đoạn lập kế hoạch. Nếu PM sau đó có thể ước tính đc khi nào sẽ có phản hồi của sự khác nhau này, thì anh ta đang ở giai đoạn nào của quản lý dự án?",
+    "choices": [
+      "Khởi tạo",
+      "Thực thi ",
+      "Kiểm soát",
+      "Kết thúc"
+    ],
+    "answer":3
+  },
+  {
+    "question": "13. Một nhân viên dự án thông báo cho PM rằng hoạt động bao gồm một gói công việc hiện nay không còn thích hợp nữa. điều này là tốt nhất cho PM khi anh ta đang ở trong một phần nào của giai đoạn phát triển dự án?",
+    "choices": [
+      "Hành động hiệu chỉnh",
+      "Kết hợp điều khiển thay đổi ",
+      "Kiểm soát",
+      "Kết thúc dự án"
+    ],
+    "answer":3
+  },
+  {
+    "question": "14. Trong buổi họp đội dự án, một nhân viên dự án hỏi về đơn vị đo đạc nào được sử dụng trong dự án để kiểm soát hiệu năng. nhân viên này cảm thấy một vài thước đo có liên quan tới công việc của anh ta đang không chính xác. Dự án đc xem xét tốt nhất trong phần nào của giai đoạn phát triển dự án?",
+    "choices": [
+      "Kết thúc",
+      "Kiểm soát ",
+      "Thực thi",
+      "Khởi tạo"
+    ],
+    "answer":3
+  },
+  {
+    "question": "15. Trong khi hoàn thành gói công việc, nhà tài trợ yêu cầu PM báo cáo dự án đang đc diễn tiến ntn. Trong quá trình chuẩn bị báo cáo, PM yêu cầu tất cả nhân viên dự án họ đã làm đc bao nhiêu % công việc của mình. Có một nhân viên rất khó khăn trong việc quản lý từ đầu. khi trả lời câu hỏicủa PM, anh ta nói rằng chưa hoàn thành gì cả. Mệt mỏi vì đc trả lời như vậy, PM báo cáo với thủ trưởng của đội dự án là các nhân viên không có tinh thần hợp tác. Vấn đề thật sự ở đây là gì?",
+    "choices": [
+      "PM không có đủ nguồn lực cho dự án",
+      "PM không tạo ra hệ thống tưởng thưởng xứng đáng cho nhân viên để nâng cao tinh thần hợp tác của họ",
+      "PM nên có buổi họp với thủ trưởng của đội dự án khi lần đầu tiên nhân viên dự án có vấn đề ",
+      "PM không có gói công việc"
+    ],
+    "answer":4
+  },
+  {
+    "question": "1. Sự kết hợp hiệu quả (effective project integration) thường yêu cầu phải nhấn mạnh vào:",
+    "choices": [
+      "Sự nghiệp cá nhân của mỗi thành viên dự án",
+      "Cập nhật liên tục kế hoạch quản lý dự án ",
+      "Truyền thông hiệu quả được xem như công cụ giao tiếp chính",
+      "Kiểm soát sản phẩm"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "2. Sự cần thiết của……… là một trong những hiệu quả mạnh mẽ chính cho việc truyền thông trong dự án:",
+    "choices": [
+      "Tối ưu hóa",
+      "Toàn vẹn ",
+      "Tích hợp, kết hợp",
+      "Sự khác biệt"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. Mô tả nào dưới đây là chính xác nhất về việc sử dụng các thông tin lịch sử từ các dự án đã có:",
+    "choices": [
+      "Ước lượng, vòng đời chi phí (life cycle costing) và lên kế hoạch dự án",
+      "Quản lý rủi ro, ước lượng và rút ra bài học",
+      "Lên kế hoạch quản lý dự án, ước lượng và lập báo cáo trạng thái ",
+      "Ước lượng, quản lý rủi ro và lên kế hoạch dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "4. Khi có sự thay đổi, PM tốt nhất nên hướng sự tập trung của mình vào:",
+    "choices": [
+      "Tạo thay đổi",
+      "Theo dõi và ghi lại các thay đổi",
+      "Thông báo với nhà tài trợ về các thay đổi ",
+      "Ngăn chặn các thay đổi không cần thiết"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "5. Vai trò của nhà tài trợ trong dự án là:",
+    "choices": [
+      "Giúp đỡ cho công việc lên kế hoạch ",
+      "Giúp đỡ ngăn chặn các thay đổi không cần thiết đối với mục tiêu dự án",
+      "Xác định các ràng buộc không cần thiết trong dự án",
+      "Giúp kế hoạch quản lý dự án thực hiện tốt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "6. Điều nào KHÔNG phải là một thành phần của hệ thống kiểm soát thay đổi hiệu quả?",
+    "choices": [
+      "Các thủ tục",
+      "Các tiêu chuẩn cho báo cáo",
+      "Các buổi họp ",
+      "Các bài học rút ra"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "7. Một hệ thống cấp phép đc dùng để làm gì?",
+    "choices": [
+      "Quản lý mỗi công việc sẽ được ai làm ",
+      "Quản lý thời gian làm việc và chuỗi công việc nào đc làm",
+      "Quản lý mỗi công việc sẽ đc làm xong tại thời điểm nào",
+      "Quản lý ai mỗi công việc sẽ đc ai làm và bao giờ hoàn thành"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "8. Một dự án bị yêu cầu thay đổi trong tôn chỉ dự án. Ai có trách nhiệm chính để quyết định nếu như các thay đổi này là cần thiết?",
+    "choices": [
+      "Người quản lý dự án PM",
+      "Đội dự án ",
+      "Nhà tài trợ",
+      "Các bên có liên quan"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "9. Ai thực hiện việc tích hợp dự án? ",
+    "choices": [
+      "Người quản lý dự án PM",
+      "Đội dự án",
+      "Nhà tài trợ",
+      "Các bên có liên quan"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. Điều nào dưới đây mô tả đúng nhất vai trò của PM như một người kết hợp dự án (integrator)",
+    "choices": [
+      "Giúp đội dự án quen với dự án ",
+      "Đặt tất cả các phần của dự án vào một chỉnh thể liên kết",
+      "Đặt tất cả các phần của dự án vào một chương trình",
+      "Làm cho tất cả các thành viên dự án làm việc cùng nhau trong một chỉnh thể liên kết"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "11. Việc phê chuẩn các hành động hiệu chỉnh là đầu vào của (đc thực hiện trước)",
+    "choices": [
+      "Kiểm soát phạm vi và thẩm tra phạm vi (scope verification) ",
+      "Trực tiếp và thi hành quản lý dự án và kiểm soát tích hợp thay đổi",
+      "Phát triển kế hoạch dự án và phát triển tôn chỉ dự án",
+      "Phát triển kế hoạch dự án và lên lịch cho việc phát triển"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "12. Một bên có liên quan đặc biệt có tiếng trong việc tạo ra thay đổi trong dự án. Cách PM tiếp cận với bên có liên quan này tại thời điểm bắt đầu dự án nào là tốt nhất trong tình huống này?",
+    "choices": [
+      "Nói không với anh ta 1 vài lần để khuyên ngăn anh ta tạo ra nhiều thay đổi ",
+      "Kéo anh ta vào dự án càng sớm càng tốt",
+      "Nói chuyện với thủ trưởng của anh ta để tìm cách đưa anh ta sang 1 dự án khác",
+      "Nói với anh ta không nên tham gia vào các bên có liên quan của dự án này."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. Bạn là 1 PM mới chưa có kinh nghiệm gì. Bạn được yêu cầu lên kế hoạch cho một dự án mới. trong tình huống này, trong quá trình lập kế hoạch, tốt nhất bạn nên dựa vào gì để có cơ hội thành công?",
+    "choices": [
+      "Trực giác và hiểu biết cá nhân",
+      "Phân tích của các bên có liên quan ",
+      "Thông tin lịch sử từ các dự án đã có",
+      "Quản lý cấu hình"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "14. Điều nào dưới đây mô tả đúng nhất về kế hoạch quản lý dự án?",
+    "choices": [
+      "Một bản in từ phần mềm quản lý dự án",
+      "Một biểu đồ đoạn (a bar chart) ",
+      "Quản lý rủi ro, nhân viên, quy trình cải thiện và các kế hoạch quản lý khác",
+      "Phạm vi dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "15. You are taking over a project and determine the following: activity B has an early finish(EF) of day 3, a late finish(LF) of day 6, and an early start(ES) of day 2. Activity L is being done by a hard-to-get resource. The cost performance index (CPI) is 1.1 and the schedule performance index(SPI) is 0.8. based on this information what would you be more concerned about?",
+    "choices": [
+      "Float",
+      "Resources",
+      "Cost ",
+      "Schedule"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "16. Người PM trước của dự án của bạn đã quản lý dự án mà không có tổ chức dự án. Có sự thiếu hụt trong kiểm soát quản lý và không có sản phẩm chuyển giao nào đc xác định rõ. Lựa chọn nào dưới đây là tốt nhất cho bạn để tổ chức dự án tốt hơn?",
+    "choices": [
+      "Thông qua cách tiếp cận vòng đời dự án vào dự án của mình",
+      "Xây dựng các bài học thu được qua mỗi giai đoạn phát triển dự án",
+      "Xây dựng các kế hoạch công việc cụ thể cho từng gói công việc",
+      "Xây dựng bản mô tả sản phẩm của dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17. Bạn đang kiểm soát dự án trong giai đoạn lên kế hoạch và phát hiện ra có 6 cá nhân đã ký vào tôn chỉ dự án. Điều nào dưới đây có liên quan nhất với bạn?",
+    "choices": [
+      "Ai sẽ là thành viên của ban kiểm soát thay đổi ",
+      "Dùng nhiều thời gian hơn để quản lý cấu hình",
+      "Có một nhà tài trợ dự án riêng",
+      "Xác định cấu trúc báo cáo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "18. Tôn chỉ dự án cho một dự án của được phê chuẩn để lê kế hoạch và bạn vừa đc phân công là PM. Nhận ra rằng lên kế hoạch dự án là nỗ lực xuyên suốt dự án, việc nào sau đây bạn nên kết hợp nhất? ",
+    "choices": [
+      "Tạo bảng WBS và định nghĩa hành động",
+      "Ước tính thời gian hành động và xây dựng lịch làm việc",
+      "Lên kế hoạch nhân sự và ước tính chi phí",
+      "Ước tính chi phí và tính toán ngân sách"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "19. Tất cả các điều dưới đây đều là một phần của quản lý và thực thi quản lý dự án, ngoại trừ:",
+    "choices": [
+      "Xác định các thay đổi",
+      "Sử dụng bảng WBS",
+      "Thực hiện các hành động hiệu chỉnh ",
+      "Xây dựng một hệ thống kiểm soát dự án."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "20. Một PM được trang bị để lãnh đạo một dự án kỹ thuật cao trong khu vực với những người ít thông thạo về lĩnh vực này. PM ủy quyền xây dựng lịch làm việc, ước tính chi phí, lựa chọn hành động và phân công hành động cho nhiều thành viên trong đội dự án, và chỉ làm việc như người xem xét và điều phối các hoạt động của dự án. Kết quả của cách tiếp cận này giống như:",
+    "choices": [
+      "Một đội chức năng suốt toàn bộ dự án ở mức độ cao, là điển hình của sự sáng tạo và trách nhiệm",
+      "Một đội hỗn loạn lúc ban đầu, nhưng sau đó sẽ trở nên gắn kết và làm việc hiệu quả",
+      "Một đội không thực sự có hiệu quả, nhưng luôn làm việc cùng nhau do môi trường làm việc mà PM đem lại ",
+      "Một đội có hiệu năng thấp, nhuệ khí thấp, dễ xung đột và tốc độ thay thế nhân viên cao"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "21. Bạn đang trong quá trình thực hiện các thay đổi quan trọng cho một sản phẩm đã có, khi bạn biết rằng nguồn lực đã hứa vào lúc khởi động dự án hiện tại đang không có thì điều tốt nhất bạn nên làm là gì?",
+    "choices": [
+      "Chỉ ra làm thế nào mà các nguồn lực đã được cam kết cho dự án của bạn lúc ban đầu",
+      "Lập lại kế hoạch dự án mà không có các nguồn lực đó ",
+      "Giải thích, trình bày ảnh hưởng nếu nguồn nhân lực đã cam kết không có.",
+      "Phá dự án, k làm nữa"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "22. Bạn đc phân công để quản lý việc phát triển của website đầu tiên của một tổ chức. website này sẽ rất phức tạp và có tính tương tác cao, và đội dự án của bạn cũng như khách hàng chưa có kinh nghiệm gì trong việc phát triển website. Thời hạn bàn giao sản phẩm rất gấp gáp. Bất kz một sự chậm trễ nào sẽ tiêu tốn $ của công ty bạn cũng như khách hàng. Bạn có một nhà tài trợ dự án và có bản hợp đồng bàn giao, tôn chỉ dự án và kế hoạch quản lý dự án đều đã có chữ ký. Bên phía khách hàng đã giữ lại đầy đủ các thông báo của quá trình thực hiện dự án thông qua báo cáo trạng thái và biên bản họp. dự án đang trong đúng lịch trình, trong ngân sách và việc xem xét lại cuối cùng(chỉ mang tính hình thức) cũng đã đc lên lịch. Đột nhiên, bạn nghe rằng toàn bộ nỗ lực có thể bị hủy bởi vì sản phẩm đang phát triển là hoàn toàn không đc chấp nhận. điều gì là nguyên nhân của vấn đề này? ",
+    "choices": [
+      "Một bên có liên quan không được liên quan thỏa đáng trong dự án(not adequately involved)",
+      "Tôn chỉ dự án và kế hoạch dự án không đc giải thích kỹ lưỡng hoặc không được xem xét lại một cách đầy đủ từ phía khách hàng",
+      "Hợp đồng truyền thông không đầy đủ và không cung cấp các thông tin yêu cầu cho các bên có liên quan",
+      "Nhà tài trợ dự án không cung cấp đầy đủ cho dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "23. PM nhận đc 1 thay đổi từ khách hàng và thay đổi này không ảnh hưởng tới lịch hoạt động của dự án và dễ dàng để hoàn thành. PM nên làm gì đầu tiên?",
+    "choices": [
+      "Thực hiện thay đổi càng sớm càng tốt",
+      "Liên lạc với nhà tài trợ để đc sự cho phép",
+      "Liên lạc với ban kiểm soát thay đổi ",
+      "Ước tính các thành phần khác trong tam giác ràng buộc."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "24. Công ty của bạn vừa trúng thầu một dự án lớn. dự án sẽ bắt đầu trong vòng 3 tháng và có trị giá 2000000$. Bạn đang là PM của một dự án đã có. Điều đầu tiên bạn nên làm là gì sau khi nghe tin về dự án mới?",
+    "choices": [
+      "Hỏi ban điều hành công ty về nguồn nhân lực mà dự án mới sẽ sử dụng",
+      "Nâng mức nguồn lực cho dự án của bạn",
+      "Dừng, phá bỏ dự án của bạn(crash your project) ",
+      "Hỏi ban điều hành công ty xem dự án mới có ảnh hưởng tới dự án của bạn hay ko"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "25. Bạn là PM vừa đc phân công để kiểm soát một dự án(người PM cũ của dự án này vừa rời khỏi công ty). Người PM cũ nói với bạn rằng dự án đang trong đúng lịch trình, nhưng chỉ khi anh ta thúc giục liên tục các nhân viên làm việc. điều đầu tiên bạn sẽ làm trong cương vị 1 PM mới là:",
+    "choices": [
+      "Kiểm tra trạng thái rủi ro",
+      "Kiểm tra chi phí hiệu năng ",
+      "Xác định chiến lược quản lý",
+      "Nói với đội dự án về mục tiêu của bạn"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "26. Bạn đc phân công làm PM của một dự án đang đc thực hiện. dự án vẫn đang thực hiện trong ranh giới các ràng buộc, tuy nhiên khách hàng k hài lòng với hiệu năng của dự án. Điều đầu tiên bạn nên làm là gì?",
+    "choices": [
+      "Thảo luận vấn đề khách hàng đưa ra với đội dự án",
+      "Tính toán lại các ràng buộc (baseline)",
+      "Thương lượng lại hợp đồng ",
+      "Gặp khách hàng để trao đổi"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "27. Một PM biết được rằng các hành động hiệu chỉnh vừa đc 1 nhân viên dự án thực hiện, nhưng chưa đc ghi lại. người PM này nên làm gì tiếp theo?",
+    "choices": [
+      "Báo cáo vi phạm với giám đốc chức năng",
+      "Làm sáng tỏ lý do đằng sau hành động của nhân viên đó ",
+      "Thêm hành động hiệu chỉnh này vào bản ghi (historical record)",
+      "Tìm xem ai đã gây ra vấn đề này(ai đã thực hiện hiệu chỉnh)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "28. Yêu cầu của khách hàng thay đổi thông số của sản phẩm sẽ làm thời gian thực hiện dự án tăng thêm 2 tuần. người PM nên làm gì?",
+    "choices": [
+      "Dồn lịch thực hiện để hoàn thành đúng thời hạn (recover the 2 weeks)",
+      "Cắt giảm phạm vi để hoàn thành đúng hạn, bù lại 2 tuần thêm vào ",
+      "Tham khảo ý kiến nhà tài trợ trước khi có bất kz hành động nào",
+      "Hỏi ý kiến (or khuyên bảo - advise) khách hàng về ảnh hưởng của sự thay đổi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "29. Trong quá trình thực thi dự án, PM xác định có một thay đổi về nguyên vật liệu cho dự án là cần thiết. PM triệu tập 1 cuộc họp để lên kế hoạch thực hiện thay đổi này. Đây là một ví dụ về:",
+    "choices": [
+      "Quản lý bằng mục tiêu ",
+      "Sự thiếu hụt hệ thống kiểm soát thay đổi",
+      "Quan hệ giữa các thành viên dự án đc đánh giá tốt",
+      "Sự thiếu hụt một bảng WBS rõ ràng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "30. Dự án đang phát triển tốt khi tất cả các thay đổi bất ngờ từ các bên có liên quan. Sau khi các thay đổi đã đc xác định, PM dành thời gian với tất cả các bên có liên quan để tìm ra tại sao lại có thay đổi và xem xét có thêm thay đổi nữa hay ko. Công việc dự án tạm lắng xuống khi một nhân viên tình cờ đề cập với PM rằng anh ta đã thêm chức năng vào sản phẩm của dự án mà không làm ảnh hưởng tới thời gian, chi phí hay chất lượng của dự án. PM nên làm gì đầu tiên?",
+    "choices": [
+      "Hỏi nhân viên đó làm thế nào để xác định sự cần thiết của chức năng này",
+      "Tổ chức họp để xem xét lại công việc đã hoàn thành của nhân viên này",
+      "Tìm kiếm các chức năng thêm vào khác ",
+      "Hỏi nhân viên đó làm thế nào anh ta biết đc rằng không ảnh hưởng tới thời gian, chi phí hay chất lượng của dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "31. Một PM đang quản lý một hợp đồng có giá sẵn (fixed price contract). Cô ấy nghĩ rằng một thay đổi lớn từ yêu cầu của khách hàng sẽ ảnh hưởng tới lịch trình dự án. Cô ấy nên làm gì đầu tiên?",
+    "choices": [
+      "Gặp các bên có liên quan",
+      "Gặp đội dự án",
+      "Thương lượng lại về phần còn lại của hợp đồng ",
+      "Theo sau hệ thống kiểm soát thay đổi"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "32. Trong khi hoàn thành một dự án, một PM nhận ra rằng anh ta cần giảm bớt chi phí dự án. Sau khi nghiên cứu các lựa chọn của mình, anh ta thực hiện thay đổi dưới đây. Lựa chọn nào sẽ làm giảm chi phí dự án?",
+    "choices": [
+      "Thay đổi thành phần A từ thành phần B. thành phần A có chi phí cao hơn nhưng có vòng đời chi phí ít hơn B",
+      "Thay đổi nguồn lực C thành nguồn lực B để hoàn thành hành động A. nguồn lực B có nhiều nhân viên có kinh nghiệm hơn",
+      "Di chuyển hành động B và H để thực hiện cùng lúc, và chấp nhận tăng 30% rủi ro mà 5 nguồn lực cần thiết sẽ đc thêm vào sau đó ",
+      "Bỏ một kiểm tra từ kế hoạch quản lý dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "33. Dự án này đc tuyên bố (chartered?) để xác định cách thức mới để mở rộng vòng đời sản phẩm của một sản phẩm của công ty bậc trung. Người PM tới từ một ban kỹ thuật và đội dự án là từ ban sản phẩm và ban tiếp thị. Tuyên bố phạm vi dự án sơ bộ và kế hoạch dự án đã hoàn thành khi một bên có liên quan thông báo với đội dự án là: có một cách tốt hơn để hoàn thành một gói công việc. họ cung cấp văn bản xem xét kỹ thuật từ ban của họ, văn bản này chứng minh cách thức mới để hoàn thành công việc sẽ thực sự nhanh hơn cách thức cũ. PM đã từng có kinh nghiệm tương tự với phòng ban này trong dự án khác, và hi vọng là sẽ xảy ra trong dự án này. PM nên làm gì đầu tiên?",
+    "choices": [
+      "Liên hệ với phòng ban và phàn nàn về sự thiếu hụt thời hạn cuối cùng(deadline) cho đệ trình phạm vi(submission of scope) ",
+      "Tìm kiếm xem thay đổi về lịch trình này sẽ ảnh hưởng tới chi phí để hoàn thành gói dự án và chất lượng sản phẩm của gói dự án",
+      "Xem xét nếu có một cách để thay đổi từ môi trường ma trận từ một tổ chức chức năng để loại trừ tất cả các sự can thiệp từ các phòng ban khác",
+      "Hỏi phòng ban đó nếu họ có các thay đổi nào khác"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "34. Kết thúc hợp đồng và kết thúc quản lý giống nhau ở chỗ chúng đều có liên quan tới ",
+    "choices": [
+      "Xác minh, thẩm tra sản phẩm",
+      "Buổi họp khởi động dự án",
+      "Hoạt động quản lý chất lượng",
+      "Việc tạo ra kế hoạch xác minh phạm vi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Đầu ra của kết thúc quản lý là sự tạo ra:",
+    "choices": [
+      "Tài liệu lưu trữ của dự án",
+      "Tôn chỉ dự án",
+      "TKế hoạch quản lý dự án",
+      "Kế hoạch phân tích rủi ro"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "36. Tất cả các điều sau đều diễn ra trong khi kết thúc dự án, ngoại trừ:",
+    "choices": [
+      "Các bài học thu đc",
+      "Sự chấp nhận chính thức",
+      "Giảm sử dụng nguồn lực ",
+      "Phân tích lợi ích chi phí thực hiện"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "37. Dự án không đc hoàn thành trừ phi:",
+    "choices": [
+      "Phạm vi dự án đc hoàn thành, kết thúc việc quản lý đc hoàn thành và các hóa đơn đc thanh toán ",
+      "Có sự chấp nhận chính thức, và bất kz yêu cầu khác nào cho kết thúc dự án đã đc ghi rõ trong hợp đồng đều đc đáp ứng",
+      "Khách hàng hài lòng và hóa đơn cuối cùng đc thanh toán",
+      "Hoàn thiện các bài học rút ra."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "38. Bạn đang làm việc trong một dự án phát triển phần mềm mới và sử dụng hơn 230 nhân lực. cuối cùng, tất cả phạm vi đã hoàn thành. Điều nên làm bây giờ là (it’s would be best to)",
+    "choices": [
+      "Tổ chức một buổi tiệc cho đội dự án",
+      "Chắc chắn rằng dự án đc tích hợp với các dự án khác",
+      "Bắt đầu tập trung vào dự án riêng của bạn ",
+      "Phân tích xem dự án thành công hay thất bại."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "39. Tôn chỉ dự án bao gồm điều nào sau đây?",
+    "choices": [
+      "Xác định các rủi ro",
+      "Ước lượng các gói công việc",
+      "Ước lượng chi tiết các nguồn lực ",
+      "Yêu cầu về kinh doanh cho dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "40. Một PM đang cố gắng để thuyết phục ban lãnh đạo sử dụng quản lý dự án và quyết định bắt đầu cái thiện việc quản lý dự án của công ty bằng cách sử dụng tôn chỉ dự án. Điều nào dưới đây mô tả chính xác nhất tại sao tôn chỉ dự án có thể giúp PM này:",
+    "choices": [
+      "Tôn chỉ dự án mô tả chi tiết cần phải hoàn thành cái gì",
+      "Tôn chỉ dự án liệt kê tên của toàn bộ đội dự án ",
+      "Tôn chỉ dự án mang lại quyền lực cho PM",
+      "Tôn chỉ dự án mô tả lịch sử dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "41. Lập trình theo độ dài (linear programming) là một ví dụ của loại hình tiêu chuẩn lựa chọn dự án nào? ",
+    "choices": [
+      "Tối ưu hóa ràng buộc",
+      "Cách tiếp cận cạnh tranh",
+      "Thông số đo đạc lợi ích",
+      "Phân tích ảnh hưởng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "42. Bạn vừa làm xong tôn chỉ dự án nhưng chưa đc phê duyệt. quản lý của bạn và thủ trưởng của anh ta yêu cầu dự án phải bắt đầu ngay lập tức. Điều nào dưới đây là tốt nhất để thực hiện?",
+    "choices": [
+      "Xây dựng quy trình kiểm soát thay đổi tích hợp ",
+      "Chỉ ra cho quản lý của bạn biết ảnh hưởng của việc thi hành mà không đc phê duyệt",
+      "Tập trung vào hoàn thành dự án đã đc ký trong tôn chỉ dự án",
+      "Bắt đầu làm việc chỉ trong các chuỗi hành động then chốt"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "43. Phòng kỹ thuật vừa phát hiện ra một vấn đề với hệ thống tính toán chi phí và đã yêu cầu phòng hệ thống để phân tích điều gì sai và sửa chữa nó. Bạn là một PM đang làm việc với chương trình tính toán chi phí trong một dự án khác. Ban lãnh đạo đã xác định yêu cầu thay đổi đối với ban kiểm soát thay đổi là thêm vào dự án của bạn một công việc mới. dự án đã có của bạn có hiệu suất chi phí (CPI) là 1.2 và chỉ số thực hiện theo lịch (SPI) là 1.3 nên bạn cần thêm phòng để thêm công việc mà không làm chậm trễ dự án của bạn hay làm tăng chi phí của dự án này. Sau một vài phân tích, bạn xác định rằng công việc mới và công việc đã có không ảnh hưởng lẫn nhau và có thể làm đồng thời. 2 công việc yêu cầu các kỹ năng khác nhau. Điều tốt nhất nên làm là:",
+    "choices": [
+      "Tạo ra mục tiêu dự án và phát triển tuyên bố phạm vi dự án sơ bộ",
+      "Ước tính lại lịch trình dự án với đầu vào(input) từ phòng kỹ thuật",
+      "Thực hiện xác minh phạm vi đối với công việc mới với sự giúp đỡ của các bên có liên quan",
+      "Xác định các thay đổi cụ thể đối với công việc đã có"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "44. Toàn bộ các công việc kỹ thuật trong dự án đã hoàn thành. Điều nào phải hoàn thành tiếp?",
+    "choices": [
+      "Xác minh phạm vi",
+      "Kế hoạch phản ứng rủi ro",
+      "Kế hoạch quản lý nhân viên ",
+      "Các bài học rút ra"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "1. Một hệ thống đánh số của WBS cho phép các nhân viên dự án:",
+    "choices": [
+      "Ước tính chi phí một cách có hệ thống về các thành phần của WBS",
+      "Cung cấp sự chứng minh dự án (project justification) ",
+      "Xác định mức độ cho mỗi thành phần",
+      "Sử dụng nó trong phần mềm quản lý dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "2. WBS có thể đc suy nghĩ tốt nhất như một sự viện trợ hiệu quả cho truyền thông…….",
+    "choices": [
+      "Đội dự án",
+      "PM",
+      "Khách hàng",
+      "Các bên có liên quan"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "3. Điều nào dưới đây là thuộc tính chính của xác minh phạm vi?",
+    "choices": [
+      "Hoàn thành nhiều kế hoạch quản lý phạm vi dự án ",
+      "Sự chấp nhận của khách hàng về sản phẩm bàn giao của dự án",
+      "Sự cải thiện ước lượng lịch trình",
+      "Sự cải thiện của hệ thống thông tin quản lý dự án"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "4. Trong giai đoạn thực thi, một nhân viên dự án hỏi người PM do anh ta không chắc chắn mình phải thực hiện công việc nào trong dự án. Tài liệu nào dưới đây chứa bản mô tả chi tiết của các gói công việc? ",
+    "choices": [
+      "Từ điển WBS",
+      "Danh sách hoạt động",
+      "Tuyên bố phạm vi dự án sơ bộ",
+      "Kế hoạch quản lý phạm vi dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5. Tuyên bố phạm vi dự án đc tạo ra trong giai đoạn nào của dự án?",
+    "choices": [
+      "Khởi tạo ",
+      "Lên kế hoạch",
+      "Thực thi",
+      "Kiểm soát"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "6. Chương trình đc lên kế hoạch nhiều năm trước khi có một giới thiệu lớn của công nghệ mới. trong khi lên kế hoạch cho dự án mới để bắt đầu trong chương trình này, PM đã mở rộng kế hoạch quản lý phạm vi dự án do dự án trở nên phức tạp hơn. Mức độ không chắc chắn trong phạm vi là:",
+    "choices": [
+      "Không thay đổi",
+      "Giảm xuống",
+      "Giảm xuống sau đó tăng lên ",
+      "Tăng lên"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "7. Một kế hoạch quản lý dự án nên thực tế để sử dụng quản lý dự án. Phương pháp nào dưới đây là tốt nhất để có đc một kế hoạch quản lý dự án có tính thực tế?",
+    "choices": [
+      "Nhà tài trợ tạo ra kế hoạch quản lý dự án dựa vào đầu vào từ PM",
+      "Các giám đốc chức năng tạo ra kế hoạch quản lý dự án dựa vào đầu vào từ PM",
+      "PM tạo ra kế hoạch quản lý dự án dựa vào đầu vào từ nhà quản lý cấp cao ",
+      "PM tạo ra kế hoạch quản lý dự án dựa vào đầu vào từ đội dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "8. Một PM mới đc các chuyên gia quản lý dự án có kinh nghiệm cố vấn. anh ta thấy rằng thật khó để tìm đủ thời gian quản lý dự án do dự án và phạm vi sản phẩm đang ngày càng phức tạp. các chuyên gia đề cập tới các công cụ đơn giản cho quản lý dự án như WBS, có thể đc sử dụng trong quá trình thực hiện dự án để giúp đỡ việc quản lý. Vậy WBS dùng để làm gì? ",
+    "choices": [
+      "Truyền thông với khách hàng",
+      "Chỉ ra lịch và ngày cho mỗi gói công việc",
+      "Chỉ ra các giám đốc chức năng cho mỗi nhân viên dự án",
+      "Chỉ ra yêu cầu kinh doanh cho dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "9. Trong buổi họp với đội dự án, một nhân viên đề nghị tăng phạm vi to hơn phạm vi trong tôn chỉ dự án. PM chỉ ra rằng đội dự án cần tập trung vào hoàn thành tất cả công việc và chỉ công việc đc yêu cầu. đây là một ví dụ về:",
+    "choices": [
+      "Quy trình quản lý thay đổi ",
+      "Quản lý phạm vi",
+      "Phân tích chất lượng",
+      "Phân tích phạm vi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "10. Khi nào thì xác minh phạm vi nên đc hoàn thành:",
+    "choices": [
+      "Cuối dự án (at the end of project)",
+      "Đầu dự án (at the beginning of project) ",
+      "Ở cuối mỗi pha của dự án",
+      "Trong giai đoạn lập kế hoạch"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. Dự án đã gần như hoàn thành. Dự án có biến động về lịch trong là 300 và biến động chi phí là -900. Tất cả đã đc hoàn thành và đáp ứng yêu cầu chất lượng ngoại trừ việc giám định kiểm soát chất lượng. Tất cả các mục trong nhật ký vấn đề (issue log) đều đc giải quyết. Khá nhiều nguồn lực đã đc giải phóng. Nhà tài trợ tổ chức một buổi gặp mặt để xác minh sản phẩm khi khách hàng thông báo với PM rằng họ muốn một thay đổi chính đối với phạm vi dự án. PM nên làm gì?",
+    "choices": [
+      "Gặp đội dự án để xác định nếu thay đổi này có thể phải thực hiện ",
+      "Hỏi khách hàng về mô tả thay đổi này",
+      "Giải thích rằng thay đổi không thể thực hiện vào thời điểm này của dự án",
+      "Thông báo với ban lãnh đạo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "12. Bạn vừa tham gia vào phòng quản lý dự án sau 5 năm làm việc trong dự án. Một trong những điều bạn muốn giới thiệu với công ty là sự cần thiết của bảng WBS. Một vài PM đã tức giận do bạn đang đòi hỏi họ phải làm thêm việc. Điều nào dưới đây là tốt nhất khi bạn muốn thuyết phục họ sử dụng WBS? ",
+    "choices": [
+      "Nói với học rằng WBS sẽ ngăn chặn các công việc từ không tốt tới tốt (from slipping to the crack)",
+      "Nói với họ rằng WBS không cần thiết",
+      "Nói với họ rằng WBS là yêu cầu bắt buộc nếu dự án kéo theo những hợp đồng",
+      "Nói với họ rằng WBS là cách duy nhất để xác định rủi ro."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13. Một PM mới vừa xin bạn lời khuyên để tạo ra bảng WBS. Sau khi bạn giải thích quy trình cho anh ta, anh ta hỏi bạn rằng nên sử dụng phần mềm nào để lập bảng WBS và anh ta nên làm gì với nó khi anh ta hoàn thành. Bạn sẽ trả lời rằng bức hình (picture) không phải là kế quả giá trị nhất của việc tạo bảng WBS, đó là:",
+    "choices": [
+      "A bar chart (biểu đồ đoạn) ",
+      "Team buy-in",
+      "Các hoạt động",
+      "Một danh sách các rủi ro"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "14. Để quản lý dự án một cách hiệu quả, công việc nên đc chia nhỏ ra. Điều nào dưới đây KHÔNG mô tả cách chia công việc nhỏ tới mức nào?",
+    "choices": [
+      "Cho đến khi nó có kết thúc hợp lý",
+      "Cho đến khi không thể chia nhỏ hơn về mặt logic ",
+      "Cho đến khi công việc đc làm bởi 1 người",
+      "Cho đến khi nó có thể ước tính một cách thực tế"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "15. Một PM có thể sẽ sử dụng…………… để chắc chắn rằng đội dự án biết rõ công việc nào đc bao gồm trong mỗi gói công việc của họ?",
+    "choices": [
+      "Tuyên bố phạm vi dự án",
+      "Phạm vi sản phẩm ",
+      "Từ điển WBS",
+      "Lịch trình"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "16. Một PM vừa đc phân công cho 1 dự án mới và đc đưa cho tôn chỉ dự án và tuyên bố phạm vi dự án sơ bộ. Điều đầu tiên anh ta nên làm là gì?",
+    "choices": [
+      "Tạo ra tuyên bố phạm vi dự án ",
+      "Chắc chắn rằng tất cả các bên có liên quan đã có đầu vào trong phạm vi(có tham gia)",
+      "Phân tích rủi ro dự án",
+      "Bắt đầu thực hiện kế hoạch quản lý dự án"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "17. Pha xây dựng của một sản phẩm phần mềm mới sắp hoàn thành. Pha tiếp theo là kiểm thử và cài đặt(implementation). Theo lịch trình, dự án chỉ còn 2 tuần nữa. PM nên làm gì truwóc khi chuyển sang pha cuối cùng? ",
+    "choices": [
+      "Xác minh phạm vi",
+      "Kiểm soát chất lượng",
+      "Báo cáo hiệu năng",
+      "Kiểm soát chi phí"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "18. Bạn đang quản lý một dự án 6 tháng và tổ chức họp mặt 1 tuần 2 lần với các bên có liên quan tới dự án. Sau 5.5 tháng làm việc, dự án vẫn theo đúng lịch trình và ngân sách, nhưng các bên có liên quan ko hài lòng với sản phẩm thu đc. Tình huống này sẽ làm chậm 1 tháng để hoàn thành dự án. Quy trình quan trọng nhất để ngăn chặn tình huống này là:",
+    "choices": [
+      "Kiểm soát rủi ro",
+      "Kiểm soát lịch trình ",
+      "Lên kế hoạch phạm vi",
+      "Kiểm soát phạm vi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "19. Tất cả các điều dưới đây đều là một phần của đường chuẩn phạm vi (scope baseline) ngoại trừ: ",
+    "choices": [
+      "Kế hoạch quản lý phạm vi dự án",
+      "Tuyên bố phạm vi dự án",
+      "Bảng WBS",
+      "Từ điển WBS"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "20. Một trong các bên liên quan của dự án liên lạc với PM để thảo luận vài mở rộng về phạm vi mà họ muốn thêm vào dự án. PM hỏi về văn bản chi tiết và các hoạt động trong quy trình quản lý phạm vi. Khi phạm vi yêu cầu đã hoàn tất, PM nên làm gì tiếp theo?",
+    "choices": [
+      "Hỏi bên có liên quan nếu họ mong chờ thêm thay đổi ",
+      "Hoàn thành kiểm soát thay đổi tích hợp (integrated change control)",
+      "Chắc chắn rằng ảnh hưởng của thay đổi đã đc các bên có liên quan hiểu rõ",
+      "Tìm ra nguyên nhân gốc rễ tại sao phạm vi lại không đc khám phá ra trong khi lập kế hoạch dự án."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "1. Để quản lý lịch trình, một PM phân tích lại dự án để dự đoán trước thời gian thực hiện dự án. Cô ấy phân tích chuỗi hành động với độ linh hoạt lịch trình ít nhất, đây là kỹ thuật gì? ",
+    "choices": [
+      "Phương pháp đường tới hạn (critical path method)",
+      "Sơ đồ dòng (flowchart)",
+      "Sơ đồ ưu tiên",
+      "WBS"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. Một thành phần (or phụ thuộc - dependency) yêu cầu thiết kế phải hoàn thành trước khi sản xuất bắt đầu. Đây là ví dụ của:",
+    "choices": [
+      "Thành phần rời rạc",
+      "Thành phần ngoại cảnh ",
+      "Thành phần bắt buộc",
+      "Thành phần phạm vi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. Biểu đồ đoạn (bar charts) giải thích điều nào tốt hơn là sơ đồ mạng?",
+    "choices": [
+      "Quan hệ logic",
+      "Các đường then chốt",
+      "Cân bằng tài nguyên ",
+      "Quá trình hoặc trạng thái"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "4. Nếu ước tính lạc quan nhất(optimistic estimate) cho 1 hoạt động là 12 ngày, và ước tính bi quan nhất là 18 ngày, độ lệch tiêu chuẩn của hành động này là bn? ",
+    "choices": [
+      "1",
+      "1.3",
+      "6",
+      "3"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5. Phương pháp giải quyết vấn đề bằng cách đánh giá kinh nghiệm (heuristic) đc miêu tả tốt nhất là:",
+    "choices": [
+      "Một công cụ điều khiển",
+      "Phương pháp lên lịch trình",
+      "Công cụ lên kế hoạch ",
+      "Quy tắc tự đặt ra (rule of thumb)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "6. Độ trễ có nghĩa là gì (lag means)",
+    "choices": [
+      "Khối lượng thời gian một hành động có thể trễ mà không làm chậm tiến độ dự án",
+      "Khối lượng thời gian một hành động có thể trễ mà không làm chậm ngày bắt đầu của hành động tiếp theo ",
+      "Thời gian chờ đợi",
+      "Sản phẩm của 2 hướng thành công tiên tiến và lạc hậu??? (the product of a forward and backward pass)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "7. Công cụ quản lý dự án nào tốt nhất để xác định thời gian dài nhất thực hiện 1 dự án?",
+    "choices": [
+      "WBS ",
+      "Sơ đồ mạng",
+      "Biểu đồ đoạn (bar chart)",
+      "Tôn chỉ dự án"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "8. Điều nào dưới đây là đúng? ",
+    "choices": [
+      "Đường tới hạn có thể lướt qua a dummy(k biết nên dịch là cái gì ) a critical path can run over a dummy)",
+      "Chỉ có thể có 1 đg then chốt",
+      "Sơ đồ mạng sẽ thay đổi mỗi khi thời gian kết thúc dự án thay đổi",
+      "Một dự án không bao giờ có trễ tiêu cực (negative float?)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "9. Khoảng thời gian tồn tại của một điểm mốc là:",
+    "choices": [
+      "Ngắn hơn khoảng thời gian tồn tại của hoạt động dài ngày nhất",
+      "Ngắn hơn khoảng thời gian của hoạt động đại diện của nó ",
+      "Không có khoảng thời gian tồn tại",
+      "Có cùng khoảng thời gian tồn tại giống hoạt động đại diện của nó"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "10. Điều nào dưới đây mô tả tốt nhất về quan hệ giữa độ lệch tiêu chuẩn và rủi ro?",
+    "choices": [
+      "không có quan hệ gì cả",
+      "độ lệch tiêu chuẩn cho biết nếu ước tính là chính xác ",
+      "độ lệch tiêu chuẩn cho biết độ không chắc chắn của ước tính",
+      "độ lệch tiêu chuẩn cho biết nếu ước tính có bao gồm cả phần thêm(đệm vào - pad) vào"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. Phân tích Monte Carlo đc dùng để làm gì? ",
+    "choices": [
+      "Có đc các dấu hiệu của rủi ro kéo theo trong dự án",
+      "Ước tính độ dài của hoạt động",
+      "Mô phỏng thứ tự xảy ra của các hoạt động",
+      "Chứng minh cho ban lãnh đạo rằng cần thêm nhân viên dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "12. Độ trễ của một hoạt động đc quyết định bởi",
+    "choices": [
+      "Việc thực hiện phân tích Monte Carlo",
+      "Thời gian chờ đợi giữa các hoạt động",
+      "Độ trễ của việc quyết định ",
+      "Việc quyết định khối lượng thời gian một hoạt động có thể bị chậm lại bởi sự chậm trễ trong đường tới hạn"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "13. Một dự án có 3 đường tới hạn. Điều nào dưới đây mô tả đúng nhất ảnh hưởng của các đường tới hạn này tới dự án?",
+    "choices": [
+      "Làm cho dự án dễ quản lý hơn ",
+      "Làm gia tăng rủi ro của dự án",
+      "Yêu cầu nhiều nhân lực hơn",
+      "Làm dự án tốn kém hơn"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "14. Nếu thời gian và chi phí dự án không quan trọng như số lượng các nguồn lực sử dụng trong 1 tháng, việc tốt nhất để làm trong các việc dưới đây là:",
+    "choices": [
+      "Thực hiện phân tích Monte Carlo",
+      "Xúc tiến dự án (fast track the project) ",
+      "Thực hiện cân bằng nguồn tài nguyên",
+      "Phân tích vòng đời chi phí"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "15. Khi nào đồ thị điểm mốc(milestone chart) được sử dụng thay cho sơ đồ đoạn (bar chart)?",
+    "choices": [
+      "Lên kế hoạch dự án",
+      "Báo cáo với thành viên đội dự án ",
+      "Báo cáo với ban lãnh đạo",
+      "Phân tích rủi ro"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "16. Kế hoạch quản lý dự án của bạn làm lịch trình dự án khá tốn thời gian. Nếu sơ đồ mạng của dự án không thay đổi nhưng bạn có thêm các nguồn nhân lực, điều tốt nhất nên làm là:",
+    "choices": [
+      "Xúc tiến dự án",
+      "Cấp lại các nguồn lực ",
+      "Hủy dự án (crash)",
+      "Phân tích Monte Carlo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "17. Phương pháp sơ đồ ưu tiên khác với phương pháp sơ đồ mũi tên ở chỗ sơ đồ ưu tiên có đặc điểm:",
+    "choices": [
+      "Có thể sử dụng PERT ",
+      "Có 4 quan hệ giữa các hành động",
+      "Chỉ có quan hệ finish-to-finish (A F2F B tức là B không thể kết thúc trc khi A kết thúc)",
+      "Có thể sử dụng các hành động k đúng (dummy activities)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "18. Điều nào dưới đây là tốt nhất để thực hiện cố gắng hoàn thành một dự án trước 2 ngày?",
+    "choices": [
+      "Nói với nhà quản lý cấp cao rằng đường tới hạn của dự án không cho phép dự án hoàn thành trước hạn",
+      "Nói với thủ trưởng của bạn ",
+      "Gặp đội dự án và tìm kiếm lựa chọn để hủy hoặc xúc tiến dự án",
+      "Làm việc cật lực và nhìn vào trạng thái dự án trong tháng tới."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "19. Trong nỗ lực hoàn thành dự án trước hạn, PM tìm kiếm chi phí liên kết với việc hủy từng hoạt động. Cách tiếp cận tốt nhất để hủy hoạt động sẽ bao gồm tìm kiếm trong: ",
+    "choices": [
+      "Ảnh hưởng rủi ro của việc hủy từng hoạt động",
+      "Quan điểm của khách hàng đối với từng hoạt động bị hủy",
+      "Quan điểm của thủ trưởng về hoạt động nào bị hủy, hoạt động nào đc làm tiếp.",
+      "Các giai đoạn trong vòng đời dự án mà hoạt động đó xảy ra"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "20. Một PM đang cố gắng để sắp xếp tất cả các hành động trong dự án và đã xác định đc: hoạt động 1 có thể thực hiện ngay lập tức và ước tính sẽ kéo dài trong 1 tuần. Hoạt động 2 sẽ bắt đầu sau khi hoạt động 1 hoàn thành và ước tính kéo dài trong 4 tuần. Hoạt động 3 có thể bắt đầu sau khi hoạt động 2 hoàn thành và ước tính kéo dài trong 5 tuần. Hoạt động 4 có thể bắt đầu sau khi hoạt động 1 hoàn thành và ước tính kéo dài trong 8 tuần. Hoạt động 3 và 4 phải đc hoàn thành trước khi kết thúc dự án. Vậy đường tới hạncủa dự án này kéo dài trong bao lâu? ",
+    "choices": [
+      "10",
+      "11",
+      "14",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "21. Dựa vào dữ liệu của câu hỏi trên, nếu hoạt động 4 kéo dài trong 10 tuần, đường tới hạn của dự án sẽ kéo dài trong bao lâu?",
+    "choices": [
+      "10 ",
+      "11",
+      "14",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "22. Điều nào dưới đây bao gồm việc hỏi đội dự án về thời gian ước tính cho hoạt động của họ và có đc sự đồng ý (reaching agreement)trong lịch cho mỗi hoạt động?",
+    "choices": [
+      "Sắp xếp các hành động (activity sequencing) ",
+      "Xây dựng lịch trình",
+      "Định nghĩa phạm vi",
+      "Tạo ra tôn chỉ dự án"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "23. Một PM đang trong giai đoạn thực thi của một dự án xây dựng lớn khi anh khám phá ra thời gian cần thiết để hoàn thành dự án dài hơn thời gian hiện có. Điều tốt nhất nên làm là gì?",
+    "choices": [
+      "Cắt giảm phạm vi dự án",
+      "Gặp ban lãnh đạo và nói với họ rằng thời với hạn yêu cầu không thể hoàn thành kịp dự án.",
+      "Làm việc thêm ngoài giờ ",
+      "Xác định các lựa chọn để dồn lịch và giới thiệu chúng với ban lãnh đạo như một lựa chọn khuyến nghị."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "24. Trong khi lên kế hoạch dự án, bạn ước tính thời gian cần thiết cho mỗi hoạt động và thêm ước tính để tạo ra ước lượng dự án. Bạn cam kết hoàn thành dự án đúng hạn. Trong tình huống này, điều gì SAI?",
+    "choices": [
+      "Đội dự án không tạo ra ước tính và việc ước tính sẽ tốn thời gian nếu sử dụng phương pháp này ",
+      "Đội dự án không tạo ra ước tính và sơ đồ mạng k đc sử dụng",
+      "Ước tính quá tốt thời gian và nên đc ban lãnh đạo tạo ra",
+      "Ước lượng dự án nên giống với ngày yêu cầu hoàn thành của khách hàng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "25. Trong khi định nghĩa hoạt động, một nhân viên xác định rằng 1 hoạt động cần đc thực hiện. Tuy nhiên, 1 nhân viên khác tin rằng hoạt động đó không phải là 1 phần của dự án như anh ta hiểu trong tuyên bố phạm vi dự án. PM tốt nhất nên làm gì?",
+    "choices": [
+      "Cố gắng xây dựng sự đồng thuận trong đội dự án",
+      "Thực hiện quyết định cá nhân ",
+      "Hỏi nhà tài trợ về thông tin chi tiết",
+      "Hỏi quản lý cấp cao về thông tin chi tiết"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "26. Bạn là 1 PM ở Mỹ, phát triển dự án phần mềm 5,000,000$. Trong khi làm việc với đội dự án để xây dựng sơ đồ mạng, bạn chú ý một chuỗi các hoạt động có thể đc thực hiện song song nhưng phải hoàn thành trong một thứ tụ riêng biệt. Loại hoạt động nào của phương pháp sắp xếp thứ tự hoạt động đc yêu cầu cho những hoạt động này? ",
+    "choices": [
+      "Phương pháp sơ đồ ưu tiên",
+      "Phương pháp sơ đồ mũi tên",
+      "Phương pháp đường tới hạn",
+      "Phương pháo sơ đồ toán tử"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "27. Bạn là 1 PM ở Mỹ, phát triển dự án phần mềm 5,000,000$. Trong khi làm việc với đội dự án để xây dựng sơ đồ mạng, dữ liệu xây dựng của bạn cho thấy chất lượng có thể dc cải thiện nếu mô hình dữ liệu đc quản lý cấp cao phê chuẩn trước khi chuyển sang thành phần thiết kế khác. Họ hỗ trợ đề nghị này với một bài báo từ một tạp chí phần mềm hàng đầu. Mô tả nào dưới đây là tốt nhất với loại đầu vào này? (với loại hỗ trợ này)",
+    "choices": [
+      "Phụ thuộc (or thành phần - dependency) bắt buộc ",
+      "Phụ thuộc tùy ý",
+      "Phụ thuộc ngoại cảnh",
+      "Heuristic – phương pháp đánh giá kinh nghiệm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "28. Dựa vào bảng sau, nếu bạn cần làm ngắn thời gian thực hiện dự án, bạn sẽ giảm thời gian cho hoạt động nào?",
+    "choices": [
+      "Hoạt động Start-B",
+      "Hoạt động A-D ",
+      "Hoạt động E-End",
+      "Hoạt động C-E"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "29. Bạn có một dự án với các hoạt động sau: hoạt động A kéo dài 40 giờ và có thể bắt đầu sau khi bắt đầu dự án. Hoạt động B kéo dài 25 giờ và nên bắt đầu sau khi bắt đầu dự án. Hoạt động C phải bắt đầu sau khi hoạt động A và kéo dài trong 35 giờ. Hoạt động D phải bắt đầu sau hoạt động B và C và kéo dài 30 giờ. Hoạt động E phải bắt đầu sau hoạt động C và kéo dài 10 giờ. Hoạt động F và D là các hoạt động cuối cùng của dự án. Điều nào dưới đây là đúng nếu hoạt động B thực sự kéo dài trong 37 giờ?",
+    "choices": [
+      "Đường tới hạn là 67 giờ",
+      "Đường tới hạn thay đổi: Start, B, D, End ",
+      "Đường tới hạn thay đổi thành Start, A, C, E, F, End",
+      "Đường tới hạn tăng lên 12h"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "30. Một PM vừa nhận được ước tính thời gian hoạt động từ đội dự án. Anh ta cần điều nào dưới đây để hoàn thành xây dựng lịch trình?",
+    "choices": [
+      "Thay đổi các yêu cầu",
+      "Hệ thống kiểm soát thay đổi lịch trình",
+      "Đề nghị các hành động hiệu chỉnh ",
+      "Thời gian dự trù"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "31. Một PM đang kiểm soát một dự án từ một PM khác trong giai đoạn lập kế hoạch. Nếu PM mới muốn xem kế hoạch của ng PM cũ để quản lý thay đổi lịch trình, tốt nhất nên xem xét văn bản nào?",
+    "choices": [
+      "Kế hoạch quản lý truyền thông",
+      "Kế hoạch quản lý dự án",
+      "Kế hoạch quản lý nhân lực ",
+      "Kế hoạch quản lý lịch trình, thời gian"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "32. Một PM đang sử dụng ước tính thời gian trung bình có điều chỉnh để thực hiện phân tích lịch trình mạng. Loại hình phân tích toán học nào đc sử dụng?",
+    "choices": [
+      "Phương pháp đường tới hạn ",
+      "PERT",
+      "Monte Carlo",
+      "Cân bằng nguồn lực"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "33. WBS, ước tính cho từng gói công việc, và sơ đồ mạng đều đã hoàn thành. Người PM nên làm gì tiếp theo?",
+    "choices": [
+      "Sắp xếp các hành động",
+      "Xác minh rằng phạm vi chuẩn đã có (verify that they have the correct scope) ",
+      "Tạo ra lịch trình sơ bộ và lấy phê chuẩn từ đội dự án",
+      "Hoàn thành quản lý rủi ro"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "34. Một dự án phát triển sản phẩm mới có 4 cấp (level) trong bảng WBS và dc xếp chuỗi sử dụng phương pháp sơ đồ mũi tên. Ước tính thời gian hoạt động đã có. Điều tiếp theo nên làm là gì?",
+    "choices": [
+      "Tạo ra danh sách hành động",
+      "Bắt đầu làm bảng WBS",
+      "Hoàn thành lịch trình ",
+      "Nén lịch trình (compress)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "35. Bạn là một PM cho một dự án phát triển sản phẩm mới có 4 cấp trong bảng WBS, và được sắp xếp bằng phương pháp sơ đồ mũi tên. Ước tính thời gian đã được nén và một lịch trình đã đc tạo ra. Hành động quản lý thời gian nào nên đc làm tiếp theo?",
+    "choices": [
+      "Bắt đầu kiểm soát lịch trình",
+      "Bắt đầu ước tính nguồn lực hành động (activity resource estimating)",
+      "Ước tính tương tự lịch trình ",
+      "Có đc sự phê chuẩn"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "36. Một nhân viên từ phòng nghiên cứu phát triển nói với bạn rằng công việc của cô ấy quá sáng tạo để cung cấp cho bạn một ước tính riêng có sẵn cho hoạt động. bạn phải quyết định sử dụng giờ lao động từ dự án trước để dự đoán cho tương lai. Đây là một ví dụ về: ",
+    "choices": [
+      "Ước tính thông số",
+      "Ước tính 3 điểm (three point)",
+      "Ước tính tương tự",
+      "Phân tích Monte Carlo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "37. An activity has an early start(ES) of day 3, a late start (LS) of day 13, an early finish(EF) of day 9, and a late finish(LF) of day 19. The activity:",
+    "choices": [
+      "Is on the critical path(đường tới hạn)",
+      "Has a lag",
+      "Is progressing well ",
+      "Is not on the critical path"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "38. Dự án đc tính toán để hoàn thành 4 ngày sau ngày hoàn thành mong đợi (desired completion date). Bạn không có nguồn lực nào khác. Dự án có rủi ro thấp, tỷ lệ chi phí có lợi (benefit cost ratio) đc mong đợi là 1.6 và các phụ thuộc đc ưu tiên. Trong tình huống này, điều tốt nhất nên làm là gì?",
+    "choices": [
+      "Cắt giảm nguồn lực từ một hoạt động ",
+      "Thực hiện nhiều hoạt động đồng thời",
+      "Di chuyển nguồn lực từ phụ thuộc đc ưu tiên sang các phụ thuộc khác",
+      "Bỏ một hoạt động ra khỏi dự án"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "39. Một PM của một công ty xây dựng nhỏ có một dự án với chi phí là 130000$ với thời hạn hơn 6 tuần. Theo lịch của cô ấy, dự án nên có chi phí 60000$ đến bây giờ. Tuy nhiên, hiện tại dự án đã chi ra 90000$. Dự án đang đi chậm lịch trình do ước tính gốc không đúng. Ai sẽ có trách nhiệm chính để giải quyết vấn đề này? ",
+    "choices": [
+      "PM",
+      "Nhà quản lý cấp cao",
+      "Nhà tài trợ dự án",
+      "Quản lý của ban quản lý dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "40. Tổ chức của bạn có một thời gian khó khăn trong quản lý toàn bộ các dự án. Bạn dc đề nghị để giúp nhà quản lý cấp cao hiểu vấn đề này. Loại báo cáo nào sẽ giúp công cấp thông tin tóm tắt cho nhà quản lý cấp cao?",
+    "choices": [
+      "Ước tính chi phí chi tiết",
+      "Kế hoạch quản lý dự án",
+      "Sơ đồ đoạn (bar chart) ",
+      "Báo cáo điểm mốc"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "41. Sắp xếp lại các nguồn lực để có hằng số tài nguyên đc sử dụng mỗi tháng đc gọi là:",
+    "choices": [
+      "Crashing",
+      "Floating ",
+      "Leveling",
+      "Fast tracking"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "42. Điều nào dưới đây là một lợi ích của một đánh giá dự án tương tự?",
+    "choices": [
+      "Đánh giá sẽ gần hơn với công việc sẽ thực sự yêu cầu",
+      "Nó đc dựa vào việc hiểu chi tiết yêu cầu công việc ",
+      "Nó mang lại cho đội dự án việc hiểu rõ mong đợi của ban lãnh đạo",
+      "Nó giúp PM xác định nếu dự án hoàn thành đúng lịch trình"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "43. Trong giai đoạn thực hiện dự án, một số lượng lớn thay đổi đã đc thực hiện. Người PM nên làm gì?",
+    "choices": [
+      "Chờ đợi đến khi tất cả thay đổi đc biết và làm một lịch trình mới ",
+      "Thực hiện phê chuẩn các thay đổi nếu cần, nhưng giữ lại đường chuẩn lịch trình (baseline)",
+      "Chỉ thực hiện thay đổi đc ban lãnh đạo phê chuẩn",
+      "Nói chuyện với ban lãnh đạo trước khi thực hiện bất kz thay đổi nào"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "1. Cách thông thường để tính toán ước tính tại điểm hoàn thành(EAC) là lấy chi phí tài thời điểm hoàn thành(BAC) và:",
+    "choices": [
+      "Chia cho SPI",
+      "Nhân với SPI",
+      "Nhân với CPI ",
+      "Chia cho CPI"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "2. Ước tính tại điểm hoàn thành EAC là đánh giá định kz của:",
+    "choices": [
+      "Chi phí hoàn thành công việc",
+      "Giá trị của công việc đc thực hiện ",
+      "Tổng chi phí dự kiến tại thời điểm hoàn thành dự án.",
+      "Chi phí sẽ hoàn thành công việc(what it will cost)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. Nếu giá trị thu được(EV-earned value) là 350, chi phí thực tế(AC-actual value) là 400, giá trị dự tính(PV-planned value) là 325, chi phí phát sinh(CV-cost varience) là bao nhiêu?",
+    "choices": [
+      "350",
+      "-75",
+      "400 ",
+      "-50"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "4. Sự mất cân bằng kép là gì?",
+    "choices": [
+      "Khấu hao",
+      "Sự giảm theo đường thẳng ",
+      "Sự giảm nhanh chóng",
+      "Dự toán(or chi phí) vòng đời (life cycle costing)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "5. Ước lượng tương tự là gì?",
+    "choices": [
+      "Sử dụng kĩ thuật ước lượng từ dưới lên(bottom-up)",
+      "Đc sử dụng thường xuyên nhất trong giai đoạn thực thi dự án ",
+      "Sử dụng kĩ thuật ước lượng từ trên xuống(top-down)",
+      "Sử dụng chi phí chi tiết thực tế trong quá khứ."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "6. Chi phí của việc lựa chọn 1 dự án và từ bỏ dự án khác đc gọi là:",
+    "choices": [
+      "Chi phí cố định (fixed cost)",
+      "Chi phí ngầm(sunk cost)",
+      "Giá trị thực (net present value NPV) ",
+      "Chi phí cơ hội"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "7. Điểm chính nổi bật của đánh giá vòng đời là:",
+    "choices": [
+      "Chi phí ước tính cài đặt",
+      "Ước tính chi phí của thực hiện và bảo trì",
+      "Xem xét chi phí cài đặt khi lên kế hoạch chi phí dự án ",
+      "Xem xét chi phí thực hiện và bảo trì khi lập quyết định trong dự án."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "8. Việc đo hiệu suất chi phí tốt nhất nên đc thực hiện theo cách nào dưới đây?",
+    "choices": [
+      "Hỏi mỗi nhân viên dự án đã hoàn thành đc bao nhiêu % công việc và báo cáo trong báo cáo tiến trình hàng tháng. ",
+      "Tính toán giá trị thu được EV và sử dụng thông số và các tính toán khác để báo cáo hiệu năng đã thực hiện và dự đoán hiệu năng tương lai",
+      "Sử dụng luật 50/50 và chắc chắn rằng chi phí vòng đời là ít hơn chi phí dự án",
+      "Tập trung vào khối lượng sử dụng tháng trước và chi tiêu tháng tiếp theo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "9. Chỉ số thực hiện chi phí CPI là 0.89 nghĩa là:",
+    "choices": [
+      "Vào thời điểm này, chúng ta mong đời tổng chi phí dự án hơn 89% so với kế hoạch",
+      "Khi dự án hoàn thành chúng ta sẽ sử dụng 89% hơn so với kế hoạch",
+      "Dự án chỉ thực hiện 89% so với kế hoạch ",
+      "Dự án chỉ nhận đc 89% chi phí so với kế hoạch đầu tư"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "10. Chỉ số thực hiện lịch trình SPI là 0.76 nghĩa là:",
+    "choices": [
+      "Bạn đang chi tiêu quá ngân sách",
+      "Bạn đang đi nhanh hơn kế hoạch ",
+      "Bạn đang chỉ thực hiện 76% của tỷ lệ ban đầu của kế hoạch (the rate originally planned)",
+      "Bạn đang chỉ thực hiện 24% của tỷ lệ ban đầu của kế hoạch"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. Điều nào dưới đây không cần thiết khi đưa ra ước tính dự án?",
+    "choices": [
+      "WBS",
+      "Sơ đồ mạng",
+      "Các rủi ro ",
+      "Thủ tục kiểm soát thay đổi"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "12. Điều nào dưới đây là một ví dụ của ước tính tham số? ",
+    "choices": [
+      "Dollar per module",
+      "Điểm nút học đc( learning bend)",
+      "Bottom-up",
+      "CPM"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13. Một phác thảo ước tính độ lớn đc thực hiện trong giai đoạn nào của dự án?",
+    "choices": [
+      "Lên kế hoạch",
+      "Kết thúc",
+      "Thực thi ",
+      "Khởi tạo"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "14. Chi phí thực tế nên gần(how close) với ước lượng ngân sách cuối cùng ntn?",
+    "choices": [
+      "Từ -75% tới 25% ",
+      "Từ -10% tới 15%",
+      "Từ 10% tới -25%",
+      "–từ -5% tới 10%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "15. Nhân tố nào không nên đc xem xét khi lựa chọn giữa 2 dự án để đảm nhận(undertake)?",
+    "choices": [
+      "Giá trị thực NPV",
+      "Tỷ lệ chi phí lợi ích ( benefit cost ratio BCR)",
+      "Thời gian thu hồi vốn đầu tư ",
+      "Luật lợi nhuận giảm dần."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "16. Nếu dự án A có giá trị thực NPV là 30000$ và dự án B có giá trị thực NPV là 50000$, chi phí cơ hội là gì khi lựa chọn dự án B",
+    "choices": [
+      "23000$ ",
+      "30000$",
+      "20000$",
+      "50000$"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "17. Loại chi phí đào tạo đội dự án là: ",
+    "choices": [
+      "Trực tiếp",
+      "NPV",
+      "Gián tiếp",
+      "Cố định"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "18. Chi phí thiết lập dự án là một ví dụ về:",
+    "choices": [
+      "Chi phí biến động",
+      "Chi phí cố định",
+      "Chi phí hoạt động (overhead costs)",
+      "Chi phí cơ hội"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "19. Phân tích giá trị đc thực hiện để thu được cái gì?",
+    "choices": [
+      "Nhiều giá trị hơn từ phân tích chi phí",
+      "Quyền quản lý với việc mua vào của dự án",
+      "Đội để mua vào dự án ",
+      "Một cách ít tốn kém hơn để làm cùng một công việc"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "20. Ai có rủi ro về chi phí trong hợp đồng giá cố định?",
+    "choices": [
+      "Đội dự án",
+      "Người mua ",
+      "Người bán",
+      "Ban lãnh đạo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "21. Điều nào dưới đây thể hiện giá trị ước tính của công việc đã hoàn thành thực tế? ",
+    "choices": [
+      "Giá trị thu đc EV",
+      "Giá trị dự tính PV(planned value)",
+      "Chi phí thực tế AC",
+      "Chi phí phát sinh CV( cost variance)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "22. Bạn có 4 dự án và phải chọn 1. Dự án A đang đc thực hiện hơn 6 năm và có giá trị thực NPV là 70000$. Dự án B đang đc thực hiện hơn 3 năm và có NPV là 30000$. Dự án C đang đc thực hiện hơn 5 năm và có NPV là 40000$. Dự án D đang dc thực hiện hơn 1 năm và NPV là 60000$. Bạn sẽ chọn dự án nào? ",
+    "choices": [
+      "Dự án A",
+      "Dự án B",
+      "Dự án C",
+      "Dự án D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "23. Dự án A có tỷ suất hoàn vốn nội bộ (internal rate of return –IRR) là 21%. Dự án B có IRR= 7%. Dự án C có IRR= 31%. Dự án D có IRR= 19%. Dự án tốt nhất là:",
+    "choices": [
+      "Dự án A",
+      "Dự án B ",
+      "Dự án C",
+      "Dự án D"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "24. Là một PM, bạn đc giới thiệu các thông tin sau về giá trị thực NPV của một vài dự án. Bạn sẽ lựa chọn dự án nào trong số các dự án dưới đây?",
+    "choices": [
+      "Dự án A với NPV là 95000$ ",
+      "Dự án B với NPV là 120000$",
+      "Dự án C với NPV là 20000$",
+      "Dự án D với NPV là -30000$"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "25. Công ty của bạn có thể chấp nhận 1 trong 3 dự án sau: dự án A có NPV là 30000$ và cần 6 năm để hoàn thành, dự án B có NPV là 60000$ và cần 3 năm để hoàn thành, dự án C có NPV là 90000$ và cần 4 năm để hoàn thành. Dựa vào các thông tin trên, bạn sẽ chọn dự án nào để thực hiện?",
+    "choices": [
+      "3 dự án có giá trị như nhau",
+      "Dự án A",
+      "Dự án B ",
+      "Dự án C"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "26. Người bán nói với bạn rằng các hoạt động của bạn gây ra việc tăng chi phí của họ. bạn nên làm gì?",
+    "choices": [
+      "Đề nghị thay đổi đối với chi phí dự án",
+      "Có buổi họp với ban lãnh đạo để xem nên làm gì ",
+      "Hỏi người bán về các thông tin hỗ trợ",
+      "Từ chối mọi hành động sai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "27. Dự đoán chi phí chỉ ra rằng bạn sẽ bị vượt quá chi phí vào giai đoạn cuối của dự án. Bạn nên làm gì? ",
+    "choices": [
+      "Loại trừ các rủi ro trong ước tính và ước tính lại",
+      "Gặp nhà tài trợ để tìm ra công việc nào nên đc làm sớm hơn",
+      "Cắt giảm chất lượng",
+      "Giảm phạm vi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28. Một dự án phát triển cửa hàng mới yêu cầu việc mua bán của nhiều thiết bị, máy móc và đồ đạc. Phòng ban có trách nhiệm cho việc phát triển vừa tập trung quy trình mua bán bên ngoài và tiêu chuẩn hóa hệ thống đặt hàng mới. Những thủ tục trên có trong tài liệu nào?",
+    "choices": [
+      "Tuyên bố phạm vi dự án",
+      "WBS",
+      "Kế hoạch quản lý nhân lực ",
+      "Chính sách của tổ chức"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "29. Vào giai đoạn đầu của dự án, bạn có buổi thảo luận với nhà tài trợ về các kỹ thuật ước lượng nên được sử dụng. Bạn muốn có đánh giá của chuyên gia, nhưng nhà tài trợ phản đối và muốn dùng ước tính tương tự. Tốt nhất nên làm gì? ",
+    "choices": [
+      "Đồng ý với ước tính tương tự như một đánh giá của chuyên gia",
+      "Đề nghị đánh giá vòng đời như một thỏa hiệp",
+      "Xác định tại sao nhà tài trợ muốn một ước tính chính xác như thế",
+      "Cố gắng thuyết phục nhà tài trợ đồng { các đánh giá của chuyên gia do nó chính xác hơn."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "30. Bạn vừa hoàn thành giai đoạn khởi tạo của một dự án nhỏ và đang bước sang giai đoạn lên kế hoạch khi một bên có liên quan tới dự án hỏi bạn về ngân sách dự án và đường chuẩn chi phí (cost baseline). Bạn nên nói gì?",
+    "choices": [
+      "Ngân sách dự án có thể đc tìm thấy trong tôn chỉ dự án mới vừa hoàn thành ",
+      "Ngân sách dự án và đường chuẩn sẽ không đc kết thúc và đc chấp nhận cho đến khi giai đoạn lên kế hoạch hoàn tất",
+      "Kế hoạch quản lý dự án sẽ không bao gồm ngân sách dự án và đường chuẩn, đây là một dự án nhỏ",
+      "Có thể hoàn thành một ước tính trước khi kế hoạch quản lý dự án đc tạo ra"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "31. PM đc chỉ định ước tính chi phí chung để chia nhỏ các hoạt động để thiết lập một đường chuẩn cho việc đo đạc hiệu năng dự án. Đây là quy trình gì?",
+    "choices": [
+      "Quản lý chi phí",
+      "Ước tính chi phí ",
+      "Dự thảo ngân sách",
+      "Kiểm soát chi phí"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "32. Bạn đc hỏi để chuẩn bị ngân sách để hoàn thành một dự án. Dự án này vừa bắt đầu năm ngoái và bị hoãn trong 6 tháng. Điều nào dưới đây không có trong ngân sách?",
+    "choices": [
+      "Chi phí cố định ",
+      "Chi phí ngầm",
+      "Chi phí trực tiếp",
+      "Chi phí biến động (VC – variable costs)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "33. Để cung cấp một dự án mới cho phòng ban của mình, bạn cần di chuyển tài nguyên từ một dự án sang một dự án khác. Do phòng ban của bạn đang làm việc hết công suất, di chuyển tài nguyên sẽ chăncs chắn trì hoãn dự án mà bạn chuyển tài nguyên. Điều này làm ảnh hưởng tiêu cực ít nhất đến dự án nào dưới đây ếu bạn di chuyển tài nguyên từ dự án này? ",
+    "choices": [
+      "Dự án A với tỷ lệ chi phí lợi ích là 0.8, không có tôn chỉ dự án, có 4 nguồn lực",
+      "Dự án B với NPV là 60000$, 12 nguồn lực, và chi phí biến động giữa 1000$ tới 2000$ một tháng",
+      "Dự án C với chi phí cơ hội là 300000$, không có hệ thống kiểm soát dự án, tỷ suất hoàn vốn nội bộ IRR là 12%",
+      "Dự án D với chi phí gián tiếp là 20000$ và 13 nguồn lực."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "34. Một dự án sản xuất có chỉ số thực hiện lịch trình SPI là 0.89 và chỉ số thực hiện chi phí CPI là 0.91. Thông thường, giải thích nào tốt nhất cho tình huống này?",
+    "choices": [
+      "Phạm vi dự án đã thay đổi",
+      "Một nhà cung cấp không kinh doanh nữa và một nhà cung cấp khác cần đc tìm thấy",
+      "Các thiết bị thêm vào cần thiết phải mua ",
+      "Hoạt động đường giới hạn thực hiện lâu hơn và cần nhiều giờ lao động để hoàn thành"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "35. Mặc dù các bên có liên quan nghĩ rằng có đủ tiền trong ngân sách, dự án thực hiện đc 1 nửa và CPI là 0.7. Để xác định nguyên nhân cốt lõi, các bên có liên quan kiểm tra dự án và phát hiện ra ngân sách chi phí dự án đã bị ước tính một cách tương tự. mặc dù các ước tính hoạt động thêm vào ước tính dự án, các bên có liên quan nghĩ rằng có gì đó bị bỏ sót trong khi hoàn thành ước tính. Điều bị bỏ sót ấy là gì?",
+    "choices": [
+      "Chi phí ước tính đc nên đc sử dụng để đo CPI",
+      "SPI nên đc sử dụng, k phải CPI ",
+      "Ước tính từ dưới lên nên đc sử dụng",
+      "Thông tin lịch sử không đc tính đến."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "36. Bạn là một PM của công ty tư vấn lớn. cấp trên của bạn vừa hỏi ý kiến của bạn trong một quyết định về dự án nào công ty nên theo đuổi. Dự án A có tỷ suất hoàn vốn nội bộ IRR là 12%. Dự án B đc dự đoán có tỷ lệ chi phí lợi ích BCR là 1.3. Dự án C có chi phí cơ hội là 75000$. Dự án D có thời gian thu hồi vốn là 6 tháng. Bạn sẽ chọn dự án nào? ",
+    "choices": [
+      "Dự án A",
+      "Dự án B",
+      "Dự án C",
+      "Dự án D"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "37. You are about to take over a project from another project manager and find out the following information about the project. Activity Z has an early start ES of day 15 and a late start LS of day 20. Activity Z is a difficult activity. Cost performance index CPI is 1.1. Schedule performance index SPI is 0.8. There are 11 stakeholders on the project. Based on this information, which of the following would you be the Most concerned about? ",
+    "choices": [
+      "Schedule",
+      "Float",
+      "Cost",
+      "The number of available resources"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "38. Sự khác nhau giữa đường chuẩn chi phí và ngân sách chi phí là: ",
+    "choices": [
+      "Quản lý tài nguyên dự trữ",
+      "Dự trữ phát sinh",
+      "Ước tính chi phí dự án",
+      "Tài khoản chi phí (cost account?)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "39. Bạn cung cấp ước tính chi phí dự án cho nhà tài trợ dự án. Anh ta không hài lòng với ước tính, do anh ta nghĩ rằng giá có thể thấp hơn. Anh ta bảo bạn cắt giảm 15% ước tính dự án. Bạn nên làm gì?",
+    "choices": [
+      "Bắt đầu dự án và liên tục tiết kiệm chi phí dự án(look for cost saving)",
+      "Nói với đội dự án để cắt giảm 15% từ ước tính của họ ",
+      "Thông báo với nhà tài trợ về các hoạt động bị cắt giảm",
+      "Thêm các nguồn tài nguyên với chi phí theo giờ thấp ( low hourly rates)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "1. Khi một sản phẩm hay dịch vụ hoàn tất và đáp ứng yêu cầu của khách hàng tức là: ",
+    "choices": [
+      "Chất lượng hoàn thiện",
+      "Chi phí của chất lượng là cao",
+      "Chi phí của chất lượng là thấp",
+      "Khách hàng trả giá thấp nhất cho sản phẩm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. Khái niệm của mức độ chất lượng tối ưu có thể đạt đc tại điểm mà doanh thu tăng lên từ sự cải tiến sản phẩm bằng với chi phí tăng để bảo đảm nó. Câu này liên quan đến:",
+    "choices": [
+      "Phân tích kiểm soát chất lượng ",
+      "Phân tích không quan trọng",
+      "Phân tích tiêu chuẩn chất lượng",
+      "Phân tích tính thống nhất"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "3. Ai có trách nhiệm cuối cùng trong việc quản lý chất lượng trong dự án?",
+    "choices": [
+      "Kỹ sư dự án ",
+      "PM",
+      "Giám đốc quản lý chất lượng",
+      "Nhân viên dự án"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "4. Một đội đang sử dụng sơ đồ xương cá để giúp xác định tiêu chuẩn chất lượng nào sẽ đc sử dụng trong dự án. Họ đang ở trong quy trình quản lý chất lượng nào?",
+    "choices": [
+      "Kiểm soát chất lượng thực hiện",
+      "Đảm bảo chất lượng thực hiện ",
+      "Lên kế hoạch quản lý",
+      "Phân tính biến động"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "5. Một người quản lý chú ý tới một PM đang tổ chức họp với một vài nhân viên đội dự án và một vài bên có liên quan tới dự án để thảo luận chất lượng dự án. Lịch trình dự án sẽ đc nén lại và CPI là 1.1. Họ đã làm việc chăm chỉ trong dự án, đội dự án đc thưởng theo hệ thống thưởng của PM và đây là một đội vững chắc. người quản lý đưa ra giả thuyết là PM không có đủ thời gian để tổ chức họp về chất lượng khi lịch trình không đc nén. Điều nào dưới đây mô tả đúng nhất về việc người quản lý này đã sai? ",
+    "choices": [
+      "Chất lượng đc cải thiện dẫn đến gia tăng hiệu suất, tăng hiệu quả chi phí và giảm chi phí rủi ro.",
+      "Chất lượng đc cải thiện dẫn đến tăng hiệu suất, giảm hiệu quả chi phí và tăng chi phí rủi ro",
+      "Chất lượng đc cải thiện dẫn đến tăng hiệu suất, tăng hiệu quả chi phí và tăng chi phí rủi ro",
+      "Chất lượng đc cải thiện dẫn đến tăng hiệu suất, giảm hiệu quả chi phí và giảm chi phí rủi ro"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "6. Từ góc độ dự án, thuộc tính của chất lượng:",
+    "choices": [
+      "Xác định làm thế nào để tăng hiệu quả tổ chức thực hiện hỗ trợ dự án",
+      "Cung cấp những điều căn bản để xem thành công và thất bại của dự án ",
+      "Là tính chất đặc biệt cho dự án nào đc thiết kế và kiểm thử",
+      "Là tiêu chuẩn mục tiêu phải thỏa mãn"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "7. Chất lượng là:",
+    "choices": [
+      "Thỏa mãn và vượt quá kz vọng của khách hàng",
+      "Thêm vào một vài thứ để làm khách hàng thỏa mãn ",
+      "Là đơn vị đo xem dự án có thỏa mãn yêu cầu không",
+      "Làm theo mục tiêu của ban lãnh đạo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "8. Điều nào dưới đây không phải là đảm bảo chất lượng?",
+    "choices": [
+      "Giám định ",
+      "Phân tích quy trình",
+      "Sơ đồ Pareto",
+      "Sơ đồ xương cá"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "9. Sơ đồ Pareto giúp PM: ",
+    "choices": [
+      "Tập trung vào vấn đề then chốt để cải thiện chất lượng",
+      "Tập trung vào suy nghĩ khuyến khích (stimulate thinking)",
+      "Khám phá kết quả mong muốn trong tương lai",
+      "Xác định nếu một quá trình ra ngoài kiểm soát."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. Một sơ đồ điều khiển giúp PM:",
+    "choices": [
+      "Tập trung vào vấn đề then chốt nhất để cải thiện chất lượng",
+      "Tập trung vào suy nghĩ tích khuyến khích (stimulate thinking)",
+      "Khám phá kết quả mong muốn trong tương lai ",
+      "Xác định nếu một quá trình đang hoạt động trong tập các giới hạn"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "11. Kiểm thử toàn bộ tập hợp sẽ: (testing the entire population would) ",
+    "choices": [
+      "Mất nhiều thời gian",
+      "Cung cấp nhiều thông tin hơn mong muốn",
+      "Loại trừ lẫn nhau",
+      "Chỉ ra nhiều khuyết điểm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "12. Điều nào dưới đây không phải là ví dụ về chi phí không phù hợp?",
+    "choices": [
+      "Làm lại (rework) ",
+      "Đào tạo chất lượng",
+      "Loại bỏ (scrap)",
+      "Chi phí bảo hành"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. Độ lệch tiêu chuẩn là một thước đo có tính chất:",
+    "choices": [
+      "Far the estimate is from the highest estimate ",
+      "Far the measurement is from the mean",
+      "Correct the sample is",
+      "Much time remains in the project"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "14. What percentage of the total distribution are 3 sigma from the mean equal to?",
+    "choices": [
+      "68.26%",
+      "99.99%",
+      "95.46% ",
+      "99.73%"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "15. Điều nào dưới đây không phải là thành phần của kiểm tra chất lượng?",
+    "choices": [
+      "Xác định các hoạt động dự án có tuân theo chính sách của tổ chức hay không",
+      "Xcá định sự không hiệu quả và các chính sách không hiệu quả ",
+      "Sửa chữa các khiếm khuyết đc xác định",
+      "Xcá nhận việc thực hiện của các yêu cầu thay đổi đã đc phê chuẩn"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "16. Một sơ đồ điều khiển chỉ ra 7 điểm dữ liệu trong một đường thẳng ở cùng 1 bên của điểm trung bình. Điều gì nên đc hoàn thành?",
+    "choices": [
+      "Thực hiện bản thiết kế thử nghiệm",
+      "Điều chỉnh sơ đồ để phản ánh điểm trung bình mới ",
+      "Tìm một nguyên nhân khác có thể (assignable cause)",
+      "Chẳng có gì. Đây là luật 7 và không đc từ chối."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "17. Bạn đang quản lý một dự án và đang trong môi trường đúng thời hạn. Điều này sẽ yêu cầu nhiều chú ý hơn, do lượng hàng tồn kho trong môi trường này là:",
+    "choices": [
+      "45%",
+      "10%",
+      "12% ",
+      "0%"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "18. Sơ đồ Ishikawa giúp:",
+    "choices": [
+      "Đặt thông tin vào đúng thứ tự ưu tiên ",
+      "Khám phá đầu ra quá khứ(explore past outcomes)",
+      "Chỉ ra trách nhiệm của đội dự án",
+      "Chỉ ra trách nhiệm chức năng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "19. Trong khi lập kế hoạch dự án, điều nào thông thường sẽ có ưu tiên nhất, chất lượng, chi phí hay lịch trình?",
+    "choices": [
+      "Chi phí là quan trọng nhất, sau đó là chất lượng, cuối cùng là lịch trình",
+      "Chất lượng là quan trọng hơn lịch trình và chi phí",
+      "Lịch trình là quan trọng nhất, sau đó là chất lượng, cuối cùng là chi phí ",
+      "Điều này nên đc quyết định tùy mỗi dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "20. Một PM đang sử dụng sơ đồ nhân quả với đội dự án để quyết định các nhân tốt biến đổi sẽ đc kết nối ntn với các vấn đề tiềm năng.PM sẽ làm việc trong phần nào của quá trình quản lý chất lượng dự án?",
+    "choices": [
+      "Phân tích chất lượng",
+      "Thực hiện đảm bảo chất lượng",
+      "Thực hiện kiểm soát chất lượng ",
+      "Lên kế hoạch chất lượng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "21. Một PM và đội từ một công ty thiết kế thiết bị đường sắt đang giao nhiệm vụ để thiết kế thiết bị tải đá vào ô tô đường sắt. thiết kế cho phép 2% số đã bị đổ, tổng số lượng lên tới 2 tấn hao hụt mỗi ngày. Người PM nên dẫn chứng kiểm soát chất lượng, đảm bả chất lượng và cải tiến chất lượng trong văn bản nào? ",
+    "choices": [
+      "Kế hoạch quản lý chất lượng",
+      "Chính sách chất lượng",
+      "Sơ đồ kiểm soát",
+      "Kế hoạch quản lý dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "22. Trong khi họp đội dự án, đội dự án thêm vào phạm vi đặc biệt của công việc thêm do họ xác định rằng nó sẽ làm lợi cho khách hàng. Điều gì là sai trong tình huống này? ",
+    "choices": [
+      "Đội dự án đang tạo thêm lợi ích cho khách hàng nhưng k đc trả thêm tiền (gold plating)",
+      "Những nỗ lực này không nên đc hoàn thành trong khi họp",
+      "Chẳng có gì sai. Đây là cách để thỏa mãn và vượt quá yêu cầu của khách hàng",
+      "Chẳng có gì sai. PM đang kiểm soát dc tình huống này."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "23. Đội dự án vừa tạo ra kế hoạch mô tả cách họ thực hiện chính sách chất lượng. Nó giải quyết cấu trúc hướng tổ chức, trách nhiệm, thủ tục và các thông tin khác về kế hoạch cho chất lượng. nếu thay đổi này trong quá trình thực hiện dự án, kế hoạch nào dưới đây sẽ thay đổi theo?",
+    "choices": [
+      "Đảm bảo chất lượng",
+      "Quản lý chất lượng ",
+      "Quản lý dự án",
+      "Kiểm soát chất lượng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "24. Bạn là một PM cho một dự án hệ thống thông tin lớn khi một người từ phòng chất lượng đến và nói về bắt đầu kiểm tra chất lượng dự án của bạn. Đội dự án, đã chịu áp lực phải hoàn thành dự án nhanh nhất có thể, cảm thấy khó chịu về kiểm tra này. Bạn nên giải thích với đội rằng mục đích của kiểm tra chất lượng là:",
+    "choices": [
+      "Một phần của giám định ISO 9000",
+      "Để kiểm tra nếu khách hàng đang theo sát quy trình chất lượng",
+      "Để xác định các chính sách không phù hợp",
+      "Để kiểm tra tính chính xác nếu chi phí đc đội dự án xem xét."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "25. Bạn đang trong dự án xây dựng thiết bị mới. Các kết cấu đã đc đặt vào vị trí và các ống dẫn nhiệt cũng sẽ đc đặt đúng chỗ, khi đó người quản lý cấp cao thông báo với bạn rằng anh ta đang lo lắng dự án không đáp ứng đc tiêu chuẩn chất lượng. Bạn nên làm gì trong tình huống này?",
+    "choices": [
+      "Cam đoan với người quản lý cấp cao rằng trong khi lên kế hoạch chất lượng đã xác định dự án sẽ đáp ứng đc tiêu chuẩn chất lượng",
+      "Ước tính tương tự sẽ có kết quả trong tương lai ",
+      "Đào tạo đội đảm bảo chất lượng",
+      "Kiểm tra kết quả từ các kế hoạch quản lý chất lượng trong quá khứ"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "26. Bạn được hỏi để lựa chọn công cụ và kỹ thuật để thực hiện chương trình đảm bảo chất lượng để bổ sung cho các hoạt động kiểm soát chất lượng đã có. Bạn nên chọn điều nào dưới đây? ",
+    "choices": [
+      "Kiểm tra chất lượng",
+      "Lấy mẫu thống kê",
+      "Biểu đồ Pareto",
+      "Phân tích xu hướng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "27. Dự án cài đặt phần mềm mới đang thực hiện. PM đang làm việc với phòng ban đảm bảo chất lượng để cải thiện sự tin tưởng của mọi người rằng dự án sẽ đáp ứng các tiêu chuẩn chất lượng. điều nào dưới đây họ phải có trước khi bắt đầu quá trình này?",
+    "choices": [
+      "Các vấn đề chất lượng",
+      "Cải thiện chất lượng ",
+      "Hệ thống đo đạc kiểm soát chất lượng",
+      "Làm lại công việc (rework)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "28. Dự án bạn đang làm việc có gia tăng chi phí hiệu quả, tăng hiệu suất và tăng tinh thần, chí khí(morale). Điều gì có thể là nguyên nhân cho các thay đổi này?",
+    "choices": [
+      "Mục tiêu dự án đc đáp ứng khi thực hiện ",
+      "Tăng chất lượng",
+      "Ban lãnh đạo tập trung vào chính sách ngăn chặn",
+      "Tưởng thưởng (reward) cho nỗ lực của các các nhân"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "29. Một PM vừa đảm nhiệm dự án từ một PM khác trong giai đoạn thực thi dự án. Người PM trước đó đã tạo ra ngân sách dự án, xác định các yêu cầu truyền thông và đang chuẩn bị hoàn thành gói công việc. Người PM mới nên làm điều gì tiếp theo?",
+    "choices": [
+      "Kết hợp thực hiện các gói công việc",
+      "Xác định các tiêu chuẩn chất lượng",
+      "Bắt đầu xác định rủi ro",
+      "Thực hiện kế hoạch quản lý dự án"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "30. Một dự án đang phải đối mặt với 1 thay đổi lớn đối với sản phẩm đầu ra. Nếu PM phải quyết định tiêu chuẩn chất lượng nào là có liên quan tới thay đổi, PM sẽ",
+    "choices": [
+      "Quản lý chất lượng",
+      "Thực hiện đảm bảo chất lượng ",
+      "Lên kế hoạch chất lượng",
+      "Thực hiện kiểm soát chất lượng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "31. Vào cuối dự án, PM xác định dự án sẽ thêm 4 vùng chức năng và 3 vùng hiệu năng. Khách hàng bày tỏ sự hài lòng với dự án. Sự thành công của dự án có nghĩa là:",
+    "choices": [
+      "Dự án không đủ tiêu chuẩn thành công ",
+      "Dự án không thành công vì nó thực hiện thêm những điều khách hàng muốn mà k đc trả thêm tiền (gold plating)",
+      "Dự án không thành công do khách hàng hài lòng nghĩa là họ phải trả thêm tiền cho công việc",
+      "Dự án thành công do đội đã có cơ hội học các vùng chức năng mới và khách hàng hài lòng."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "32. Trong giai đoạn thực thi dự án, một nhân viên đội dự án thông báo với PM rằng một gói công việc không đáp ứng đc tiêu chuẩn chất lượng, và cô ta tin rằng gói công việc này không thể đáp ứng đc. PM họp với các bên có liên quan để phân tích tình huống. PM này đang ở trong quy trình quản lý chất lượng nào?",
+    "choices": [
+      "Thực hiện đảm bảo chất lượng",
+      "Kiểm soát dự án ",
+      "Thực hiện kiểm soát chất lượng",
+      "Lên kế hoạch chất lượng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "33. PM chú ý rằng các hoạt động dự án đang đc hoàn thành bởi 1 phòng ban đều làm việc không đáng kể so với kế hoạch. Đến thời hạn, không có hoạt động hay gói công việc nào đi đúng đường tới hạn, cũng như nó ảnh hưởng tới kế hoạch chuỗi tới hạn. PM khó chịu vì vấn đề này. Khi 4/5 hoạt động trong đường tới hạn phải đc phòng ban này thực hiện. sau khi gọi 3 cuộc, cuối cùng, PM quyết định trái với người lãnh đạo của phòng ban này và xác định điều gì đang xảy ra. Cuộc hội thoại này lâu do cả 2 nói 2 ngôn ngữ khác nhau và họ cố gắng giao tiếp bằng tiếng Pháp(ngôn ngữ chung). Để giúp việc giao tiếp đơn giản hơn, PM thường xuyên yêu cầu người lãnh đạo của phòng ban này nhắc lại những gì đã nói. Anh ta nói với nhân viên của mình tuân theo chính sách của công ty và yêu cầu 2 mức kiểm thử. Trong quá trình hội thoại, anh ta cũng nhận xét khiến cho người PM tin rằng chính sách bao gồm quá nhiều công việc. Đây là lần thứ 4 PM nghe những nhận xét như thế. PM nên làm gì tốt nhất?",
+    "choices": [
+      "Tạo ra kế hoạch quản lý truyền thông tốt hơn và yêu cầu chỉ một ngôn ngữ chính thức trong dự án và phải có người dịch ngay lập tức",
+      "Liên lạc với ai đó trong phòng ban, người này cũng nói ngôn ngữ mẹ đẻ của PM tốt để xác nhận ý kiến của người lãnh đạo phòng ban đó",
+      "Tìm xem nếu hành động tiếp theo có nên ước tính lại ko ",
+      "Làm việc với hiệu quả gia tăng của tổ chức thực hiện bằng cách khuyến khi sự cải thiện của chính sách bằng cách sử dụng các câu hỏi"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "34. Một PM bị tràn ngập với các vấn đề trong dự án của anh ấy. Anh ta xác định nguyên nhân gốc rễ của vấn đề theo thứ tự để xác định nên tập trung vào đâu. Công cụ nào dưới đây là tốt nhất để anh ta sử dụng?",
+    "choices": [
+      "Biểu đồ Pareto",
+      "Kỹ thuật giải quyết xung đột ",
+      "Sơ đồ xương cá",
+      "Phân tích xu hướng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "35. Là một PM, bạn đang chuẩn bị phương pháp để quản lý chất lượng. Bạn đang tìm kiếm phương pháp có thể chứng minh mối quan hệ giữa các sự kiện và kết quả kéo theo. Bạn muốn sử dụng một phương pháp để mô hình các sự kiện này và là nguyên nhân cho ảnh hưởng xấu tới chất lượng. Bạn sẽ sử dụng sơ đồ nào dưới đây để đạt đc mục đích của mình?",
+    "choices": [
+      "Biểu đồ tần số",
+      "Sơ đồ Pareto",
+      "Sơ đồ Ishikawa ",
+      "Sơ đồ điều khiển"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "1. Tất cả những điều sau đều là sức mạnh xuất phát từ PM, ngoại trừ:",
+    "choices": [
+      "Luật chính thống (formal)",
+      "Hệ thống thưởng (reward)",
+      "Hệ thống phạt(penalty) ",
+      "Chuyên môn(expert)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "2. Điểm cao nhất trong hệ thống phân cấp sự cần thiết Maslow là:",
+    "choices": [
+      "Thỏa mãn sinh lý (physiological satisfaction) lol =))",
+      "Đạt được sự sống còn",
+      "Kết hợp ",
+      "Lòng tự trọng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "3. Hiệu ứng hào quang (halo affect) liên quan tới xu hướng:",
+    "choices": [
+      "Thúc đẩy từ bên trong",
+      "Giấu đi thứ tốt nhất (hide the best) ",
+      "Chuyển nhân viên sang phòng quản lý dự án do họ làm tốt trong chuyên môn của họ",
+      "Chuyển nhân viên sang phòng quản lý dự án do họ đc đào tạo về quản lý dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "4. Một chướng ngại vật đối với đội dự án trong một tổ chức hướng ma trận là:",
+    "choices": [
+      "Việc tổ chức đội dự án là tập trung vào chuyên môn ",
+      "Các thành viên của đội đang mượn các nguồn lực và khó động viên",
+      "Đội đang quá tập trung",
+      "Đội quá lớn và khó kiểm soát"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "5. Các điều dưới đây là mối quan tâm đặc trưng của thành viên đội dự án hướng ma trận (matrixed team members), ngoại trừ:",
+    "choices": [
+      "Tự hỏi ai sẽ là người sử dụng khả năng(or định giá – evaluation) của họ",
+      "Làm việc cho nhiều thủ trưởng",
+      "Phát triển trách nhiệm ",
+      "Tính toán lợi ích biên khi làm việc trong nhiều dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "6. Điều nào dưới đây trong kỹ thuật giải quyết mâu thuẫn sẽ sinh ra giải pháp lâu dài nhất",
+    "choices": [
+      "Vũ lực (forcing)",
+      "Hòa nhã làm ổn thỏa (smoothing)",
+      "Thỏa hiệp ",
+      "Giải quyết vấn đề"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "7. Loại hình tổ chức nào là tốt nhất trong việc quản lý độ phức tạp của dự án liên quan đến các nỗ lực bên ngoài?",
+    "choices": [
+      "Tổ chức hướng dự án (projectized-org)",
+      "Tổ chức hướng chức năng(functional-org)",
+      "Tổ chức theo đường(line-org) ",
+      "Tổ chức theo ma trận(matrix-org)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "8. Nguyên nhân thông thường của xung đột trong dự án là lịch trình, các ưu tiên của dự án và:",
+    "choices": [
+      "Tính cách cá nhân ",
+      "Các nguồn lực",
+      "Chi phí",
+      "Việc quản lý"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "9. Kỹ thuật giải quyết mâu thuẫn nào đc PM sử dụng khi anh ta noi: “tôi k thể giải quyết vấn đề ngay lúc này” ?",
+    "choices": [
+      "Giải quyết vấn đề",
+      "Vũ lực ",
+      "Sự rút lui (withdrawal)",
+      "Thỏa hiệp"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "10. Biểu đồ nguồn lực nào chỉ ra điều mà ma trận gán trách nhiệm không có? ",
+    "choices": [
+      "Thời gian",
+      "Hoạt động",
+      "Tương giao",
+      "Người phụ trách mỗi hoạt động"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "11. Bạn đc phân công làm PM cho một dự án truyền thông lớn. Dự án đc hoàn thành trong 1 năm và đã đi đc nửa đường. Đội dự án bao gồm 5 người bán và 20 nhân viên của công ty bạn. Bạn muốn biết ai là người có trách nhiệm với công việc trong dự án. Bạn sẽ tìm thấy các thông tin này ở đâu? ",
+    "choices": [
+      "Ma trận gán trách nhiệm",
+      "Sơ đồ nguồn tài nguyên",
+      "Sơ đồ đường (bar chart)",
+      "Sơ đồ tổ chức dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "12. Trong giai đoạn lập kế hoạch dự án ở một tổ chức hướng ma trận, PM xác định rằng sẽ cần thêm nguồn nhân lực. PM sẽ yêu cầu các nguồn lực này từ:",
+    "choices": [
+      "PM ",
+      "Giám đốc chức năng",
+      "Đội dự án",
+      "Nhà tài trợ dự án"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. Một PM phải công bố lịch trình dự án. Các hoạt động, ngày bắt đầu, kết thúc và các nguồn lực đã được xác định. Người PM nên làm gì tiếp theo?",
+    "choices": [
+      "Phân phối lịch trình dự án dựa theo kế hoạch quản lý truyền thông ",
+      "Xác nhận sự có sẵn của các nguồn lực",
+      "Tinh chỉnh kế hoạch quản lý dự án để phản ảnh các thông tin chi phí chính xác hơn",
+      "Công bố sơ đồ đoạn giải thích đường thời gian (timeline)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "14. Trong mỗi buổi họp đội dự án, PM hỏi mỗi thành viên đội dự án mô tả công việc họ đang làm và PM phân công các công việc mới cho mỗi thành viên. Thời gian kéo dài của buổi họp tăng do có nhiều công việc khác nhau đc phân công. Điều này có thể xảy ra do tất cả các nguyên nhân dưới đây, ngoại trừ:",
+    "choices": [
+      "Sự thiếu bảng WBS",
+      "Sự thiếu ma trận gán trách nhiệm ",
+      "Sự thiếu cân bằng nguồn lực",
+      "Sự thiếu liên quan của đội dự án trong khi lập kế hoạch dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "15. Bạn là một PM đứng đầu một dự án liên chức năng trong môi trường ma trận yếu. không có thành viên nào trong đội dự án báo cáo với bạn một cách hữu dụng và bạn không có khả năng để trực tiếp tưởng thưởng cho sự làm việc của họ. dự án khó, kéo theo ràng buộc nghiêm ngặt về thời gian và các thách thức trong quản lý chất lượng. Loại hình sức mạnh quản lý dự án nào dưới đây sẽ có hiệu quả nhất trong tình huống này?",
+    "choices": [
+      "Ám chỉ (referent) ",
+      "Chuyên môn (expert)",
+      "Hình phạt (penalty)",
+      "Luật chính thức (formal)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "16. Một nhân viên dự án không làm việc tốt trong dự án do cô ấy thiếu kinh nghiệm trong công việc phát triển hệ thống. không có sẵn ai có đủ điều kiện để làm việc này. Đối với PM, giải pháp nào là tốt nhất ?",
+    "choices": [
+      "Tham khảo ý kiến các giám đốc chức năng để xác định động cơ hoàn thành dự án cho thành viên đội dự án",
+      "Thay người mới có nhiều kỹ năng hơn để phát triển công việc ",
+      "Sắp xếp để nhân viên này đc đào tạo",
+      "Cấp phát một vài nguồn lịch trình dự trữ"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "17. Một PM vừa tìm ra nhà thầu phụ chính của dự án luôn luôn chậm tiến độ công việc. nhân viên dự án có trách nhiệm với phần này của dự án không có tiến triển tốt với nhà thầu phụ này. Để giải quyết vấn đề, người PM nói rằng:”cả 2 người phải từ bỏ một số thứ để giải quyết vấn đề này”. Phương pháp giải quyết vấn đề nào mà PM đang sử dụng?",
+    "choices": [
+      "Đối đầu ",
+      "Thỏa hiệp",
+      "Sự hòa nhã làm ổn thỏa (smoothing)",
+      "Giao tiếp"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "18. Một dự án có một vài đội. Đội C đã một lần không kịp deadline trong quá khứ. Điều này là nguyên nhân khiến đội D phải hủy đường tới hạn một vài lần. Với tư cách là ng lãnh đạo của đội D, bạn nhận đc thông tin rằng deadline tiếp theo có thể sẽ không kịp. bạn nên gặp và trao đổi với:",
+    "choices": [
+      "Người quản lý của đội D",
+      "Chỉ riêng PM",
+      "PM và ban lãnh đạo ",
+      "PM và đội trưởng đội C"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "19. Dự án mới làm hứng khởi cả PM và đội dự án. Đây là lần đầu tiên người PM đc phân công vai trò là PM. Đội có cảm giác họ có khả năng hoàn thành công việc mà chưa bao giờ làm trước đó. Đội gồm 29 người góp phần mô tả sản phẩm và đội gồm 9 chuyên gia nhiều kinh nghiệm chuyên môn. Trong quá trình lên kế hoạch, 3 nhân viên có chuyên môn cao đã không đồng ý về phạm vi của 2 sản phẩm. một ng chỉ ra rằng bản nháp WBS nên thêm 2 gói công việc. một người nói rằng gói công việc liên quan không nên đc thực hiện. người thứ 3 đồng ý với 2 người trên. PM nên giải quyết xung đột này ntn?",
+    "choices": [
+      "PM nên lắng nghe sự khác biệt trong quan điểm, xác định lựa chọn tốt nhất và thực hiện nó",
+      "PM nên trì hoãn các thảo luận, gặp gỡ riêng từng người và xác định cách tiếp cận tốt nhất. ",
+      "PM nên lắng nghe sự khác biệt trong quan điểm, khuyến khích các thảo luận logic và tạo điều kiện cho thỏa thuận",
+      "PM nên giúp đội dự án tập trung vào khía cạnh thích hợp trong ý kiến của họ và xây dựng sự thống nhất bằng cách sử dụng kỹ thuật"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "20. Dự án vừa bắt đầu và bao gồm nhân lực từ 14 phòng ban khác nhau. Tôn chỉ dự án đc ký bởi một người và bao gồm hơn 30 yêu cầu chính phải đc đáp ứng trong dự án. Nhà tài trợ thông báo với PM rằng SPI phải đc giữ trong khoảng 0.95 và 1.1. một vài phút điều tra dẫn đến xác định đc 34 bên có liên quan, và mục tiêu lịch trình đã có ràng buộc. PM vừa mới đc tuyển dụng. loại quyền lực quản lý dự án nào dưới đây là tốt nhất để giúp PM có đc sự hợp tác từ những người khác? ",
+    "choices": [
+      "Luật chính thức",
+      "Tư vấn, tham khảo (referent)",
+      "Luật phạt",
+      "Chuyên môn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "21. PM đang cố gắng giải quyết tranh chấp giữa 2 nhân viên dự án. Một ng nói rằng hệ thống nên đc tích hợp trước khi kiểm thử, và người còn lại có ý kiến rằng ủng hộ việc mỗi hệ thống nên đc kiểm thử trước khi tích hợp. Dự án bao gồm hơn 30 người, và 12 hệ thống cần phải tích hợp. nhà tài trợ yêu cầu rằng việc tích hợp phải đc thực hiện đúng thời điểm. tuyên bố nào của PM là tốt nhất để giải quyết mâu thuẫn này?",
+    "choices": [
+      "Làm theo cách của PM",
+      "Mọi người hãy bình tĩnh để hoàn thành công việc",
+      "Hãy giải quyết vấn đề này một lần nữa vào tuần sau khi mọi người đều bình tĩnh ",
+      "Hãy thực hiện các kiểm thử giới hạn trước khi thực hiện và kết thúc kiểm thử sau khi cài đặt"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "22. Một PM đang trong giai đoạn thực thi dự án khi một bên có liên quan đề nghị một thay đổi lớn. thay đổi này sẽ dẫn đến sửa chữa lớn lần thứ 3 của dự án. Vào cùng thời điểm, PM khám phá ra một gói công việc lớn của đc hoàn thành do một thủ trưởng đã chuyển nhân viên của anh ta sang một dự án khác có mức độ ưu tiên cao hơn. Ai là người thích hợp nhất để PM xác định các vấn đề này cùng?",
+    "choices": [
+      "Đội dự án",
+      "Người quản lý cấp cao",
+      "Khách hàng ",
+      "Nhà tài trợ"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "23. Làm việc trong một dự án đang thực hiện khi PM chợt nghe 2 nhân viên cãi nhau về tập hợp các hướng dẫn. PM điều tra và khám phá rằng các hướng dẫn cho việc xây dựng móng bên tông đang được đổ được dịch sai giữa 2 ngôn ngữ khác nhau đang được sử dụng trong dự án. Điều nào dưới đây là tốt nhất đối với PM để làm đầu tiên?",
+    "choices": [
+      "Lấy hướng dẫn đc dịch bởi một bên tin cậy và nhiều kinh nghiệm ",
+      "Tìm kiếm cho các ảnh hưởng về chất lượng của việc dịch sai hướng dẫn đổ móng",
+      "Làm đội dự án chú ý tới vấn đề này và hỏi họ tìm kiếm các lỗi khác của bản dịch",
+      "Thông báo với nhà tài trợ về vấn đề trong báo cáo dự án tiếp theo"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "24. Kỹ thuật giải quyết xung đột có thể đc sử dụng trong dự án bao gồm: đối đầu, làm bình lặng (smoothing), vũ lực và: ",
+    "choices": [
+      "Rút lui (withdrawing)",
+      "Trực tiếp",
+      "Tổ chức(organizing)",
+      "Kiểm soát"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "25. Việc thực hiện dự án có CPI=1.03 và SPI=1. Có 14 nhân viên và mỗi nhân viên đều có đầu vào trong kế hoạch quản lý dự án cuối cùng. Khách hàng đồng ý 3 sản phẩm bàn giao hoàn thành cho đến nay mà k có phàn nàn và ma trận gán trách nhiệm không thay đổi từ khi dự án bắt đầu. dự án đang đc hoàn thành trong môi trường ma trận và không có hợp đồng nào thêm vào dự án. Nhà tài trợ hài lòng với trạng thái của dự án, một nhân viên luôn phàn nàn về việc công việc dự án của anh ta khá tốn thời gian. Điều nào dưới đây là tốt nhất cho PM thực hiện? ",
+    "choices": [
+      "Xem xét lại hệ thống thưởng của dự án",
+      "Cố gắng cải thiện hiệu năng lịch trình của dự án",
+      "Gặp khách hàng để cố gắng kéo dài tiến độ",
+      "Giành lấy văn bản chấp nhận chính thức từ khách hàng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "26. Dự án đang đc thử thách quản lý. Mỗi người bị thúc giục để hoàn thành dự án đúng thời hạn. Không may, sự căng thẳng tăng lên đến nỗi mỗi cuộc họp đội dự án đều trở thành chiến trường cãi nhau và có rất ít công việc đc hoàn thành trong buổi họp. một nhân viên yêu cầu đc vắng mặt trong các buổi họp tiếp theo, vì mng làm anh ta bực mình. Trong khi đó, nhà tài trợ yêu cầu đc tham dự để hiểu rõ hơn dự án đang đc thực hiện ntn và các vấn đề liên quan để hoàn thành dự án, và khách hàng bắt đầu thảo luận về thêm phạm vi vào dự án. Trong tình huống này, PM tốt nhất nên làm gì?",
+    "choices": [
+      "Hỏi nhà tài trợ nếu các thông tin cần thiết nên đc gửi trong báo cáo hơn là nhà tài trợ tham gia vào buổi họp",
+      "Thông báo với đội ai muốn đc vắng mặt buổi họp về nguyên tắc của truyền thông trong các buổi họp như thế này ",
+      "Tạo ra một luật mới cho các buổi họp và thông báo tới đội dự án",
+      "Chuẩn bị bài tập xây dựng đội mà kéo theo tất cả các thành viên trong đội tham gia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "27. Đánh giá hiệu quả dự án khác với hành động đánh giá hiệu năng đội dự án ở chỗ đánh giá hiệu quả dự án tập trung vào: ",
+    "choices": [
+      "Làm thế nào để mỗi nhân viên thực hiện công việc trong dự án",
+      "Một ước tính của sự hiệu quả của đội trong dự án",
+      "Nỗ lực xây dựng đội dự án",
+      "Giảm tỷ lệ doanh thu nhân viên"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28. Một PM có 1 vấn đề phức tạp để giải quyết và tạo quyết định về cái gì cần thiết để làm. Một vài tháng sau, vấn đề lại xuất hiện trở lại. PM đã KHÔNG làm gì trước đó?",
+    "choices": [
+      "Phân tích rủi ro đúng cách ",
+      "Xác nhận rằng quyết định đã giải quyết vấn đề",
+      "Có sự phê chuẩn của nhà tài trợ dự án trong quyết định đó",
+      "Sử dụng sơ đồ Ishikawa"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "29. CPI=1.02, tỷ lệ chi phí lợi ích là 1.7 và vòng cuối cùng xem xét lại hiệu năng đã đc xác định là cần thêm một vài điều chỉnh. Đội dự án chuyển địa điểm sang tòa nhà mới khi dự án bắt đầu. mỗi người nhận xét rằng họ đã phấn khích thế nào khi họ đc sử dụng thiết bị mới. nhà tài trợ cung cấp các hỗ trợ thích đáng cho dự án và một vài rủi ro không xác định đã xảy ra. Trong nỗ lực để cải thiện hiệu năng, PM spends part of the project budget on new chairs for the team members and adss the term “senior” to each team member’s job title. Điều nào dưới đây là đúng khi nói về dự án này của PM? ",
+    "choices": [
+      "PM không hiểu nguyên lý Herzberg",
+      "Dự án đang chi tiêu ít hơn nó nên tiêu tốn, PM nên bắt đầu theo dõi chi phí một cách cẩn thận",
+      "Xem xét lại hiệu năng nên có để tìm thêm các điều chỉnh khác",
+      "PM nên sử dụng sự đánh giá tốt để xác định các thay đổi quan trọng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "30. Bạn vừa tìm ra một nhà thầu phụ chính cho dự án của bạn đã cung cấp hàng chậm tiến độ. Nhà thầu phụ này tiếp cận với bạn và yêu cầu tiếp tục chấp nhận hàng sẽ bị chậm nhưng sẽ đc giảm 1 phần giá thành. Lời mời chào này là một ví dụ về:",
+    "choices": [
+      "Đối đầu ",
+      "Thỏa hiệp",
+      "Làm bình lặng (smoothing)",
+      "Vũ lực"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "1. Phần lớn sử dụng của truyền thông ……………… phần lớn giống như giúp đỡ trong giải quyết các vấn đề phức tạp",
+    "choices": [
+      "Ngôn ngữ, lời nói (verbal) ",
+      "Văn bản (written)",
+      "Chính thức (formal)",
+      "Phi ngôn ngữ (nonverbal)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "2. Bảng WBS có thể là một giúp đỡ hiệu quả cho truyền thông trong các tình huống nào?",
+    "choices": [
+      "Trong nội bộ đội dự án",
+      "Trong nội bộ tổ chức",
+      "Ngoài nội bộ với khách hàng ",
+      "Trong và ngoài nội bộ dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "3. Điều nào dưới đây giống với kết quả của truyền thông khối nhất?",
+    "choices": [
+      "Dự án bị chậm tiến độ",
+      "Tăng thêm mức độ tin cậy ",
+      "Xảy ra các mâu thuẫn",
+      "Người quản trị cấp trung không hài lòng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "4. Truyền thông thường được nâng cao khi người gửi……………… người nhận:",
+    "choices": [
+      "Nói chuyện",
+      "Sử dụng ngôn ngữ cơ thể khi nói chuyện",
+      "Nói chuyện 1 cách chậm rãi ",
+      "Chỉ ra các quan điểm có liên quan"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "5. Sự phù hợp của văn bản chính thức với khách hàng được yêu cầu khi:",
+    "choices": [
+      "Các mối nguy hại đc loại bỏ ",
+      "Khách hàng yêu cầu các công việc thêm vào nhưng không có trong hợp đồng",
+      "Dự án có lịch trình k đúng thời hạn và bao gồm thay đổi đường tới hạn",
+      "Dự án vượt quá kinh phí"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "6. Một PM có vấn đề với hiệu năng của đội dự án. Loại hình truyền thông nào sẽ giúp PM xác định vấn đề?",
+    "choices": [
+      "Văn bản truyền thông chính thức",
+      "Lời nói (verbal) truyền thông chính thức",
+      "Văn bản truyền thông không chính thức ",
+      "Lời nói truyền thông không chính thức"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "7. Truyền thông bên dưới hợp đồng nên hướng về: ",
+    "choices": [
+      "Văn bản truyền thông chính thức",
+      "Lời nói (verbal) truyền thông chính thức",
+      "Văn bản truyền thông không chính thức",
+      "Lời nói truyền thông không chính thức"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "8. Báo cáo trạng thái dự án là ví dụ về loại hình truyền thông nào? ",
+    "choices": [
+      "Văn bản truyền thông chính thức",
+      "Lời nói (verbal) truyền thông chính thức",
+      "Văn bản truyền thông không chính thức",
+      "Lời nói truyền thông không chính thức"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "9. Khi một PM đang bận thương lượng, kỹ năng truyền thông bằng phi ngôn ngữ là",
+    "choices": [
+      "Ít quan trọng ",
+      "Rất quan trọng",
+      "Quan trọng chỉ khi mục tiêu chi phí và lịch trình đc kéo theo",
+      "Quan trọng chỉ khi chắc rằng bạn muốn thương lượng thành công"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "10. Một dự án lớn về viễn thông trong 1 năm đã đi đc nửa đường khi bạn tiếp quản vị trí PM từ 1 ng khác. Dự án kéo theo 3 người bán khác nhau và một đội dự án gồm 30 người. bạn muôn xem các yêu cầu truyền thông dự án và kỹ thuật nào đc sử dụng để giúp đỡ trong truyền thông. Bạn sẽ tìm thấy nó ở đâu?",
+    "choices": [
+      "Kế hoạch quản lý dự án",
+      "Kế hoạch phân phối thông tin",
+      "Sơ đồ đoạn (bar chart) ",
+      "Kế hoạch quản lý truyền thông"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "11. Thông tin dự án đã đc phân phối dựa theo kế hoạch quản lý truyền thông. Một vài sản phẩm của dự án đã thay đổi tuân theo kế hoạch quản lý dự án. Một bên có liên quan tỏ ra ngạc nhiên với PM khi nghe thấy các thay đổi đã đc công bố về sản phẩm dự án. Tất cả các bên có liên quan đều nhận đc thông báo về thay đổi. PM nên làm gì?",
+    "choices": [
+      "Xác định tại sao bên có liên quan đó không nhận đc thông tin và cho anh ta biết khi nó đã đc công bố",
+      "Hỏi giám đốc chức năng xem tại sao bên có liên quan không hiểu trách nhiệm của mình ",
+      "Xem xét lại kế hoạch quản lý truyền thông và thực hiện sửa lại nếu cần thiết",
+      "Xác định tình huống trong buổi họp ủy ban hướng dẫn lần tới để những người còn lại không bỏ sót các thông tin thay đổi đc công bố."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "12. Truyền thông là chìa khóa thành công của dự án. Với tư cách là PM, bạn có 3 bên có liên quan cần phải giao tiếp. bạn có 6 kênh truyền thông. Một bên có liên quan mới đc thêm vào và bạn cũng phải giao tiếp với anh ta. Như vậy có bao nhiêu kênh truyền thông bạn đang có bi h?",
+    "choices": [
+      "7 ",
+      "10",
+      "12",
+      "16"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. 2 nhân viên đang cãi nhau về điều gì cần làm để hoàn thành gói công việc. Nếu PM muốn biết chuyện gì đang xảy ra, cô ấy nên chú ý nhất vào:",
+    "choices": [
+      "Điều gì đã đc nói ra và khi nào",
+      "Điều gì đã đc nói ra, ai nói và thời gian nói",
+      "Cách nói riêng của mỗi người và điều gì đã đc nói ra ",
+      "Mức độ và tông giọng của mỗi người(nói từ từ hay quát vào mặt nhau ) ) và cách nói riêng của mỗi người."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "14. Một PM có một đội dự án bao gồm các nhân viên từ 4 quốc gia. Dự án rất quan trọng đối với công ty, và PM có liên quan tới thành công của dự án. Thời gian của dự án là chấp nhận được. Loại phương pháp truyền thông nào anh ta nên sử dụng?",
+    "choices": [
+      "Lời nói không chính thức ",
+      "Văn bản chính thức",
+      "Lời nói chính thức",
+      "Văn bản không chính thức"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "15. Buổi họp tiến trình dự án không diễn ra tốt đẹp. mọi người nói tất cả mọi lúc, có nhiều ngừoi không tham gia vào và có nhiều chủ đề đc thảo luận ngẫu nhiên. Luật nào dưới đây cho buổi họp hiệu quả đã không được tuân theo?",
+    "choices": [
+      "Sự tập trung lịch sự và cân nhắc của mỗi cá nhân, sự điều khiển ai sẽ được nói",
+      "Lịch trình buổi họp",
+      "Họp có mục đích, với những người phù hợp tham gia vào buổi họp ",
+      "Tạo ra và công bố một vấn đề và một tập các luật để điều khiển buổi họp"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "16. Bạn vừa đc phân công là PM cho một dự án sản xuất lớn. dự án 1 năm này đã thực hiện đc 1 nửa. nó kéo theo 5 người bán và 20 thành viên trong công ty tham gia vào đội dự án. Bạn muốn xem xét lại thật nhanh dự án đang tiến triển tới đâu. Báo cáo nào dưới đây là có ích nhất để tìm những thông tin như vậy?",
+    "choices": [
+      "Trạng thái công việc(work status) ",
+      "Tiến trình (progress)",
+      "Dự báo(forecast)",
+      "Truyền thông"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "17. Một nhân viên đang tham quan nhà máy sản xuất của một trong những nhà cung cấp. Điều nào dưới đây là quan trọng nhất phải làm trong bất kz cuộc gọi nào mà PM sẽ gọi cho anh ta? ",
+    "choices": [
+      "Yêu cầu nhân viên lặp lại những gì PM nói",
+      "Xem xét lại danh sách thông tin liên lạc của tất cả các bên có liên quan",
+      "Yêu cầu nhân viên tìm kiếm các yêu cầu thay đổi",
+      "Xem xét lại lịch họp sắp tới"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "18. Một PM tình cờ nghe được cuộc hội thoại giữa 2 bên có liên quan đang nói về sự không hài lòng của họ về ảnh hưởng của dự án tới phòng ban của họ. bên có liên quan A hỏi dự án đang đúng tiến độ không và bên B trả lời là 1.05. bên A hỏi PM có biết sự liên quan của việc này tới bên B không, bên B trả lời anh ta không chắc chắn. Điều tốt nhất là PM nên làm là gì?",
+    "choices": [
+      "Chắc chắn rằng các bên có liên quan nhìn thấy PM đang tình cờ nghe và yêu cầu họ chuyển các câu hỏi cho PM bằng văn bản",
+      "Thuyết trình với tất cả các bên có liên quan về trạng thái của dự án",
+      "Gửi cho 2 bên có liên quan này bản copy về nhật ký vấn đề (issue log) và hỏi xem có nhận xét gì nữa ko ",
+      "Sắp xếp 1 cuộc họp với cả 2 bên có liên quan này để nghe họ nói về bất kz vấn đề liên quan nào mà họ có."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "19. Một PM đã quản lý 4 dự án cho công ty và đang đc cân nhắc để tham gia vào phòng quản lý dự án. Đây là những điều đã rút ra được sau quá trình đáng giá năng lực của anh ta: dự án đầu tiên của PM này có biến động chi phí CV = -500, sử dụng 2 nguồn lực then chốt, cần phải làm lại tôn chỉ dự án trong giai đoạn thực thi và đc xếp hạng ưu tiên thứ 14 trong công ty. Dự án thứ 2 kết thúc với biến động lịch trình là +100, đc hoàn thành với lịch trình nén rộng (vastly compressed schedule) và nhận đc thư giới thiệu từ nhà tài trợ, nhưng sản phẩm của dự án không đc sử dụng. Dự án thứ 3 có số lượng thay đổi hơn 23% so với dự kiến, có SPI=0.90 và 35 mục trong nhật ký vấn đề (issue log) khi dự án hoàn thành. Mỗi dự án có ngân sách chi phi là 1000$ và khoảng 20 tới 28% thay đổi nhiều hơn so với các dự án khác cùng quy mô. Phòng quản lý dự án quyết định không cân nhắc người PM này vào phòng nữa. Điều nào dưới đây mô tả tốt nhất tại sao PM lại ko đc vào?",
+    "choices": [
+      "PM chỉ quản lý các dự án có mức độ ưu tiên thấp và anh ta phải nén lịch trình, cho thấy anh ta không đủ kỹ năng để làm việc trong phòng quản lý dự án",
+      "Nhật ký lỗi không nên đc sử dụng trong những dự án có quy mô này, cho thấy PM không đủ kiến thức để làm việc trong phòng quản lý dự án ",
+      "PM không thu hút hiệu quả các bên có liên quan, cho thấy anh ta không đủ kiến thức để làm việc trong phòng quản lý dự án",
+      "PM có 2 nguồn lực then chốt trong đội của mình và vẫn cần phải làm lại tôn chỉ dự án, cho thấy anh ta không đủ kỷ luật để làm việc trong phòng quản lý dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "20. Mọi thứ đang hoạt động tốt trong giai đoạn giữa của một dự án. Hệ thống cấp phép công việc cho phép mọi người biết thời gian bắt đầu công việc và nhật ký lỗi đã giúp theo dõi các yêu cầu của các bên có liên quan. Tỷ suất chi phí có ích đc cải thiện và nhà tài trợ bày tỏ sự đánh giá cao của mình cho những nỗ lực của đội dự án bằng cách tổ chức một buổi tiệc quan trọng cho đội. PM đã nhận đc 1 cuộc gọi từ 1 thành viên dự án nói rằng kết quả từ việc hoàn thành hoạt động trước đã bị chậm 2 ngày. Lý do nào dưới đây là tốt nhất giải thích tại sao điều này xảy ra?",
+    "choices": [
+      "PM tập trung vào yêu cầu của nhà tài trợ ",
+      "Ban lãnh đạo chức năng không đc tính đến trong kế hoạch quản lý truyền thông",
+      "Hoạt động tiếp sau nên đc theo dõi, không phải hoạt động trước đó",
+      "Những người cần thiết không đc mời đến buổi tiệc quan trọng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "21. Có nhiều gói công việc đã hoàn thành tốt đẹp trong dự án và nhà tài trợ đã có một vài sự đánh giá cao cho sự cải thiện. Dự án đang trong đúng lịch trình để đáp ứng hạn chót gấp gáp (aggressive schedule) khi hành động sau của hoạt động đường tới hạn gặp phải một trở ngại lớn (suffer a major setback). Hoạt động này có 14 ngày trễ (14days of float) và đc 4 ng hoàn thành. Có 2 nhân viên khác có kỹ năng trợ giúp hoạt động này, nếu cần thiết. PM nhận đc 1 cuộc gọi rằng 3 nhân viên khác đang cố gắng rời khỏi dự án do họ không cảm thấy rằng dự án có thể thành công. Khi PM tiếp tục theo đuổi vấn đề này, cô ấy khám phá ra rằng những nhân viên này có vấn đề mà chưa đc xác định trc đó. Điều nào dưới đây là tốt nhất để cải thiện dự án?",
+    "choices": [
+      "Các nhân viên dự án ngay lập tức cố gắng giải quyết hoạt động đang gặp vấn đề",
+      "Điều tra xem tại sao lịch trình dự án lại gấp gáp",
+      "Tìm xem ai có thể thay thế 3 nhân viên đó ",
+      "Tạo nhật ký lỗi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "22. Dự án có 13 nhân viên và chịu ảnh hưởng từ 15 phòng ban trong tổ chức. Do dự án đã hoàn thành đc 20% thời hạn dự án và có báo cáo hiệu năng thành công từ 5 phòng ban, PM tổ chức 1 buổi tiệc. PM mời các bên có liên quan từ tất cả các phòng ban, cung cấp những đánh giá tốt về một cơ hội truyền thông phi chính thức để truyền tải những điều tốt tới những phòng ban chưa tham gia vào dự án. Tại buổi tiệc, PM đi 1 vòng để khám phá và tìm các thông tin có liên quan tới 1 trng những phòng ban đang nói về việc thiết lập nhiều buổi họp chính thức hơn trong dự án. Điều tốt nhất PM nên làm đầu tiên là:",
+    "choices": [
+      "Ghi lại những ấn tượng sâu sắc của buổi tiệc vào các bài học thu đc từ dự án ",
+      "Xem lại phương pháp phân phối thông tin trong dự án",
+      "Tổ chức một buổi họp với tất cả các bên có liên quan để thảo luận các mối bận tâm của họ",
+      "Chắc chắn rằng ban lãnh đạo có bản copy của kế hoạch quản lý truyền thông để anh ta có thể nhớ những mối bận tâm này nên đc gửi tới PM"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "23. Một dự án lớn đang thực hiện khi một nhân viên đội dự án xem lại báo cáo trạng thái dự án. Anh ta thấy rằng dự án hiện tại đang thực hiện chậm lịch trình. Khi tìm kiếm sâu hơn, anh ta chú ý rằng sự chậm trễ là nguyên nhân của hoạt động của anh ta bị dời lịch trong thời gian anh ra nước ngoài và không thể thực hiện đc hoạt động này. Đây là mối bận tâm lớn do anh ta cam kết dự án sẽ thành công và anh ta không muốn là nguyên nhân của sự chậm trễ hơn của dự án. Điều tốt nhất nên làm là gì?",
+    "choices": [
+      "Liên lạc với PM ngay lập tức để cung cấp cho PM lịch trình",
+      "Thêm các thông tin này vào báo cáo lần tới của anh ta",
+      "Yêu cầu vấn đề này đc thêm vào nhật ký lỗi của dự án ",
+      "Khuyến nghị hành động hiệu chỉnh"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "24. Dự án của bạn đang có một thời gian khó khăn trong việc có được phê chuẩn chính thức của kế hoạch quản lý dự án do có nhiều yêu cầu của các bên có liên quan chưa đc phê chuẩn để liên quan trong dự án. Các bên có liên quan cãi nhau và làm chậm tiến độ dự án khi họ cứ tổ chức buổi họp này tới buổi họp khác về các yêu cầu của họ. Dự án cuối cùng cũng đc phê chuẩn và đã bắt đầu từ 6 tháng trước. Tất cả những điều sau sẽ là những hành động ngăn chặn tốt, ngoại trừ:",
+    "choices": [
+      "Giữ một file về những yêu cầu nào chưa đc bao gồm trong dự án",
+      "Chắc chắn rằng quy trình kiểm soát thay đổi không đc sử dụng như một phương tiện để thêm vào những yêu cầu vào dự án",
+      "Duy trì nhật ký lỗi ",
+      "Tổ chức các buổi họp với các bên có liên quan để vượt qua những công việc chưa đc thêm vào dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "25. PM đang hi vọng một sản phẩm sẽ đc đệ trình (submit) bằng email từ một nhân viên vào ngày hôm nay. Vào cuối ngày, PM liên lạc với nhân viên đó để thông báo rằng PM chưa nhận đc email. Nhân viên này xin lỗi và nói rằng anh ra không thể email về sản phẩm, và nó sẽ đc gửi thông qua thư thay vì email. Nhân viên này tiếp tục giải thích rằng anh ta đã thông báo với PM điều này sẽ xảy ra trong một cuộc điện thoại khi PM đang du lịch. PM nói:”chúng ta có nói chuyện không khi mà tôi đã nói với anh là tôi ko nghe thấy anh nói gì vì sóng yếu?” người nhân viên trả lời: “Có”. Điều gì sẽ ngăn chặn vấn đề này?",
+    "choices": [
+      "Sử dụng ngôn ngữ truyền đạt cụ thể (paralingual communication)",
+      "Thêm vào nhật ký lỗi sau cuộc gọi đó",
+      "Chú ý nhiều hơn để quyết định yêu cầu truyền thông ",
+      "Phản hồi lại trong quá trình truyền thông"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "26. Các thủ tục công ty bao gồm việc tạo ra văn bản các bài học thu được. điều nào dưới đây là tốt nhất khi sử dụng các bài học thu được? ",
+    "choices": [
+      "Các thông tin lịch sử cho các dự án trong tương lai",
+      "Lên kế hoạch ghi lại bản ghi lịch sử cho dự án hiện tại",
+      "Thông báo cho đội dự án về những gì PM đã làm",
+      "Thông báo cho đội dự án về kế hoạch quản lý dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "27. Các bài học thu được, được hoàn thành tốt nhất bởi:",
+    "choices": [
+      "PM",
+      "Đội dự án",
+      "Nhà tài trợ ",
+      "Các bên có liên quan"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "1. Tất cả những điều sau đều là nhân tố trong đánh giá rủi ro dự án, ngoại trừ:",
+    "choices": [
+      "Sự kiện rủi ro",
+      "Xác suất rủi ro",
+      "Số tiền rủi ro (amout at stake) ",
+      "Chi phí bảo hiểm"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "2. Nếu một dự án có 60% cơ hội kiếm được 100000$ và có 40% cơ hội mất 100000$, giá trị tiền tệ dự kiến cho dự án là:",
+    "choices": [
+      "Thu được 100000$",
+      "Mất đi 60000$ ",
+      "Thu được 20000$",
+      "Mất đi 40000$"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. Cho rằng 2 đầu của dải các ước tính trung bình là +/-3sigma, dải ước tính nào dưới đây bao gồm ít rủi ro nhất?",
+    "choices": [
+      "30 ngày, cộng trừ 5 ngày",
+      "Từ 22-30 ngày ",
+      "Optimistic=26days, most likely=30days, pessimistic=33days",
+      "28 ngày"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "4. Sự kiện rủi ro nào dưới đây gây trở ngại cho việc đạt tới mục tiêu lịch thực hiện dự án nhất? ",
+    "choices": [
+      "Chậm trễ trong việc có được các phê chuẩn đc yêu cầu",
+      "Tăng đáng kể chi phí mua nguyên vật liệu",
+      "Tranh chấp hợp đồng sinh ra các yêu sách tăng thanh toán",
+      "Cuộc họp đã đc lên kế hoạch để xem lại việc thực hiện k đúng thời hạn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5. Nếu 1 rủi ro có 20% cơ hội xảy ra trong 1 tháng cho trước, và dự án dự kiến kéo dài 5 tháng, xác suất mà sự kiện rủi ro này sẽ xảy ra trong tháng thứ 4 của dự án là bn>",
+    "choices": [
+      "Ít hơn 1% ",
+      "20%",
+      "60%",
+      "80%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "6. Nếu một sự kiện rủi ro có 90% cơ hội xảy ra, và hậu qua là 10000$, tương ứng với 90000$ là:",
+    "choices": [
+      "Giá trị rủi ro",
+      "Giá trị hiện tại ( present value- giá trị hiện tại của dòng tiền mặt sẽ đem lại lượng giá trị quay vòng vốn đầu tư nhất định trong tương lai) ",
+      "Giá trị tiền tệ dự kiến",
+      "Ngân sách ngẫu nhiên"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "7. Các rủi ro sẽ đc xcá định trong các quá trình quản lý rủi ro nào?",
+    "choices": [
+      "Phân tích định lượng rủi ro và xác định rủi ro ",
+      "Xác định rủi ro và kiểm soát rủi ro",
+      "Phân tích định lượng rủi ro và kiểm soát rủi ro",
+      "Xác định rủi ro"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "8. Điều gì nên đc hoàn thành với những rủi ro trong danh sách theo dõi (watchlist)",
+    "choices": [
+      "Ghi lại chúng cho các thông tin lịch sử để sử dụng trong các dự án khác ",
+      "Ghi lại chúng và xem lại trong quá trình thực hiện dự án",
+      "Ghi lại chúng và để sang một bên vì chúng đã có trong kế hoạch đối phó với sự kiện ngẫu nhiên",
+      "Ghi lại chúng và đưa cho khách hàng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "9. Tất cả những điều sau luôn là đầu vào cho quá trình quản lý rủi ro, ngoại trừ:",
+    "choices": [
+      "Các thông tin lịch sự",
+      "Các bài học rút ra",
+      "WBS ",
+      "Báo cáo trạng thái dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "10. Khả năng chấp nhận rủi ro đc xác định để giúp: ",
+    "choices": [
+      "Đội dự án xếp loại đc các rủi ro dự án",
+      "PM ước tính dự án",
+      "Đội dự án lên lịch trình dự án",
+      "Ban lãnh đạo biết đc những người quản lý khác sẽ hành động trong dự án ntn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "11. Tất cả những điều sau có 1 kết quả chung của quản lý rủi ro, ngoại trừ:",
+    "choices": [
+      "Các điều kiện và điều khoản trong hợp đồng đc tạo ra",
+      "Kế hoạch quản lý dự án đc thay đổi",
+      "Kế hoạch quản lý truyền thông đc thay đổi ",
+      "Tôn chỉ dự án đc thay đổi"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "12. Bảo hiểm mua bán đc xem xét tốt nhất như là một ví dụ về loại rủi ro nào?",
+    "choices": [
+      "Mitigation(sự làm dịu) ",
+      "Chuyển khoản (transfer)",
+      "Chấp nhận được (acceptance)",
+      "Sự tránh xa (avoidance)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. Bạn đang thấy rằng thật khó để ước lượng chính xác chi phí sẽ ảnh hưởng bởi rủi ro. Bạn nên ước lượng với:",
+    "choices": [
+      "Cơ sở định lượng",
+      "Cơ sở số học ",
+      "Cơ sở định tính",
+      "Cơ sở kinh tế"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "14. Đầu ra của kế hoạch đối phó rủi ro (risk response planning) là: ",
+    "choices": [
+      "Số dư rủi ro",
+      "Các rủi ro đc xác định",
+      "Danh sách ưu tiên của các rủi ro",
+      "Các ảnh hưởng đc xác định"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "15. Việc khắc phục(workaround) đc xác định trong quá trình quản lý rủi ro nào?",
+    "choices": [
+      "Xác định rủi ro",
+      "Phân tích định lượng rủi ro",
+      "Kế hoạch đối phó rủi ro ",
+      "Kiểm soát rủi ro"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "16. Trong quá trình quản lý rủi ro nào là nhân tố xác định chuyển giao một loại rủi ro (risk made)",
+    "choices": [
+      "Xác định rủi ro",
+      "Phân tích định lượng rủi ro ",
+      "Kế hoạch đối phó rủi ro",
+      "Kiểm soát rủi ro"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "17. Một PM vừa hoàn thành kế hoạch đối phó rủi ro cho 1 dự án kỹ thuật có kinh phí 387000$. Điều nào dưới đây anh ta nên làm tiếp theo?",
+    "choices": [
+      "Xác định tỷ lệ rủi ro tổng thể cho toàn dự án",
+      "Bắt đầu phân tích rủi ro và chỉ ra trong phác thảo dự án (project drawing) ",
+      "Thêm các gói công việc vào bảng WBS",
+      "Tổ chức đánh giá lại rủi ro dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "18. Một PM hỏi nhiều bên có liên quan để xác định xác suất và ảnh hưởng của một số rủi ro. Anh ta sau đó đã phân tích các giả thuyết. Anh ta đang chuyển sang bước tiếp theo của quản lý rủi ro. Dựa vào các thông tin trên, PM đã QUÊN không làm gì?",
+    "choices": [
+      "Ước lượng xu hướng trong phân tích rủi ro",
+      "Xác định các yếu tố kích hoạt rủi ro (triggers) ",
+      "Cung cấp ma trận tỷ lệ rủi ro tiêu chuẩn",
+      "Tạo ra kế hoạch dự phòng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "19. Một PM tập hợp đội dự án lại, xác định 56 rủi ro trong dự án, xác định các yếu tố kích hoạt rủi ro, xếp hạng trong ma trận mức độ rủi ro, kiểm tra các giả thiết và ước lượng chất lượng dữ liệu sử dụng. Đội dự án vẫn tiếp tục chuyển sang quá trình quản lý rủi ro. PM đã quên không làm gì?",
+    "choices": [
+      "Mô phỏng rủi ro",
+      "Làm giảm, làm nhẹ rủi ro",
+      "Xếp hạng rủi ro tổng thể cho dự án ",
+      "Kéo theo các bên có liên quan tới dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "20. Bạn là một PM cho một dự án xây dựng của một nhà máy sản xuất lớn mới và chưa từng làm trước đó. Chi phí dự án đc ước tính là 30.000.000$ và sẽ sử dụng 3 người bán. Một khi bắt đầu, dự án không thể xóa bỏ, và sẽ có một phí tổn lớn trong thiết bị và nhà máy. Là PM của dự án này, điều quan trọng nhất phải thật cẩn thận là:",
+    "choices": [
+      "Xem xét lại tất cả đề nghị chi phí từ người bán",
+      "Kiểm tra ngân sách dự phòng",
+      "Hoàn thành tôn chỉ dự án ",
+      "Thực hiện xác định các rủi ro"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "21. Trong khi lên kế hoạch quản lý rủi ro, đội của bạn đã đưa ra 434 rủi ro và 16 nguyên nhân chính của các rủi ro này. Dự án là dự án cuối cùng trong chuỗi các dự án mà đội sẽ làm việc cùng nhau. Nhà tài trợ rất khuyến khích và một khối lượng lớn thời gian đã đc đầu tư để chắc chắn tôn chỉ dự án đã hoàn thành và đc ký bởi tất cả các bên có liên quan chính. Trong giai đoạn lập kế hoạch dự án, đội không đưa ra một cách thức hiệu quả để làm giảm hoặc thoát rủi ro. Nó không phải là công việc để có thể thuê ngoài hay bị loại bỏ. Giải pháp tốt nhất là: ",
+    "choices": [
+      "Chấp nhận rủi ro",
+      "Tiếp tục điều tra để làm giảm nhẹ rủi ro",
+      "Tìm kiếm cách để tránh rủi ro",
+      "Tìm kiếm cách để chuyển rủi ro (transfer the risk)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "22. Một PM đang định lượng rủi ro cho dự án của cô ấy. Cô ấy có nhiều chuyên môn bên ngoài, nhưng giá như có thể sử dụng bên trong dự án. Điều này có thể đc thực hiện ntn?",
+    "choices": [
+      "Sử dụng phân tích Monte Carlo sử dụng Internet như một công cụ",
+      "Áp dụng phương pháp đường tới hạn",
+      "Xác định các tùy chọn cho các hành động sửa lỗi khuyến nghị ",
+      "Áp dụng kỹ thuật Delphi"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "23. Một PM nhiều kinh nghiệm vừa bát đầu làm việc trong một tổ chức hợp nhất công nghệ thông tin lớn. Quản lý của cô ấy cung cấp cho cô ta một bản nháp tôn chỉ dự án và ngay lập tức yêu cầu cô ấy cung cấp phân tích về rủi ro trong dự án. Điều nào dưới đây là tốt nhất có thể giúp đỡ PM?",
+    "choices": [
+      "Một bài báo từ tạp chí mạng PM",
+      "Tuyên bố phạm vi dự án từ giai đoạn lên kế hoạch dự án",
+      "Kế hoạch nguồn lực từ giai đoạn lên kế hoạch dự án ",
+      "Một cuộc nói chuyện với 1 nhân viên từ 1 dự án tương tự đã thất bại trong quá khứ"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "24. Bạn đc trang bị như một người quản lý của một dự án lớn, mới và phức tạp. do dự án này là then chốt trong kinh doanh và rất rõ ràng (visible), các nhà quản lý cấp cao nói với bạn phân tích rủi ro dự án và chuẩn bị chiến lược đáp ứng rủi ro càng sớm càng tốt. Tổ chức có quy trình quản lý rủi ro mà rất ít khi đc sử dụng, và có lịch sử nắm bắt rủi ro kém. Điểm mốc đầu tiên của dự án là trong vòng 2 tuần nữa. Trong khi chuẩn bị kế hoạch đối phó rủi ro, đầu vào từ đâu thông thường là ít quan trọng nhất trong số các đáp án sau:",
+    "choices": [
+      "Nhân viên đội dự án ",
+      "Nhà tài trợ dự án",
+      "Những cá nhân có trách nhiệm với các chính sách và mẫu biểu quản lý rủi ro",
+      "Các bên có liên quan chính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "25. Bạn đang trong quá trình thực hiện một dự án 2 năm để triển khai các văn phòng dọc theo đất nước. một cơn bão gây ra mất điện khi việc nâng cấp đã gần hoàn thành. Khi có điện trở lại, toàn bộ báo cáo dự án và dữ liệu lịch sử đã mất mà không có cách nào lấy lại được. Điều gì nên làm để giảm nhẹ rủi ro này?",
+    "choices": [
+      "Bảo hành mua bán",
+      "Lên kế hoạch cho quỹ dự phòng ",
+      "Kiểm soát thời tiên và có kế hoạch đối phó với sự ngẫu nhiên",
+      "Lên lịch cho việc triển khai ngoài mùa mưa bão"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "26. Một dự án phát triển hệ thống đang gần tới ngày kết thúc, một rủi ro không xác định trước đây đã đc khám phá ra. Điều này có khả năng ảnh hưởng tới khả năng tổng thể của dự án để giao sản phẩm. điều nên làm tiếp theo là gì?",
+    "choices": [
+      "Báo động cho nhà tài trợ dự án về các ảnh hưởng tiền năng tới chi phí, phạm vi, lịch trình ",
+      "Định tính rủi ro",
+      "Làm giảm nhẹ rủi ro bằng cách xây dựng kế hoạch đối phó rủi ro",
+      "Xây dựng việc khắc phục không nằm trong kế hoạch với rủi ro đang xảy ra (wordaround)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "27. CPI=0.6, SPI=0.71. Dự án có 625 gói công việc và đang đc hoàn thành trong giai đoạn hơn 4 năm. Nhân viên đội dự án rất thiếu kinh nghiệm và dự án nhận được ít hỗ trợ cho các kế hoạch thích hợp. Điều nào dưới đây là tốt nhất để thực hiện? ",
+    "choices": [
+      "Cập nhật xác định rủi ro và phân tích",
+      "Dành nhiều thời gian hơn để cải thiện ước tính chi phí",
+      "Loại bỏ càng nhiều gói công việc càng tốt",
+      "Tổ chức lại ma trận gán trách nhiệm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28. Trong khi chuẩn bị kế hoạch đối phó rủi ro, bạn xác định thêm 1 vài rủi ro. Bạn nên làm gì?",
+    "choices": [
+      "Thêm khoản dự phòng vào dự án để xem xét các rủi ro mới và thông báo với ban lãnh đạo ",
+      "Ghi lại các mục rủi ro và tính toán giá trị tiền tệ dự kiến dựa trên xác suất và ảnh hưởng từ kết quả của việc xảy ra rủi ro",
+      "Xác định các sự kiện rủi ro và các chi phí liên quan, sau đó thêm các chi phí này vào ngân sách dự án như một khoản dự phòng",
+      "Thêm 10% chi phí của sự bất ngờ vào ngân sách dự án và thông báo với khách hàng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "29. Bạn vừa đc phân công làm PM cho một dự án truyền thông mới và đang bắt đầu vào giai đoạn thứ 2 của dự án. Có khá nhiều rủi ro xuất hiện trong dự án, nhưng không có ai ước tính chúng để đánh giá khoảng kết quả có thể xảy ra. Điều gì cần được hoàn thành? ",
+    "choices": [
+      "Kế hoạch quản lý rủi ro",
+      "Kế hoạch định lượng rủi ro",
+      "Kế hoạch đối phó rủi ro",
+      "Kiểm soát rủi ro"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "30. Trong giai đoạn thực thi dự án, một nhân viên xác định một rủi ro không có trong sổ ghi. Bạn nên làm gì?",
+    "choices": [
+      "Lấy thêm nhiều thông tin xem làm thế nào nhân viên đó xác định đc rủi ro, do bạn đã thực hiện phân tích chi tiết và không xác định đc rủi ro này",
+      "Không quan tâm tới rủi ro, do các rủi ro đã đc xác định trong giai đoạn lên kế hoạch dự án",
+      "Thông báo với khách hàng về rủi ro này ",
+      "Phân tích rủi ro này"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "31. Trong giai đoạn thực thi dự án, một vấn đề lớn xảy ra mà không có trong sổ ghi rủi ro. Bạn nên làm gì đầu tiên? ",
+    "choices": [
+      "Tạo một bản đối phó với rủi ro không nằm trong kế hoạch (create a workaround)",
+      "Ước tính lại quy trình xác định rủi ro",
+      "Tìm kiếm cho các hậu quả không mong đợi của vấn đề này",
+      "Nói với ban lãnh đạo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "32. Khách hàng yêu cầu thực hiện 1 thay đổi dự án mà sẽ gia tăng rủi ro của dự án. Điều nào dưới đây bạn nên làm trước tất cả mọi người?",
+    "choices": [
+      "Tính đến giá trị tiền tệ dự kiến của rủi ro trong ước tính chi phí mới",
+      "Nói với khách hàng về ảnh hưởng của thay đổi",
+      "Phân tích ảnh hưởng của thay đổi cùng với đội dự án",
+      "Thay đổi kế hoạch quản lý rủi ro"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "33. Điều nào dưới đây là tính chất quan trọng của kỹ thuật Delphi?",
+    "choices": [
+      "Sự kết luận từ các bản ghi lịch sử từ các dự án đã thực hiện trước đó ",
+      "Ý kiến chuyên gia",
+      "Quá trình phân tích theo cấp bậc",
+      "Cách tiếp cận từ dưới lên"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "34. Một dự án có 1 vài vấn đề, nhưng vẫn trong khả năng kiểm soát. Vào những tháng cuối của dự án, phần lớn các khoản dự phòng đã đc sử dụng và phần lớn các ảnh hưởng tiêu cực của các sự kiện đc dự báo trước đều đã xảy ra. Có 4 hoạt động còn sót lại và 2 hoạt động trong số đó nằm trên đường tới hạn. Ban lãnh đạo đã thông báo với PM rằng công ty thích hoàn thành dự án sớm hơn 2 tuần theo lịch để nhận đc thêm lợi nhuận. Để phản hồi lại, PM gửi một yêu cầu đề xuất cho 1 vài công việc đội dự án chuẩn bị làm, với hi vọng một công ty khác sẽ hoàn thành công việc nhanh hơn. PM tốt nhất nên cố gắng để làm việc với:",
+    "choices": [
+      "Khoản dự phòng ",
+      "Các cơ hội",
+      "Xác minh phạm vi",
+      "Các nguy cơ"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "1. Một khi đã ký, hợp đồng là ràng buộc pháp lý trừ phi:",
+    "choices": [
+      "Một bên không thể thực hiện",
+      "Một bên không đủ khả năng tài chính cho phần công việc của họ ",
+      "Vi phạm luật pháp",
+      "Hợp đồng đc tuyên bố là vô hiệu lực thông qua luật sư của 1 trong 2 bên"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "2. Với một hợp đồng rõ ràng, một người bán hoàn thành công việc đc chỉ rõ, nhưng người mua không hài lòng với kết quả. Hợp động sẽ đc xem xét để:",
+    "choices": [
+      "Vô hiệu hóa (null and void)",
+      "Không hoàn thành ",
+      "Hoàn thành",
+      "Từ bỏ"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. Tuyên bố nào liên quan tới tài liệu thầu là đúng?",
+    "choices": [
+      "Tài liệu thầu đc thiết kế tốt có thể làm đơn giản quá việc so sánh của việc phản ứng (response)",
+      "Tài liệu thầu phải nghiêm ngặt và không có tính mềm dẻo để cho phép các ý kiến, đề nghị của người mua đc cân nhắc",
+      "Nói chung, tài liệu thầu không nên bao gồm tiêu chuẩn ước tính",
+      "Tài liệu thầu đc thiết kế tốt không bao gồm hợp đồng tuyên bố công việc"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "4. Một PM cho người bán đc ban lãnh đạo của cô ấy nói rằng dự án nên làm điều gì có thể để thưởng tiền ưu đãi. Mục tiêu chính của các điều khoản ưu đãi trong hợp đồng là:",
+    "choices": [
+      "Giảm giá thành từ người mua",
+      "Giúp người bán kiểm soát chi phí ",
+      "Đồng bộ hóa các mục tiêu",
+      "Giảm rủi ro từ người bán bằng cách chuyển rủi ro sang phía người mua"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "5. Tuyên bố nào dưới đây về kiểm soát thay đổi là đúng?",
+    "choices": [
+      "Một hợp đồng giá cố định (fixed) sẽ làm giảm sự cần thiết phải kiểm soát thay đổi",
+      "Các thay đổi hiếm khi cung cấp lợi ích thực cho dự án ",
+      "Các hợp đồng nên bao gồm các thủ tục phù hợp với các thay đổi",
+      "Các thông số càng chi tiết sẽ loại trừ các nguyên nhân thay đổi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "6. Một thủ tục kiểm tra của hợp đồng có thể hoàn trả chi phí (cost reimbursable CR) xác định báo giá cao đã đc thực hiện. Nếu hợp đồng không chỉ rõ các hành động hiệu chỉnh, người mua nên: ",
+    "choices": [
+      "Tiếp tục thực hiện trả tiền cho dự án",
+      "Trả 1 nửa cho đến khi vấn đề đc khắc phục",
+      "Vô hiệu hóa hợp đồng và bắt đầu các hành động pháp lý để thu hồi khoản thanh toán vượt quá.",
+      "Thay đổi hợp đồng để yêu cầu nhiều kiểm tra thường xuyên hơn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "7. Mục tiêu chính của thương lượng đàm phán hợp đồng là:",
+    "choices": [
+      "Có thêm nhiều hơn từ bên kia ",
+      "Bảo vệ mối quan hệ",
+      "Có đc sự quay vòng tiền tệ cao nhất(highest monetary return)",
+      "Xác định mục tiêu và gắn bó với mục tiêu đó"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "8. Một người bán đang thực hiện hợp đồng hoàn trả chi phí CR khi người mua quyết định sẽ mở rộng phạm vi dịch vụ và thay đổi thành hợp đồng giá cố định (fixed price FP). Tất cả các điều dưới đây là lựa chọn của người bán, ngoại trừ:",
+    "choices": [
+      "Hoàn thành công việc lúc đầu trong hoàn trả chi phí cơ bản và sau đó thương lượng 1 giá sẵn đối với các công việc thêm vào",
+      "Hoàn thành công việc lúc đầu và từ chối các công việc thêm vào",
+      "Thương lượng một hợp đồng giá cố định bao gồm tất cả các công việc ",
+      "Bắt đầu một hợp đồng mới"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "9. Hội nghị các nhà thầu là một phần của:",
+    "choices": [
+      "Kế hoạch ký hợp đồng",
+      "Quản lý hợp đồng ",
+      "Yêu cầu trả lời từ người bán(request seller responses)",
+      "Kế hoạch mua bán và những thứ thu lại đc"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "10. Tất cả những điều dưới đây phải có để có một hợp đồng, ngoại trừ:",
+    "choices": [
+      "Hợp đồng tuyên bố công việc",
+      "Sự chấp nhận ",
+      "Địa chỉ của người bán",
+      "Chữ ký của người mua"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. Điều nào dưới đây mô tả đúng nhất vai trò của PM trong quá trình ký kết hợp đồng?",
+    "choices": [
+      "PM chỉ có vai trò không quan trọng",
+      "PM nên là người thương lượng đàm phán ",
+      "PM nên cung cấp sự hiểu biết rõ về rủi ro của dự án",
+      "PM nên nói với người quản lý hợp đồng làm thế nào để có thể đảm trách đc quá trình ký kết hợp đồng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "12. Đâu là một trong những mục tiêu chính trong quá trình thương lượng ",
+    "choices": [
+      "Có đc mức giá hợp lý (a fair and reasonable price)",
+      "Thương lượng một mức giá theo dự toán của người bán",
+      "Chắc chắn rằng tất cả các rủi ro của dự án đc mô tả kỹ lưỡng",
+      "Chắc chắn rằng đã có một kế hoạch quản lý truyền thông hiệu quả"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13. Hành động nào dưới đây xảy ra trong khi lên kế hoạch cho việc thu mua? ",
+    "choices": [
+      "Quyết định làm hay bán (make-or-buy)",
+      "Trả lời câu hỏi của người bán về các tài liệu thầu",
+      "Tạo ra các điều kiện và điều khoản trong hợp đồng",
+      "Tạo ra các yêu cầu về các tài liệu đề nghị hoặc tài liệu thầu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "14. Điều nào dưới đây là tốt nhất cho PM thực hiện trong phần yêu cầu hồi đáp từ người bán của hoạt động quản lý hợp đồng?",
+    "choices": [
+      "Ước tính các rủi ro",
+      "Xác nhận rằng sự quy thuận (submittal) đã đc gửi",
+      "Xác nhận rằng các thay đổi với hợp đồng đã đc thực hiện ",
+      "Trả lời câu hỏi của khách hàng về tài liệu thầu"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "15. Nhà tài trợ đang lo lắng về người bán phát sinh thêm lợi nhuận trong hợp đồng chi phí cộng phí cố định (cost plus fixed fee CPFF). Mỗi tháng người bán yêu cầu PM đệ trình các tính toán CPI và một phân tích của chi phí để hoàn thành. PM giải thích với nhà tài trợ rằng các khoản lợi nhuận phát sinh không nên phải bận tâm trong dự án này do:",
+    "choices": [
+      "Đội dự án đã chắc chắn người bán không cắt giảm phạm vi ",
+      "Tất cả các chi phí đc lập hóa đơn sẽ đc kiểm tra",
+      "Chỉ có thể tăng tối đa 10% nếu có chi phí bất ngờ vượt quá",
+      "Chi phí chỉ nhận đc từ người bán khi dự án hoàn thành"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "16. Trong một hợp đồng giá cố định, lệ phí hay lợi nhuận là: ",
+    "choices": [
+      "Không xác định",
+      "Là 1 phần trong thương lượng liên quan trong việc chi trả mọi hóa đơn",
+      "Áp dụng như một mục hàng trong mọi hóa đơn",
+      "Đc xác định với các bên khác vào cuối dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17. Một dự án thực hiện theo hợp đồng có thể hoàn lại chi phí cuối cùng đã sắp kết thúc. Người mua phải nhớ phải làm gì?",
+    "choices": [
+      "Giảm mức độ rủi ro của dự án ",
+      "Kiểm tra sự đồng thuận với giá của người bán",
+      "Ước tính lệ phí anh ta phải trả",
+      "Chắc chắn rằng người bán không thêm nguồn lực nào"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "18. Nhà tài trợ và PM đang thảo luận loại hợp đồng nào mà PM lên kế hoạch sử dụng trong dự án. Người bán chỉ ra rằng tổ chức thực hiện đã dành ra nhiều tiền để thuê đội ngũ thiết kế để đưa ra bản thiết kế. PM lo lắng rằng rủi ro từ người mua sẽ ít nhất có thể. Một lợi thế từ hợp đồng giá cô định cho người bán là: ",
+    "choices": [
+      "Chi phí rủi ro nhỏ hơn",
+      "Chi phí rủi ro cao hơn",
+      "Chỉ có ít rủi ro",
+      "Rủi ro đc chia đều cho tất cả các bên"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "19. Như một phần của hệ thống quản lý sổ sách, bạn đang cố gắng chắc chắn rằng toàn bộ hồ sơ từ hợp đồng đã được ghi lại và ghi vào bản mục lục. Điều nào dưới đây bạn không nên lo lắng?",
+    "choices": [
+      "Sự đề nghị (proposal)",
+      "Tuyên bố công việc",
+      "Các điều khoản và điều kiện ",
+      "Quá trình thương lượng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "20. Bạn đang ở trong một thương lượng phức tạp khi bên kia nói:”chúng tôi cần hoàn thành trong 1h do tôi phải đón máy bay”. Người này đang sử dụng chiến lược thương lượng nào?",
+    "choices": [
+      "Người xấu, người tốt (good guy, bad guy)",
+      "Trì hoãn ",
+      "Thời hạn cuối cùng (deadline)",
+      "Các yêu cầu quá khích (extreme demands)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "21. Điều nào dưới đây là một lợi thế của hợp đồng tập trung?",
+    "choices": [
+      "Cho phép việc truy cập dễ dàng hơn để ký hợp đồng chuyên môn ",
+      "Gia tăng chuyên môn của cônt ty trong việc ký hợp đồng",
+      "Trung thành hơn với dự án",
+      "Cho phép 1 người có hợp đồng có thể làm việc trong một dự án riêng (allow a contracts person to work on a single project)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "22. Với loại hợp đồng nào dưới đây, người bán có liên quan nhiều nhất tới phạm vi dự án? ",
+    "choices": [
+      "Hợp đồng giá cố định",
+      "Hợp đồng chi phí cộng phí cố định",
+      "Hợp đồng thời gian và nguyên vật liệu",
+      "Hợp đồng đơn đặt hàng (purchase order)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "23. Công ty của bạn có một việc khẩn cấp và cần các công việc hợp đồng hoàn thành càng sớm càng tốt. Với tình huống này, điều nào dưới đây là có ích nhất để thêm vào hợp đồng?",
+    "choices": [
+      "Một tuyên bố hợp đồng làm việc",
+      "Các yêu cầu mà trong đó các hợp đồng con có thể sử dụng ",
+      "Các ưu đãi",
+      "Một điều khoản không thể bào chữa (a force majeure clause)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "24. Trong phần nào của quá trình ký hợp đồng mà việc thương lượng hợp đồng diễn ra?",
+    "choices": [
+      "Kế hoạch thu mua",
+      "Kế hoạch ký hợp đồng",
+      "Yêu cầu trả lời người bán",
+      "Lựa chọn người bán"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "25. Đội dự án đang cãi nhau về người bán tiềm năng mà chấp nhận các đề nghị. Một nhân viên dự án tranh luận về một người bán tin cậy trong khi 1 nhân viên khác muốn dự án đc trao cho một người bán khác. Đội dự án đang ở trong phần nào của quá trình quản lý thu mua?",
+    "choices": [
+      "Kế hoạch thu mua",
+      "Kế hoạch ký hợp đồng",
+      "Yêu cầu trả lời người bán ",
+      "Lựa chọn người bán"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "26. Đội dự án dường như thích tranh luận: họ đã tranh luận về mọi thứ. Thật may là PM đã thiết lập 1 hệ thống kiểm tra và các buổi họp xây dựng đội mà sẽ giúp đỡ và khuyến khích đội dự án hợp tác nhiều hơn với nhau. Điều mới nhất họ tranh luận là họ nên tự hoàn thành gói công việc của mình hay thuê ngoài. Họ đang ở trong quá trình nào của việc quản lý thu mua?",
+    "choices": [
+      "Quản trị hợp đồng ",
+      "Kế hoạch thu mua",
+      "Yêu cầu trả lời người bán",
+      "Lựa chọn người bán"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "27. Một PM đang tạo ra các yêu cầu đề nghị (request for proposal RFP). Anh ấy đang ở trong quá trình nào của việc quản lý thu mua?",
+    "choices": [
+      "Kế hoạch thu mua ",
+      "Kế hoạch ký hợp đồng",
+      "Yêu cầu trả lời người bán",
+      "Lựa chọn người bán"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "28. Bạn là 1 PM, người quản lý chương trình đến để giúp đỡ về giá thầu cho dự án mới nhất của cô ấy. bạn muốn bảo vệ công ty của bạn khỏi các rủi ro tài chính. Bạn đã có định nghĩa phạm vi giới hạn. Loại hình hợp đồng nào là tốt nhất để lựa chọn?",
+    "choices": [
+      "Hợp đồng giá cố định",
+      "Hợp đồng chi phí cộng phần trăm chi phí (cost plus percent of cost CPPC)",
+      "Hợp đồng thời gian và nguyên vật liệu ",
+      "Hợp đồng chi phí cộng phí cố định CPFF"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "29. Thương lượng giữa 2 bên đang trở nên phức tạp, nên bên A làm một vài ghi chép mà cả 2 bên đều ký vào. Tuy nhiên, khi công việc hoàn thành, bên B khẳng định rằng họ không yêu cầu cung cấp một hạng mục mà cả 2 bên đều đồng ý trong quá trình thương lượng, do nó không có trong hợp đồng tiếp theo. Trong trường hợp này, bên B:",
+    "choices": [
+      "Không đúng, do cả 2 bên phải tuân theo với những gì họ đã đồng ý",
+      "Đúng, do đó là một lời đề nghị ",
+      "Nhìn chung là đúng, do cả 2 bên chỉ yêu cầu thực hiện những gì ghi trong hợp đồng",
+      "Nhìn chung là sai, do tất cả hợp đồng phải đc tôn trọng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "30. Dự án của bạn vừa đc xúc tiến và bạn đang tìm kiếm một nhà thầy phụ để hoàn thiện mạng lưới nhanh chóng. Không có thời gian để đưa ra yêu cầu cho các đề nghị (RFP) nên bạn chọn sử dụng một công ty bạn đã sử dụng nhiều lần để phát triển phần mềm. Mối bận tâm chính trong tình huống này là:",
+    "choices": [
+      "Sự thông đồng giữa các nhà thầu phụ ",
+      "Trình độ chuyên môn của các nhà thầu",
+      "Tiêu chuẩn đánh giá của các nhà thầu",
+      "Tổ chức hội nghị nhà thầu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "31. PM và nhà tài trợ dự án đang thảo luận về chi phí dự án và khi nào tốt để công ty của họ tham gia vào dự án hoặc thuê một công ty khác làm việc này. Nếu họ hỏi ý kiến của bạn, bạn nên nói rằng công ty nên tự làm dự án này sẽ tốt hơn nếu như: ",
+    "choices": [
+      "Có quá nhiều dữ liệu độc quyền",
+      "Công ty có chuyên môn nhưng k sẵn có nhân lực",
+      "Công ty không cần kiểm soát công việc",
+      "Các nguồn lực của công ty là giới hạn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "32. Sau rất nhiều hứng thú và các công việc nặng nhọc, hợp đồng tuyên bố công việc cho dự án đã hoàn thành. Ngay cả khi có đc sự đồng ý rằng hợp đồng tuyên bố công việc đã hoàn thành, PM vẫn lo lắng khi nào xác định thật sự tất cả các yêu cầu của người mua. PM tham dự hội nghị các nhà thầu. Anh ta hỏi bạn lời khuyên nên làm gì tiếp trong cuộc họp hội nghị. Lời khuyên nào là tốt nhất bạn có thể giúp đỡ anh ta?",
+    "choices": [
+      "Bạn không cần phải tham gia vào hội nghị, người quản lý hội nghị sẽ làm việc đó",
+      "Chắc chắn rằng bạn không thương lượng phạm vi dự án ",
+      "Chắc chắn bạn đã cho toàn bộ người bán đủ thời gian để trả lời câu hỏi. họ không muốn trả lời câu hỏi khi đối thủ cạnh tranh của họ cũng có mặt trong hội nghị",
+      "Để nhà tài trợ dự án điều khiển hội nghị và bạn sẽ đóng vai trò “người tốt” trong hội nghị."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "33. Một người bán đc thưởng một hợp đồng để xây dựng một đường ống. các điều khoản và điều kiện trong hợp đồng yêu cầu kế hoạch công việc được đưa ra để người mua phê duyệt trước khi bắt đầu công việc, nhưng người bán không cung cấp đc kế hoạch công việc. điều nào dưới đây là tốt nhất cho PM của người bán để thực hiện",
+    "choices": [
+      "Đưa ra một văn bản có mục đích (file a letter of intent)",
+      "Xác dựng kế hoạch công việc và đưa ra cho người bán để làm công việc đc trôi chảy (move thing along) ",
+      "Đưa ra một văn bản mặc định (default letter)",
+      "Yêu cầu người bán ngừng làm việc cho tới khi kế hoạch công việc đc chuẩn bị"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "34. Kết thúc hợp đồng khác với kết thúc hoạt động quản trị ở chỗ, kết thúc hợp đồng: ",
+    "choices": [
+      "Xảy ra trước khi kết thúc các hoạt động quản trị",
+      "Là điều duy nhất liên quan tới khách hàng",
+      "Bao gồm cả thu hồi tài sản (return of property)",
+      "Có thể hoàn thành nhiều hơn 1 lần trong mỗi hợp đồng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "35. Bạn vừa bắt đầu quản trị một hợp đồng khi ban lãnh đạo quyết định chấm dứt hợp đồng. bạn nên làm gì trước tiên?",
+    "choices": [
+      "Quay lại yêu cầu sự trả lời của người bán",
+      "Quay lại để lên kế hoạch hợp đồng",
+      "Hoàn thành việc quản lý hợp đồng(contract admin) ",
+      "Đến giai đoạn kết thúc hợp đồng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "36. Đội dự án đang tranh luận về người bán sắp tới, người đã đệ trình các đề nghị (submit proposals). Một nhân viên tranh luận về một người bán tin cậy, trong khi một nhân viên khác muốn một nguòi bán khác sẽ có dự án. Điều tốt nhất mà PM nên nhắc nhở đội của mình tập trung vào trong quá trình tìm ra lựa chọn là:",
+    "choices": [
+      "Các tài liệu hợp đồng",
+      "Kiểm tra hợp đồng ",
+      "Các tiêu chuẩn đánh giá",
+      "Kế hoạch quản lý hợp đồng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "37. Tổ chức đang cố gắng quyết định có nên chia phòng ban quản lý hợp đồng và phân công trách nhiệm ký kết hợp đồng cho một phòng ban có trách nhiệm trực tiếp với dự án hay ko. Một chuyên gia về hợp đồng không thực sự muốn có sự chia tách này do họ sẽ mất……………………… trong môi trường phân tán việc ký kết hợp đồng(or phi tập trung- decentralized)",
+    "choices": [
+      "Tiêu chuẩn thực hiện quản lý dự án của công ty",
+      "Sự trung thành với dự án (loyalty)",
+      "Kinh nghiệm ",
+      "Quyền đc truy cập cho những người khác với những chuyên môn tương tự"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "38. Trong giai đoạn thực thi dự án, các nhân viên đội dự án bàn giao sản phẩm của dự án cho người bán. Tuy nhiên, người bán từ chối những sản phẩm này, tuyên bố rằng nó không đáp ứng yêu cầu ở trang 300 của tài liệu đặc tả chi tiết kỹ thuật. bạn đã xem lại tài liệu và cũng đồng ý. Điều tốt nhất nên làm là gì?",
+    "choices": [
+      "Giải thích rằng hợp đồng đã sai và nên đc thay đổi",
+      "Đưa ra yêu cầu thay đổi ",
+      "Xem lại các yêu vầu và gặp nhân viên chịu trách nhiệm với việc này để xem lại từ điển WBS",
+      "Họp đội dự án để xem xét lại yêu cầu ở trang 300"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "39. Loại hợp đồng nào bạn KHÔNG muốn sử dụng nếu bạn không đủ nhân lực để kiểm tra các hóa đơn? ",
+    "choices": [
+      "Hợp đồng chi phí cộng phí cố định (CPFF)",
+      "Hợp đồng thời gian và nguyên vật liệu (T&M)",
+      "Hợp đồng giá cố định (FP)",
+      "Hợp đồng khuyến mại giá cố định (FPIF-fixed price incentive fee)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "40. Một PM mới đang bắt đầu tạo ra bản hợp đồng tuyên bố công việc. Một bên có liên quan muốn thêm 1 vài hạng mục vào bản hợp đồng tuyên bố công việc. Một bên có liên quan khác chỉ muốn mô tả các yêu cầu chức năng. dự án rất quan trọng với công ty của PM, nhưng một người bán sẽ làm việc này. Bạn sẽ khuyên PM này điều gì?",
+    "choices": [
+      "Bản hợp đồng tuyên bố công việc nên chung chung(general) để cho phép người bán có quyết định của riêng mình",
+      "Bản hợp đồng tuyên bố công việc nên chung chung để cho phép các hiệu chỉnh sau này",
+      "Bản hợp đồng tuyên bố công việc nên chi tiết để cho phép các hiệu chỉnh sau này ",
+      "Bản hợp đồng tuyên bố công việc nên càng chi tiết càng tốt cho loại dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "41. Một khách hàng đưa cho bạn bản hợp đồng tuyên bố công việc cho một dự án 8 tháng khá phức tạp và có 1 vài điểm chưa biết. Khách hàng yêu cầu bạn chỉ làm việc (just “get it done”) và chỉ muốn gặp bạn vào cuối tháng thứ 8 khi bạn bàn giao dự án hoàn thiện. trong tình huống này, điều tốt nhất nên làm là: ",
+    "choices": [
+      "Hoàn thành dự án như đc yêu cầu, nhưng thỉnh thoảng xác minh phạm vi với khách hàng trong suốt dự án",
+      "Hoàn thành dự án chỉ trong 8 tháng mà không hề liên lạc với khách hàng trong khoảng thời gian này",
+      "Hỏi ban lãnh đạo để thỉnh thoảng xác nhận với khách hàng",
+      "Hoàn thành dự án, nhưng ghi lại rằng khách hàng không muốn liên lạc"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "1. Gần cuối dự án cuối cùng của bạn, một nhóm các bên có liên quan muốn thêm các yêu cầu vào khi họ biết rằng họ sẽ bị ảnh hưởng từ dự án của bạn. điều này sẽ là một rắc rối do bạn không bao gồm thời gian và chi phí trong kế hoạch quản lý dự án cho những yêu cầu kiểu này. Điều tốt nhất bạn nên làm đề ngăn chặn những vấn đề này trong các dự án sắp tới là:",
+    "choices": [
+      "Xem xét lại từ điển WBS thật kỹ lưỡng, tìm kiếm các mô tả chưa hoàn tất",
+      "Xem xét lại tôn chỉ dự án thật kỹ lưỡng, kiểm tra các lỗ hổng nghiệp vụ",
+      "Làm thêm một công việc kỹ lưỡng về lên kế hoạch hợp đồng ",
+      "Chú ý thêm vào ban lãnh đạo các bên có liên quan"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "2. Dự án phát triển phần mềm không phát triển tốt. có hơn 30 bên có liên quan, và không ai đồng ý với mục tiêu dự án. Một bên có liên quan tin rằng dự án có thể có đc 30% cải thiện trong khi một bên khác tin rằng có thể lên tới 50%. PM thì là 10% cải thiện là thực tế hơn. Cách giải quyết tốt nhất là:",
+    "choices": [
+      "Tiếp tục phát triển dự án và tìm kiếm thêm thông tin sau đó để giải quyết vấn đề",
+      "Lấy số liệu trung bình và sử dụng làm mục tiêu ",
+      "Thực hiện một phân tích khả thi",
+      "Hỏi nhà tài trợ để có quyết định cuối cùng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. Một đội dự án đã hoàn thành, và khách hàng đã chấp nhận, phạm vi dự án đã hoàn thành. Tuy nhiên, các bài học rút ra do phòng ban quản lý dự án yêu cầu vẫn chưa dc hoàn thành. Trạng thái của dự án là ntn?",
+    "choices": [
+      "Dự án chưa hoàn thành do dự án cần phải lên kế hoạch lại ",
+      "Dự án chưa hoàn thành cho tới khi toàn bộ dự án và sản phẩm bàn giao là hoàn thành và đc chấp nhận",
+      "Dự án là hoàn thành do khách hàng đã chấp nhận sản phẩm bàn giao",
+      "Dự án hoàn thành do dự án đã đến ngày kết thúc (reach the due date)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "4. Bạn đang ở giai đoạn giữa dự án của một sản phẩm mới phát triển cho 1công ty công khai giao dịch, bạn biết đc người PM trước đã chi trả 3000000$ mà không đc phê chuẩn theo chính sách công ty. Thật may mắn, CPI=1.2. bạn nên làm gì? ",
+    "choices": [
+      "Liên lạc với người quản lý của bạn",
+      "Đặt khoản chi đó vào một tài khoản của bên thứ 3 (escrow account) để làm bằng chứng",
+      "Che giấu khoản chi này trong phần tập trung chi phí lớn nhất sẵn có (the largest cost center available)",
+      "Từ chối khoản chi này"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5. Trong cuộc họp với một vài bên có liên quan, PM đc yêu cầu thêm công việc vào phạm vi dự án. PM đã sử dụng thông tin phù hợp với dự án trước khi tôn chỉ dự án đc ký và nhớ rằng nhà tài trợ đã từ chối rõ ràng các khoản vốn cho phạm vi đc đề cập bởi các bên có liên quan. Điều tốt nhất mà PM nên làm là:",
+    "choices": [
+      "Cho nhà tài trợ biết các yêu cầu của các bên có liên quan",
+      "Đánh giá ảnh hướng của các phạm vi thêm vào ",
+      "Nói với các bên có liên quan rằng không thể thêm phạm vi",
+      "Thêm công việc nếu còn thời gian trong lịch trình dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "6. Khi kiểm tra lịch của một nhân viên để lên lịch họp, bạn nhìn thấy cô ấy đã đặt lịch gặp với 1 bên có liên quan chính nhưng bạn đã không đc thông báo. Cách thăm dò tốt nhất là:",
+    "choices": [
+      "Từ chối đề cập vấn đề này với nhân viên đó nhưng vẫn tiếp tục theo dõi các hành động của cô ta.",
+      "Thông báo với thủ trưởng của bạn về vấn đề này",
+      "Nói chuyện về việc này với thủ trưởng của cô ta ",
+      "Nói chuyện về việc này với cô ấy"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "7. PM đang có một thời gian khó khăn khi giữ cho dự án phát triển đúng lịch trình. Dự án yêu cầu 220 người để hoàn thành. Tất cả các vấn đề của dự án đã đc giải quyết và PM hài lòng, SPI=0.67, CPI=1.26, có 23 hoạt động trong đường tới hạn và độ dài PERT của dự án là 26. Trong điều kiện này, báo cáo trạng thái hàng tháng nên báo cáo rằng:",
+    "choices": [
+      "Dự án vẫn hoạt động tốt",
+      "Dự án sẽ bị chậm tiến độ",
+      "Chi phí dự án thấp hơn ngân sách ",
+      "Các vấn đề và các tùy chọn"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "8. Nhân viên của bạn đã chậm 3 ngày so với lịch báo cáo. 5 phút trước khi cuộc họp mà chủ đề của báo cáo sẽ đc thảo luận thì cô ấy mới đưa cho bạn báo cáo. Bạn nhận thấy có 1 vài lỗi nghiêm trọng trong đó, bạn nên làm gì? ",
+    "choices": [
+      "Hủy cuôc họp và lên lịch họp lại sau khi báo cáo đã đc sửa chữa",
+      "Tới buổi họp và nói với mọi người tham gia là có lỗi trong báo cáo",
+      "Bắt buộc nhân viên phải thuyết trình và những người tham gia khác im lặng tìm lỗi",
+      "Hủy cuộc họp và tự viết lại báo cáo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "9. Một người quản lý có trách nhiệm cho 1 dự án có đc sự hỗ trợ từ người lãnh đạo cấp cao. Từ khi bắt đầu, bạn đã không đồng ý với ng quản lý này về việc dự án nên tiến hàng ntn và các sản phẩm bàn giao là gì. Bạn và cô ấy đã bất đồng quan điểm rất nhiều vấn đề trong quá khứ. Phòng ban của bạn đc giao nhiệm vụ cung cấp 1 vài gói công việc quan trọng do dự án. Bạn nên làm gì? ",
+    "choices": [
+      "Cung cấp cho cô ta những gì cô ấy cần",
+      "Thông báo với quản lý của bạn về mối lo âu về sự hỗ trợ của cô ấy",
+      "Nói chuyện với cô ta vào lúc bắt đầu dự án và cố gắng mô tả tại sao bạn phản đối và tìm ra 1 cách để giải quyết vấn đề",
+      "Hỏi để đc thoát ra khỏi dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. Một dự án lớn và phức tạp về xây dựng trong một công ty nc ngoài yêu cầu sự kết hợp để di chuyển các thiết bị yêu cầu qua 1 con phố đông đúc. Để chắc chắn thiết bị đc vận chuyển an toàn, các mối liên hệ của bạn ở nc này thông báo rằng bạn phải trả cho các cảnh sát địa phương 1 khoản để thuận tiện cho việc vận chuyển. bạn nên làm gì?",
+    "choices": [
+      "Không trả do đó là tiền hối lộ",
+      "Loại trừ công việc ",
+      "Trả khoản phí",
+      "Không trả phí nếu đấy không phải là 1 phần của ước lượng dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. Một cuộc thương lượng lớn với 1 nhà thầu phụ tiềm năng đã đc lên lịch vào ngày mai, bạn phát hiện ra có 1 cơ hội tốt mà dự án sẽ bị hoãn. Bạn nên làm gì?",
+    "choices": [
+      "Không giành nhiều thời gian chuẩn bị cho cuộc thương lượng",
+      "Cắt giảm thời gian thương lượng",
+      "Chỉ thương lượng các hạng mục chunhs ",
+      "Hoãn cuộc thương lượng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "12. Bạn đc phân công quản lý 1 dự án đã hoàn thành đc 1 nửa theo lịch trình. Sau đánh giá bao quát, bạn phát hiện ra dự án đang đi chậm hơn lịch trình(far behind schedule), và dự án có thể sẽ kéo dài gấp đôi thời gian ước tính ban đầu của PM trước. tuy nhiên, nhà tài trợ đã đc nói là dự án đang đúng lịch trình. Hành đông tốt nhất là:",
+    "choices": [
+      "Cố gắng cấu trúc lại lịch trình để đáp ứng với thời hạn cuối cùng của dự án ",
+      "Báo cáo đánh giá của bạn với nhà tài trợ",
+      "Chuyển lại dự án cho PM cũ",
+      "Tiếp tục thực hiện với lịch trình đc PM cũ lên kế hoạch và báo cáo điều này vào điểm mốc bị lỡ đầu tiên (first missed milestone)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. Bạn đang đi đc ½ chặng đường qua 1 buổi giới thiệu máy bay mạng lớn (major network rollout). Có 300 địa điểm trong US và 20 ở UK. Một người bán phần mềm vừa phát hành một phần mềm lớn nâng cao chất lượng cho 1 vài thiết bị đc cài đặt. việc nâng cao chất lượng cung cấp cho khách hàng chức năng họ yêu cầu mà không có sẵn tại thời điểm dự án bắt đầu. trong điều kiệnnày, hành động nào là tốt nhất?",
+    "choices": [
+      "Tiếp tục theo kế hoạch, khách hàng của bạn sẽ không yêu cầu thay đổi ",
+      "Thông báo với khách hàng về việc nâng cao chất lượng và ảnh hưởng của nó tới thời gian và các chức năng của dự án",
+      "Cài đặt thay đổi và điều chỉnh lịch trình nếu cần thiết vì nó hỗ trợ yêu cầu đầu tiên của khách hàng",
+      "Cài đặt thay đổi đối với các địa điểm còn lại và tiếp tục theo lịch trình"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "14. Bạn đang làm việc trong dự án nghiên cứu và phát triển, khách hàng yêu cầu bạn bao gồm một thành phần đặc biệt vào dự án. Bạn biết rằng nó có nghĩa là thêm công việc, và bạn k muốn có sự vượt quá nguồn dự trữ có sẵn. bạn nên làm gì>",
+    "choices": [
+      "Xóa gói công việc có mức ưu tiên thấp hơn để dành thời gian và nguồn dự trữ có sẵn",
+      "Sử dụng nguồn dự trữ từ khoản dành riêng ngẫu nhiên để bù đắp chi phí ",
+      "Tuân theo quy trình kiểm soát thay đổi hợp đồng",
+      "Yêu cầu thêm nguồn dự trữ từ nhà tài trợ"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "15. Bạn là PM cho 1 trong nhiều dự án trong 1 chương trình lớn và quan trọng. tại buổi họp quan trọng, bạn chú ý rằng một PM khác đã báo cáo dự án của cô ấy đúng lịch trình. Tìm kiếm trong dự án của bạn khoảng 1 vài tuần trc, bạn nhớ rằng nhiều sản phẩm bàn giao từ dự án khác đã bị chậm trễ. Bạn nên làm gì?",
+    "choices": [
+      "Gặp người quản lý chương trình",
+      "Xây dựng kế hoạch kiểm soát rủi ro",
+      "Thảo luận vấn đề với thủ trường của bạn ",
+      "Gặp người PM kia"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "16. Bạn luôn đc ban lãnh đạo yêu cầu cắt giảm ước tính dự án 10% sau khi bạn đưa nó cho họ. phạm vi của dự án mới là k rõ ràng và có hơn 30 bên có liên quan. Ban lãnh đạo mong muốn giảm thời gian giải lao 25% như 1 kết quả của dự án. Điều nào dưới đây là hành động tốt nhất trong tình huống này?",
+    "choices": [
+      "Lên kế hoạch lại để có đc 35% cải thiện thời gian giải lao",
+      "Giảm ước tính và ghi lại thay đổi trong kế hoạch phản ứng rủi ro ",
+      "Cung cấp một ước tính chính xác của chi phí thực tế và cố gắng chứng minh nó",
+      "Gặp đội dự án để xác định bạn có thể tiết kiệm 10% ở đâu"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "17. Nhân viên của bạn đã chậm 3 ngày so với lịch báo cáo. 5 phút trước khi cuộc họp mà chủ đề của báo cáo sẽ đc thảo luận thì cô ấy mới đưa cho bạn báo cáo. Bạn thấy có 1 vài lỗi nghiêm trọng trong báo cáo. Điều này có thể ngăn chặn ntn?",
+    "choices": [
+      "Yêu cầu các nhân viên cập nhật định kz",
+      "Huấn luyện và cố vấn cho nhân viên",
+      "Chắc chắn nhân viên có khả năng làm công việc ",
+      "Hoãn buổi họp sớm hơn do bạn không có thời gian xem lại báo cáo"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "18. Dự án đang đi đc nửa đường khi bạn phát hiện có 1 ng bán phần mềm cho dự án của bạn có khó khăn lớn trong việc giữ nhân viên do bất đồng lao động. nhiều dự án khác trong công ty của bạn cũng sử dụng các dịch vụ của công ty. Bạn nên làm gì?",
+    "choices": [
+      "Cố gắng giữ yêu cầu của họ trong dự án của bạn ",
+      "Nói với các PM khác trong công ty về vấn đề lao động",
+      "Liên lạc với công ty và hỏi ý kiến rằng bạn sẽ hủy công việc của họ trong dự án trừ phi họ giải quyết đc vấn đề bất đồng lao động",
+      "Kết thúc công việc kinh doanh với công ty này"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "19. Điều nào dưới đây KHÔNG phải là trách nhiệm của PM",
+    "choices": [
+      "Duy trì sự bí mật của thông tin bảo mật của khách hàng ",
+      "Xác định tính hợp pháp của các thủ tục công ty",
+      "Chắc chắn rằng một xung đột về lợi ích không làm ảnh hưởng tới tính hợp pháp lợi ích của khách hàng",
+      "Cung cấp kết quả chính xác và trung thực trong ước tính chi phí"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "20. Để hoàn thành công việc trong dự án của bạn, bạn đã đc cung cấp các thông tin bí mật từ tất cả khách hàng của bạn. một trường đại học liên lạc với bạn để nhờ giúp đỡ trong nghiên cứu của họ. sự giúp đỡ như vậy sẽ đòi hỏi bạn cung cấp cho công ty 1 vài dữ liệu khách hàng từ file của bạn. bạn nên làm gì?",
+    "choices": [
+      "Phát hành(release) thông tin, nhưng xóa hết những liên quan tới danh tính của khách hàng",
+      "Chỉ cung cấp những thông tin quan trọng ( or cần thiết? – high-level) ",
+      "Liên lạc với khách hàng của bạn và tìm kiếm sự cho phép để cung cấp các thông tin của họ",
+      "Cung cấp thông tin"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "21. Ban lãnh đạo đã hứa với bạn 1 phần phí ưu đãi từ khách hàng nếu bạn hoàn thành dự án sớm hạn. trong khi hoàn thành 1 sản phẩm bàn giao quan trọng, đội của bạn thông báo rằng sản phẩm đã đáp ứng các yêu cầu trong hợp đồng nhưng không cung cấp chức năng mà khách hàng cần. nếu sản phẩm bàn giao muộn, dự án không thể hoàn thành sớm hạn. bạn nên làm gì /",
+    "choices": [
+      "Cung cấp sản phẩm như nó vốn thế( provide the deliverable as it is) ",
+      "Thông báo với khách hàng về tình hình và tìm ra giải pháp chung có thể chấp nhận đc",
+      "Bắt đầu biên tập 1 danh sách các nguyên nhân chậm trễ do khách hàng để chuẩn bị cho thương lượng",
+      "Cắt giảm các hoạt động khác theo cách mà sẽ không bị chú ý để cung cấp nhiều thời gian hơn để sửa sản phẩm bàn giao"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "22. Bạn vừa phát hiện ra 1 lỗi trong kế hoạch cài đặt mà sẽ ngăn cản 1 cuộc họp quan trọng(milestone date). điều tốt nhất bạn nên làm là:",
+    "choices": [
+      "Phát triển các tùy chọn để có đc ngày quan trọng",
+      "Thay đổi ngày quan trọng",
+      "Xóa 1 vài thảo luận về thời gian theo báo cáo trang thái dự án",
+      "Huấn luyện đội về sự cần thiết để có đc ngày quan trọng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "23. Trong khi kiểm tra độ bền của bêtông đc đổ trong dự án của bạn, bạn phát hiện ra hơn 35% bê tông không đáp ứng đc tiêu chuẩn chất lượng của công ty bạn. bạn cảm thấy chắc chắn rằng bê tông sẽ hoạt động tốt, và bạn k nghĩ rằng bê tông cần đáp ứng các tiêu chuẩn chất lượng. bạn nên làm gì?",
+    "choices": [
+      "Thay đổi tiêu chuẩn chất lượng phù hợp với mức độ có thể có",
+      "Liệt kê trong báo cáo rằng bê tông đơn giản là”đáp ứng yêu cầu của chúng tôi”",
+      "Chắc chắn rằng số bê tông còn lại sẽ đạt tiêu chuẩn ",
+      "Báo cáo về chất lượng kém và cố gắng tìm 1 giải pháp"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "24. Bạn là PM cho 1 dự án đa quốc gia mới và đội dự án của bạn bao gồm nhân viên đến từ 4 quốc gia. Phần lớn nhân viên chưa bao h làm việc trong 1 dự án kiểu như thế này, nhưng dự án có sự hỗ trợ lớn từ ban lãnh đạo cấp cao. Điều tốt nhất để chắc chắn rằng sự khác biệt văn hóa không ảnh hưởng tới dự án là:",
+    "choices": [
+      "Dành thêm 1 khoảng thời gian để tạo WBS và chắc chắn nó hoàn thành",
+      "Là một PM, chắc chắn bạn chọn từ ngữ cẩn thận khi bạn giao tiếp ",
+      "Yêu cầu 1 người trong mỗi buổi họp mô tả những điều đặc biệt về văn hóa của họ",
+      "Mã hóa cẩn thận tất cả các giao tiếp của PM"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "25. Một dự án có ngân sách eo hẹp khi bạn bắt đầu thương lượng với 1 người bán về thiết bị. người bán nói với bạn rằng giá của thiết bị này là cố định. Ng quản lý của bạn nói với bạn thương lượng giá cả với người bán. Hành động nào là tốt nhất/ ",
+    "choices": [
+      "Thực hiện nỗ lực cam kết tốt để tìm cách giảm giá",
+      "Hoãn thương lượng cho tới khi bạn thuyết phục đc ng quản lý của bạn thay đổi quyết định",
+      "Vẫn thương lượng, nhưng chỉ về những khía cạnh khác của dự án",
+      "Hủy thương lượng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "26. Bạn đang làm việc trong 1 dự án xây dựng lớn đang thực hiện trong đường giới hạn. các nguồn lực đc sử dụng từ từ(remain steady), thủ trưởng của bạn vừa thưởng bạn vì nỗ lực của bạn. một thành viên đội dự án trở về từ 1 cuộc họp với khách hàng và nói với bạn rằng khách hàng không hài lòng với việc thực hiện dự án. Điều đầu tiên bạn nên làm là:",
+    "choices": [
+      "Nói với ng quản lý của bạn",
+      "Hoàn thành các bài tập xây dựng đội dự án và mời đại diện khách hàng tham dự",
+      "Thay đổi đường lịch trình cơ bản ",
+      "Gặp khách hàng để tìm ra chi tiết (uncover detail)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "27. Một PM phát hiện một khuyết điểm trong sản phẩm mà phải bàn giao cho khách hàng hôm nay. PM biết khách hàng k có hiểu biết kĩ thuật để chú ý tới khuyết điểm này. Sản phẩm đáp ứng các yêu cầu của hợp đồng, nhưng không đáp ứng tiêu chuẩn chất lượng của PM. PM nên làm gì trong tình huống này?",
+    "choices": [
+      "Đưa ra sản phẩm và lấy sự chấp nhận chính thức từ khách hàng",
+      "Ghi lại vấn đề trong các bài học thu được để các dự án trong tương lai sẽ không mắc phải vấn đề đó nữa ",
+      "Thảo luận vấn đề với khách hàng",
+      "Thông báo với khách hàng sản phẩm sẽ bị chậm trễ"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "28. Ban lãnh đạo nói với 1 PM để thầu lại một phần của dự án cho 1 công ty mà ban lãnh đạo đã làm việc nhiều lần. trong tình huống này, PM nên bận tâm lớn nhất về: ",
+    "choices": [
+      "Chắc chắn công ty có đủ khả năng để hoàn thành dự án",
+      "Đáp ứng yêu cầu thời gian của ban lãnh đạo",
+      "Chi phí của công việc thầu lại",
+      "Các điều khoản và điều kiện hợp đồng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "29. Khách hàng trong một dự án nói với PM rằng anh ta đã hết tiền chi trả cho dự án. PM nên làm gì đầu tiên?",
+    "choices": [
+      "Thay đổi lịch trình các công việc để thực hiện thời gian muộn hơn so với lịch trình cũ để khách hàng có thêm nguồn vốn ",
+      "Bắt đầu kết thúc các hoạt động quản trị",
+      "Dừng công việc",
+      "Cắt giảm nhân sự 1 phần đội dự án(release part of the team)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "30. Bạn là PM cho 1 dự án lớn trong hợp đồng với chính phủ. Hợp đồng 2 năm, nhiều triệu $ đã đc ký 6 tháng trước. bạn không đc kéo theo trong thương lượng hợp đồng hay thiết lập các thủ tục cho việc quản lý các thay đổi, nhưng bạn đang tràn ngập với các thay đổi từ khách hàng và từ những người trong tổ chức của bạn. thông thường, ai sẽ có trách nhiệm cho việc xem xét chính thức các thay đổi lớn đối với dự án/hợp đồng? ",
+    "choices": [
+      "Ban kiểm soát thay đổi",
+      "Ban ký hợp đồng/pháp lý",
+      "PM",
+      "Lãnh đạo cấp cao"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "31. Phòng kĩ thuật muốn mục tiêu dự án cải thiện 10%. Phòng IT muốn nguồn lực của phòng k bị sử dụng nhiều hơn 5% vào dự án. Ban lãnh đạo, cũng là thủ trưởng của bạn, muốn đội dự án giảm thuế pháp lý (tax liability). Điều tốt nhất bạn nên làm là:",
+    "choices": [
+      "Xây dựng 1 kế hoạch đáp ứng tất cả các mục tiêu trên",
+      "Mọi người cùng bàn bạc và đồng ý 1 mục tiêu ",
+      "Tính đến mục tiêu của phòng kỹ thuật và phòng IT nhưng đáp ứng ít đối với mục tiêu của ban lãnh đạo(holding a further meeting)",
+      "Chỉ tính đến mục tiêu của ban lãnh đạo."
+    ],
+    "answer": 3
+  }
+]

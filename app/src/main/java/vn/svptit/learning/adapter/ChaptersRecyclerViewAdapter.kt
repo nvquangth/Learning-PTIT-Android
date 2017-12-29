@@ -44,6 +44,6 @@ class ChapterViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
     fun bindItems(chapter: Chapter, position: Int) {
         itemView.no_chapter.text = ((position + 1).toString())
         itemView.txt_chapter.text = chapter.name
-        itemView.bg_view.setBackgroundResource(ResourceUtils().getResourceId(itemView.context, "bg_square_" + (((position + 1) % 4) + 1), "drawable"))
+        itemView.bg_view.setBackgroundResource(ResourceUtils().getResourceId(itemView.context, "bg_square_" + (position % 4), "drawable"))
     }
 }

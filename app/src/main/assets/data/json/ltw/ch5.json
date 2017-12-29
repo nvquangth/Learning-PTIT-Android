@@ -1,0 +1,202 @@
+[
+  {
+    "question": "SQL là viết tắt của?",
+    "choices": [
+      "Strong Question Language",
+      "Structured Query Language",
+      "Structured Question Language",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu lệnh SQL nào dùng để lấy dữ liệu từ database?",
+    "choices": [
+      "OPEN",
+      "GET",
+      "SELECT",
+      "EXTRACT"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu lệnh SQL nào dùng để cập nhật dữ liệu từ database?",
+    "choices": [
+      "UPDATE",
+      "SAVE",
+      "MODIFY",
+      "SAVE AS"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL nào dùng để xóa dữ liệu từ database?",
+    "choices": [
+      "DELETE",
+      "COLLAPSE",
+      "REMOVE",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL nào dùng để chèn mới dữ liệu vào database?",
+    "choices": [
+      "INSERT NEW",
+      "ADD RECORD",
+      "INSERT INTO",
+      "ADD NEW "
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn cột \"FirstName\" từ bảng \"Persions\"?",
+    "choices": [
+      "EXTRACT FirstName FROM Persons",
+      "SELECT FirstName FROM Persons",
+      "SELECT Persons.FirstName",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn tất cả các cột từ bảng \"Persions\"?",
+    "choices": [
+      "DSELECT Persons",
+      "SELECT [all] FROM Persons",
+      "SELECT * FROM Persons",
+      "SELECT *.Persons"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn tất cả các bản ghi có giá trị cột \"FirstName\" là \"Peter\" từ bảng \"Persions\"?",
+    "choices": [
+      "SELECT [all] FROM Persons WHERE FirstName LIKE 'Peter'",
+      "SELECT * FROM Persons WHERE FirstName='Peter'",
+      "SELECT * FROM Persons WHERE FirstName<>'Peter'",
+      "NSELECT [all] FROM Persons WHERE FirstName='Peter'"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn tất cả các bản ghi có giá trị cột \"FirstName\" bắt đầu bằng \"a\" từ bảng \"Persions\"?",
+    "choices": [
+      "SELECT * FROM Persons WHERE FirstName='%a%'",
+      "SELECT * FROM Persons WHERE FirstName LIKE 'a%'",
+      "SELECT * FROM Persons WHERE FirstName LIKE '%a'",
+      "SELECT * FROM Persons WHERE FirstName='a'"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong SQL, toán tử OR hiển thị bản ghi nếu BẤT KỲ điều kiện nào đúng, toán tử AND hiển thị bản ghi nếu TẤT CẢ điều kiện đều đúng",
+    "choices": [
+      "True",
+      "False",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn tất cả các bản ghi có giá trị cột \"FirstName\" là \"Peter\" và cột \"LastName\" là \"Jackson\" từ bảng \"Persions\"?",
+    "choices": [
+      "SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+      "SELECT * FROM Persons WHERE FirstName<>'Peter' AND LastName<>'Jackson'",
+      "SELECT FirstName='Peter', LastName='Jackson' FROM Persons",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn tất cả các bản ghi có giá trị cột \"LastName\" nằm giữa(và bao gồm) \"Hansweren\" và \"Pettersen\" theo thứ tự chữ cái từ bảng \"Persons\"?",
+    "choices": [
+      "SELECT * FROM Persons WHERE LastName BETWEEN 'Hansweren' AND 'Pettersen'",
+      "SELECT LastName>'Hansweren' AND LastName<'Pettersen' FROM Persons",
+      "SELECT * FROM Persons WHERE LastName>'Hansweren' AND LastName<'Pettersen'",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL chỉ trả về các giá trị khác nhau?",
+    "choices": [
+      "SELECT DISTINCT",
+      "SELECT DIFFERENT",
+      "SELECT UNIQUE",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Từ khóa SQL để sắp xếp kết quả?",
+    "choices": [
+      "SORT BY",
+      "SORT",
+      "ORDER BY",
+      "ORDER"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn tất cả các bản ghi từ bảng \"Persions\" sắp xếp giảm dần theo \"FirstName\"?",
+    "choices": [
+      "SELECT * FROM Persons ORDER BY FirstName DESC",
+      "SELECT * FROM Persons SORT 'FirstName' DESC",
+      "SELECT * FROM Persons ORDER FirstName DESC",
+      "SELECT * FROM Persons SORT BY 'FirstName' DESC"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL chèn bản ghi mới vào bảng \"Persons\"",
+    "choices": [
+      "INSERT INTO Persons VALUES ('Jimmy', 'Jackson')",
+      "INSERT VALUES ('Jimmy', 'Jackson') INTO Persons",
+      "INSERT ('Jimmy', 'Jackson') INTO Persons",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL chèn bản ghi có giá trị cột LastName là Olsen vào bảng Persons?",
+    "choices": [
+      "INSERT INTO Persons (LastName) VALUES ('Olsen')",
+      "INSERT INTO Persons ('Olsen') INTO LastName",
+      "INSERT ('Olsen') INTO Persons (LastName)",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL sửa cột LastName từ Hansweren thành Nilsen trong bảng Persons?",
+    "choices": [
+      "UPDATE Persons SET LastName='Hansweren' INTO LastName='Nilsen'",
+      "UPDATE Persons SET LastName='Nilsen' WHERE LastName='Hansweren'",
+      "MODIFY Persons SET LastName='Nilsen' WHERE LastName='Hansweren'",
+      "MODIFY Persons SET LastName='Hansweren' INTO LastName='Nilsen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu lệnh SQL dùng để xóa bản ghi có giá trị cột FirstName là Peter trong bảng Persons?",
+    "choices": [
+      "DELETE FROM Persons WHERE FirstName = 'Peter'",
+      "DELETE FirstName='Peter' FROM Persons",
+      "DELETE ROW FirstName='Peter' FROM Persons",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL trả về số lượng bản ghi trong bảng Persons?",
+    "choices": [
+      "SELECT COLUMNS() FROM Persons”",
+      "SELECT COUNT() FROM Persons",
+      "SELECT COLUMNS(*) FROM Persons",
+      "SELECT COUNT(*) FROM Persons"
+    ],
+    "answer": 4
+  }
+]

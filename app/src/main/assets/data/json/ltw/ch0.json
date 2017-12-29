@@ -1,0 +1,1602 @@
+[
+  {
+    "question": "HTML là viết tắt của:",
+    "choices": [
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Text Markup Language",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Ai là người tạo ra các tiêu chuẩn WEB:",
+    "choices": [
+      "Microsoft",
+      "Google",
+      "The World Wide Web Consortium",
+      "Mozilla"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Chọn phần tử HTML cho tiêu đề lớn nhất:",
+    "choices": [
+      "<heading>",
+      "<h1>",
+      "<head>",
+      "<h6>"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Phần tử HTML để ngắt dòng:",
+    "choices": [
+      "<break>",
+      "<lb>",
+      "<br>",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong HTML, cách nào để thêm màu cho background:",
+    "choices": [
+      "<body style=\"background-color:yellow;\">",
+      "<background>yellow</background>",
+      "<body bg=\"yellow\">",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chọn phần tử HTML để xách định important text:",
+    "choices": [
+      "<b>",
+      "<strong>",
+      "<important>",
+      "<i>"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Chọn phần tử HTML để xách định emphasized text:",
+    "choices": [
+      "<italic>",
+      "<i>",
+      "<em>",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong HTML, cách tạo hyperlink đúng la:",
+    "choices": [
+      "<a name=\"http://www.w3schools.com\">W3Schools.com</a>",
+      "<a>http://www.w3schools.com</a>",
+      "<a url=\"http://www.w3schools.com\">W3Schools.com</a>",
+      "<a href=\"http://www.w3schools.com\">W3Schools</a>"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Trong HTML, ký tự nào dùng để thể hiện end tag",
+    "choices": [
+      "/",
+      "<",
+      "^",
+      "*"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, làm thế nào để 1 đường link được mở trong tab/window mới",
+    "choices": [
+      "<a href=\"url\" target=\"new\">",
+      "<a href=\"url\" new>",
+      "<a href=\"url\" target=\"_blank\">",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong các thẻ HTML dưới đây, đáp án nào mà toàn bộ đều là phần tử thuộc về bảng:",
+    "choices": [
+      "<table><tr><tt>",
+      "<table><head><tfoot>",
+      "<table><tr><td>",
+      "<thead><body><tr>"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong HTML, các phần tủ inline thường sẽ được hiển thị mà không bắt đầu từ dòng mới",
+    "choices": [
+      "SAI",
+      "ĐÚNG",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, làm thế nào để tạo danh sách đánh số",
+    "choices": [
+      "<ol>",
+      "<list>",
+      "<dl>",
+      "<ul>"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, làm thế nào để tạo danh sách gạch đầu dòng",
+    "choices": [
+      "<ol>",
+      "<list>",
+      "<dl>",
+      "<ul>"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Trong HTML, làm thế nào để tạo checkbox",
+    "choices": [
+      "<checkbox>",
+      "<check>",
+      "<input type=\"checkbox\">",
+      "<input type=\"check\">"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong HTML, làm thế nào để tạo text input field",
+    "choices": [
+      "<textinput>",
+      "<textfield>",
+      "<input type=\"text\">",
+      "<input type=\"textfield\">"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong HTML, làm thế nào để tạo drop-down list",
+    "choices": [
+      "<select>",
+      "<list>",
+      "<input type=\"dropdown\">",
+      "<input type=\"list\">"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, làm thế nào để tạo text area",
+    "choices": [
+      "<textarea>",
+      "",
+      "<input type=\"textbox\">",
+      "<input type=\"textarea\">"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, làm thế nào để chèn ảnh",
+    "choices": [
+      "<image src=\"image.gif\" alt=\"MyImage\">",
+      "<img src=\"image.gif\" alt=\"MyImage\">",
+      "<img alt=\"MyImage\">image.gif</img>",
+      "<img href=\"image.gif\" alt=\"MyImage\">"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, làm thế nào để chèn ảnh nền",
+    "choices": [
+      "<background img=\"background.gif\">",
+      "<body style=\"background-image:url(background.gif)\">",
+      "<body bg=\"background.gif\">",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, thẻ iframe dùng để hiển thị 1 trang web bên trong trang web",
+    "choices": [
+      "Không có thẻ iframe",
+      "ĐÚNG",
+      "SAI",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "HTML comments bắt đầu bằng <!-- và kết thúc bằng -->",
+    "choices": [
+      "SAI",
+      "ĐÚNG",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, các phần tủ block thường sẽ được hiển thị mà không bắt đầu từ dòng mới",
+    "choices": [
+      "SAI",
+      "ĐÚNG",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thẻ HTML nào xác định title",
+    "choices": [
+      "<meta>",
+      "<head>",
+      "<title>",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thuộc tính HTML nào xác định đoạn text thế chỗ cho hình ảnh nếu nó không thể hiển thị",
+    "choices": [
+      "alt",
+      "title",
+      "longdesc",
+      "scr"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Doctype cho HTML5",
+    "choices": [
+      "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 5.0//EN\" \"http://www.w3.org/TR/html5/strict.dtd\">",
+      "<!DOCTYPE html>",
+      "<!DOCTYPE HTML5>",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Thẻ HTML nào dùng để xách định phần footer",
+    "choices": [
+      "<footer>",
+      "<section>",
+      "<bottom>",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Có thể nhúng SVG thẳng vào HTML",
+    "choices": [
+      "ĐÚNG",
+      "SAI",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thẻ HTML để chạy tập tin phim",
+    "choices": [
+      "<movie>",
+      "<video>",
+      "<media>",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Thẻ HTML để chạy tập tin nhạc",
+    "choices": [
+      "<sound>",
+      "<audio>",
+      "<mp3>",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Thuộc tính contenteditable trong HTML dùng để: ",
+    "choices": [
+      "Quy định cho phép sửa nội dung của 1 thành phần hoặc không",
+      "Trả về vị trí xuất hiện đầu tiên của đoạn nội dung trong 1 chuỗi",
+      "Cập nhật nội dung từ máy chủ",
+      "Xác định 1 menu bối cảnh, xuất hiện khi user click chuột phải vào thành phần đó"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, onblur và onfocus là",
+    "choices": [
+      "Thuộc tính sự kiện",
+      "Thẻ",
+      "Thuộc tính kiểu cách",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, Đồ họa SVG viết ở dạng nào",
+    "choices": [
+      "HTML",
+      "CSS",
+      "XML",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong HTML, thẻ canvas dùng để",
+    "choices": [
+      "Hiển thị bản ghi dữ liệu",
+      "Vẽ đồ họa",
+      "Tạo 1 thành phần kéo thả",
+      "Tác động vào data MYSQL"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, thuộc tính dùng để xác định 1 input field phải được điền là",
+    "choices": [
+      "placeholder",
+      "required",
+      "validate",
+      "formvalidate"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, loại input dùng để tạo thanh trượt là",
+    "choices": [
+      "slider",
+      "range",
+      "search",
+      "controls"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, thẻ nào dùng để hiển thị 1 thước đo",
+    "choices": [
+      "meter",
+      "range",
+      "measure",
+      "gauge"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong HTML, thẻ nào dùng để xác định đường dẫn điều hướng",
+    "choices": [
+      "navigation",
+      "nav",
+      "navigate",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong HTML, thẻ aside dùng để xác định",
+    "choices": [
+      "Danh sách điều hướng được hiển thị bên trái trang",
+      "Bộ ký tự ASCII, để gửi thông tin giữa các máy tính trên mạng Internet",
+      "Nội dung bổ sung từ phần nội dung chính",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thẻ HTML nào dùng để xác định header cho 1 trang",
+    "choices": [
+      "head",
+      "top",
+      "header",
+      "section"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "CSS là viết tắt của ...?",
+    "choices": [
+      "Colorful Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style Sheets"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gắn CSS từ file bên ngoài vào HTML như thế nào?",
+    "choices": [
+      "<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">",
+      "<style src=\"mystyle.css\">",
+      "<stylesheet>mystyle.css</stylesheet>",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Gắn CSS từ file bên ngoài đặt vào vị trí nào trong HTML?",
+    "choices": [
+      "Cuối cùng của trang HTML",
+      "Trong phần head",
+      "Trong phần body",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Muốn viết CSS bên trong HTML thì phải dùng thẻ nào?",
+    "choices": [
+      "script",
+      "css",
+      "style",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thuộc tính HTML nào dùng để định nghĩa kiểu dáng ngay bên trong thẻ?",
+    "choices": [
+      "styles",
+      "class",
+      "style",
+      "font"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Đáp án nào đúng cú pháp CSS?",
+    "choices": [
+      "body:color=black;",
+      "{body;color:black;}",
+      "body {color: black;}",
+      "{body:color=black;}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Làm thế nào để chèn comment trong CSS?",
+    "choices": [
+      "// this is a comment//",
+      "// this is a comment",
+      "/* this is a comment */",
+      "' this is a comment"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Làm thế nào để thêm màu nền cho toàn bộ thẻ h1?",
+    "choices": [
+      "all.h1 {background-color:#FFFFFF;}",
+      "h1.all {background-color:#FFFFFF;}",
+      "h1 {background-color:#FFFFFF;}",
+      "h1.* {background-color:#FFFFFF;}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thuộc tính CSS nào đổi màu nền?",
+    "choices": [
+      "bgcolor",
+      "background-color",
+      "color",
+      "bg"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Thuộc tính CSS nào để đổi màu chữ?",
+    "choices": [
+      "color",
+      "text-color",
+      "fgcolor",
+      "textcolor"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thuộc tính CSS nào để điều chỉnh cỡ chữ?",
+    "choices": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cú pháp CSS để làm chữ đậm cho tất cả thẻ p?",
+    "choices": [
+      "p {text-size:bold;}",
+      "<p style=\"text-size:bold;\">",
+      "p {font-weight:bold;}",
+      "<p style=\"font-size:bold;\">"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Làm thế nào để hiển thị liên kết không có gạch chân trong CSS?",
+    "choices": [
+      "a {decoration:no-underline;}",
+      "a {underline:none;}",
+      "a {text-decoration:none;}",
+      "a {text-decoration:no-underline;}"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Làm thế nào để mỗi từ hiển thị viết hoa chữ cái đầu tiên trong CSS?",
+    "choices": [
+      "text-transwerform:capitalize",
+      "text-transwerform:uppercase",
+      "Không làm được với CSS",
+      "text-transwerform:uppercase-first"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thuộc tính CSS để đổi font chữ?",
+    "choices": [
+      "font",
+      "font-family",
+      "Cả font-family và font",
+      "font-base"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Làm thế nào để hiển thị chữ in đậm trong CSS?",
+    "choices": [
+      "style:bold;",
+      "font-weight:bold;",
+      "font:bold;",
+      "text:bold;"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kẻ viền trong CSS, phía trên 10px, phía dưới 5px, bên trái 20px, bên phải 1px?",
+    "choices": [
+      "border-width:10px 1px 5px 20px;",
+      "border-width:10px 20px 5px 1px;",
+      "border-width:10px 5px 20px 1px;",
+      "border-width:5px 20px 10px 1px;"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Thuộc tính CSS để căn lề trái?",
+    "choices": [
+      "indent",
+      "padding-left",
+      "margin-left",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thuộc tính padding trong CSS có thể nhận giá trị âm hay không??",
+    "choices": [
+      "Có",
+      "Không",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Liệt kê danh sách với ô vuông trong CSS?",
+    "choices": [
+      "list: square;",
+      "list-style-type: square;",
+      "list-type: square;",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Chọn phần tử với id là demo trong CSS?",
+    "choices": [
+      ".demo",
+      "demo",
+      "#demo",
+      "$demo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Chọn phần tử với class là test trong CSS?",
+    "choices": [
+      "#test",
+      "test",
+      ".test",
+      "$test"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Chọn toàn bộ phần tử p bên trong 1 thẻ div?",
+    "choices": [
+      "div p",
+      "div.p",
+      "div + p",
+      "div(p)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "1 nhóm selectors trong CSS ...?",
+    "choices": [
+      "Phân cách mỗi selector bằng dấu cộng",
+      "Phân cách mỗi selector bằng dấu phẩy",
+      "Phân cách mỗi selector bằng khoảng trắng",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Giá trị mặc định cho thuộc tính position trong CSS?",
+    "choices": [
+      "fixed",
+      "absolute",
+      "static",
+      "relative"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Đặt JavaScript trong thẻ nào của HTML?",
+    "choices": [
+      "<js>",
+      "<scripting>",
+      "<script>",
+      "<javascript>"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cú pháp JS để thay đổi nội dung của 1 thành phần HTML?",
+    "choices": [
+      "document.getElement(\"p\").innerHTML = \"Hello World!\";",
+      "document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
+      "#demo.innerHTML = \"Hello World!\";",
+      "document.getElementByName(\"p\").innerHTML = \"Hello World!\";"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Vị trí đặt mã JavaScript?",
+    "choices": [
+      "<head>section",
+      "Cả <head> và <body> đều được",
+      "<body> section",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cú pháp JS để gắn mã ngoài?",
+    "choices": [
+      "<script src=\"xxx.js\">",
+      "<script name=\"xxx.js\">",
+      "<script href=\"xxx.js\">",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong tập tin JavaScript bắt buộc phải chứa thẻ <script>",
+    "choices": [
+      "True",
+      "False",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Viết \"Hello World\" trong hộp thông báo bằng JS?",
+    "choices": [
+      "alert(\"Hello World\");",
+      "msgBox(\"Hello World\");",
+      "alertBox(\"Hello World\");",
+      "msg(\"Hello World\");"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tạo hàm trong JavaScript?",
+    "choices": [
+      "function:myFunction()",
+      "function myFunction()",
+      "function = myFunction()",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Gọi hàm \"myFunction\" trong JS?",
+    "choices": [
+      "call myFunction()'",
+      "myFunction()'",
+      "call function myFunction()",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu lệnh IF trong JavaScript?",
+    "choices": [
+      "if i == 5 then",
+      "if i = 5",
+      "if i = 5 then",
+      "if (i == 5)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Cậu lệnh IF thực thi mã khi i KHÔNG bằng 5 trong JS là?",
+    "choices": [
+      "if i <> 5",
+      "if i =! 5 then",
+      "if (i != 5)",
+      " if (i <> 5)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu lệnh WHILE trong JS bắt đầu bằng?",
+    "choices": [
+      "while (i <= 10; i++)",
+      "while (i <= 10)",
+      "while i = 1 to 10",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu lệnh FOR trong JS bắt đầu bằng?",
+    "choices": [
+      " for (i = 0; i <= 5; i++)",
+      " for i = 1 to 5 ",
+      "for (i = 0; i <= 5)",
+      " for (i <= 5; i++); "
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cách comment trong JavaScript?",
+    "choices": [
+      " 'This is a comment",
+      "//This is a comment",
+      "<!--This is a comment-->",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cách comment nhiều dòng trong JavaScript?",
+    "choices": [
+      "//This comment has\nmore than one line//",
+      " /*This comment has\nmore than one line*/",
+      "<!--This comment has\nmore than one line-->\n",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cách tạo 1 mảng trong JavaScript?",
+    "choices": [
+      "var colors = (1:\"red\", 2:\"green\", 3:\"blue\")e",
+      "var colors = 1 = (\"red\"), 2 = (\"green\"), 3 = (\"blue\")",
+      "var colors = \"red\", \"green\", \"blue\"",
+      "var colors = [\"red\", \"green\", \"blue\"]"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Làm tròn số 7.25 về số nguyên gần nhất trong JS?",
+    "choices": [
+      "Math.rnd(7.25)",
+      "rnd(7.25)",
+      "Math.round(7.25)",
+      "round(7.25)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Tìm số lớn nhất giữa x và y trong JS?",
+    "choices": [
+      "ceil(x, y)",
+      "Math.ceil(x, y)",
+      "top(x, y)",
+      "Math.max(x, y)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Cú pháp JavaScript để mở 1 cửa sổ mới đặt là w2?",
+    "choices": [
+      "w2 = window.open(\"http://www.w3schools.com\");",
+      "w2 = window.new(\"http://www.w3schools.com\");",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "JavaScript giống Java?",
+    "choices": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Làm thế nào để biết tên browser của khách trong JS?",
+    "choices": [
+      "browser.name",
+      "navigator.appName",
+      "client.navName",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong JS, sự kiện nào xảy ra khi user click vào 1 phần tử HTML?",
+    "choices": [
+      "onmouseclick",
+      "onclick",
+      "onmouseover",
+      "onchange"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Khai báo biến trong JS như thế nào?",
+    "choices": [
+      " v carName;",
+      "var carName;",
+      "variable carName;",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Toán tử nào gán giá trị cho biến trong JS?",
+    "choices": [
+      "-",
+      "=",
+      "*",
+      "*"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong Js, đoạn code sau trả về giá trị gì?: Boolean(10 > 9)",
+    "choices": [
+      "NaN",
+      "true",
+      "false",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "JavaScript có phân biệt chữ viêt HOA không?",
+    "choices": [
+      "Yes",
+      "No",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu nào sau đây là đúng?",
+    "choices": [
+      "jQuery là 1 thư viện JavaScript",
+      "jQuery là 1 thư viên JSON",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "jQuery sử dụng CSS selectors để chọn phần tử?",
+    "choices": [
+      "SAI",
+      "ĐÚNG",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Ký tự nào để viết tắt cho jQuery?",
+    "choices": [
+      "dấu ?",
+      "dấu %",
+      "dấu $",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "$(\"div\") dùng để chọn cái gì?",
+    "choices": [
+      "Tất cả thẻ div",
+      "Thẻ div đầu tiên",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": " Is jQuery a library for client scripting or server scripting?",
+    "choices": [
+      "Server scripting",
+      "Client scripting",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Có thể dùng jQuery cùng với AJAX?",
+    "choices": [
+      "Không",
+      "Có",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "hàm jQuery html() dùng cho cả HTML và XML",
+    "choices": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mã jQuery để đặt màu nền cho toàn bộ thẻ p là màu đỏ?",
+    "choices": [
+      "$(\"p\").manipulate(\"background-color\",\"red\");",
+      "$(\"p\").css(\"background-color\",\"red\");",
+      "$(\"p\").style(\"background-color\",\"red\");",
+      "$(\"p\").layout(\"background-color\",\"red\");"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong jQuery, $(\"div.intro\") dùng để chọn...?",
+    "choices": [
+      "Thẻ đầu tiên có class=\"intro\"",
+      "Toàn bộ thẻ có id=\"intro\"",
+      "Toàn bộ thẻ có class=\"intro\"",
+      "Thẻ đầu tiên có id=\"intro\""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "hàm jQuery để ẩn toàn bộ phần tử được chọn?",
+    "choices": [
+      "hide()",
+      "display(none)",
+      "hidden()",
+      "visible(false)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hàm jQuery nào dùng để định dạng kiểu dáng cho toàn bộ phần tử được chọn?",
+    "choices": [
+      "html()",
+      "css()",
+      "style()",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hàm jQuery nào để thực thi 1 yêu cầu HTTP không đồng bộ?",
+    "choices": [
+      "jQuery.ajaxAsync()",
+      "jQuery.ajaxSetup()",
+      "jQuery.ajax()",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hàm jQuery nào làm cho toàn bộ thẻ div có chiều cao 100px?",
+    "choices": [
+      "$(\"div\").height=\"100\"",
+      "$(\"div\").height(100)",
+      "$(\"div\").yPos(100)",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu nào là đúng trong các câu sau?",
+    "choices": [
+      "Muốn dùng jQuery phải mua thư viện tại jquery.com",
+      "Muốn dùng jQuery chẳng cần làm gì cả, hầu hết browser hiện đại đều sẵn sàng hỗ trợ jQuery",
+      "Muốn dùng jQuery có thể gắn thư viện từ nguồn bên ngoài như Google",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "jQuery được viết dưới dạng ngôn ngữ nào?",
+    "choices": [
+      "VBScript",
+      "C++",
+      "JavaScript",
+      "C#"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "hàm jQuery nào dùng để ngăn đoạn mã chạy cho đến khi toàn bộ trang web được tải hoàn thiện?",
+    "choices": [
+      "$(body).onload()",
+      "$(document).load()",
+      "$(document).ready()",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hàm jQuery nào dùng để tránh xung đột tên gọi?",
+    "choices": [
+      "nameConflict()",
+      "conflict()",
+      "noNameConflict()",
+      "noConflict()"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Dùng hàm jQuery nào để chuyển đổi thêm/xóa CSS class cho các phần tử được chọn?",
+    "choices": [
+      "toggleClass()",
+      "switch()",
+      "altClass()",
+      "switchClass()"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "$(\"div p\") dùng để chọn gì trong jQuery?",
+    "choices": [
+      "Thẻ p đầu tiên nằm trong 1 thẻ div",
+      "Toàn bộ thẻ p nằm bên trong 1 thẻ div",
+      "Toàn bô thẻ p",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "jQuery có là 1 tiêu chuẩn W3C?",
+    "choices": [
+      "Không",
+      "Có",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "$(\"p#intro\") chọn gì trong jQuery?",
+    "choices": [
+      "Toàn bộ thẻ p có class=\"intro\"",
+      "Thẻ p có id=\"intro\"",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hàm jQuery nào để xóa bỏ các phần tử được chọn?",
+    "choices": [
+      "detach()",
+      "remove()",
+      "cả 2 đều được",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "$(\":disabled\") chọn gì trong jQuery?",
+    "choices": [
+      "Toàn bộ thẻ có chứa chữ \"disabled\"",
+      "Toàn bộ thẻ không chứa chữ \"disabled\"",
+      "Toàn bộ thẻ disabled input",
+      "Toàn bộ các thẻ bị ẩn"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hàm jQuery nào dùng để chọn phần tử cha trực tiếp của phần tử được chọn?",
+    "choices": [
+      "ancestor()",
+      "parents()",
+      "ancestors()",
+      "parent()"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Hàm jQuery animate() có thể tạo hiệu ứng hoạt cảnh cho toàn bộ các thuộc tính CSS?",
+    "choices": [
+      "Tất cả trừ các tuộc tính viết tắt",
+      "Tất cả",
+      "Chỉ những thuộc tính có giá trị số học",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "SQL là viết tắt của?",
+    "choices": [
+      "Strong Question Language",
+      "Structured Query Language",
+      "Structured Question Language",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu lệnh SQL nào dùng để lấy dữ liệu từ database?",
+    "choices": [
+      "OPEN",
+      "GET",
+      "SELECT",
+      "EXTRACT"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Câu lệnh SQL nào dùng để cập nhật dữ liệu từ database?",
+    "choices": [
+      "UPDATE",
+      "SAVE",
+      "MODIFY",
+      "SAVE AS"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL nào dùng để xóa dữ liệu từ database?",
+    "choices": [
+      "DELETE",
+      "COLLAPSE",
+      "REMOVE",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL nào dùng để chèn mới dữ liệu vào database?",
+    "choices": [
+      "INSERT NEW",
+      "ADD RECORD",
+      "INSERT INTO",
+      "ADD NEW "
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn cột \"FirstName\" từ bảng \"Persions\"?",
+    "choices": [
+      "EXTRACT FirstName FROM Persons",
+      "SELECT FirstName FROM Persons",
+      "SELECT Persons.FirstName",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn tất cả các cột từ bảng \"Persions\"?",
+    "choices": [
+      "DSELECT Persons",
+      "SELECT [all] FROM Persons",
+      "SELECT * FROM Persons",
+      "SELECT *.Persons"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn tất cả các bản ghi có giá trị cột \"FirstName\" là \"Peter\" từ bảng \"Persions\"?",
+    "choices": [
+      "SELECT [all] FROM Persons WHERE FirstName LIKE 'Peter'",
+      "SELECT * FROM Persons WHERE FirstName='Peter'",
+      "SELECT * FROM Persons WHERE FirstName<>'Peter'",
+      "NSELECT [all] FROM Persons WHERE FirstName='Peter'"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn tất cả các bản ghi có giá trị cột \"FirstName\" bắt đầu bằng \"a\" từ bảng \"Persions\"?",
+    "choices": [
+      "SELECT * FROM Persons WHERE FirstName='%a%'",
+      "SELECT * FROM Persons WHERE FirstName LIKE 'a%'",
+      "SELECT * FROM Persons WHERE FirstName LIKE '%a'",
+      "SELECT * FROM Persons WHERE FirstName='a'"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong SQL, toán tử OR hiển thị bản ghi nếu BẤT KỲ điều kiện nào đúng, toán tử AND hiển thị bản ghi nếu TẤT CẢ điều kiện đều đúng",
+    "choices": [
+      "True",
+      "False",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn tất cả các bản ghi có giá trị cột \"FirstName\" là \"Peter\" và cột \"LastName\" là \"Jackson\" từ bảng \"Persions\"?",
+    "choices": [
+      "SELECT * FROM Persons WHERE FirstName='Peter' AND LastName='Jackson'",
+      "SELECT * FROM Persons WHERE FirstName<>'Peter' AND LastName<>'Jackson'",
+      "SELECT FirstName='Peter', LastName='Jackson' FROM Persons",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn tất cả các bản ghi có giá trị cột \"LastName\" nằm giữa(và bao gồm) \"Hansweren\" và \"Pettersen\" theo thứ tự chữ cái từ bảng \"Persons\"?",
+    "choices": [
+      "SELECT * FROM Persons WHERE LastName BETWEEN 'Hansweren' AND 'Pettersen'",
+      "SELECT LastName>'Hansweren' AND LastName<'Pettersen' FROM Persons",
+      "SELECT * FROM Persons WHERE LastName>'Hansweren' AND LastName<'Pettersen'",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL chỉ trả về các giá trị khác nhau?",
+    "choices": [
+      "SELECT DISTINCT",
+      "SELECT DIFFERENT",
+      "SELECT UNIQUE",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Từ khóa SQL để sắp xếp kết quả?",
+    "choices": [
+      "SORT BY",
+      "SORT",
+      "ORDER BY",
+      "ORDER"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong SQL, làm thế nào để chọn tất cả các bản ghi từ bảng \"Persions\" sắp xếp giảm dần theo \"FirstName\"?",
+    "choices": [
+      "SELECT * FROM Persons ORDER BY FirstName DESC",
+      "SELECT * FROM Persons SORT 'FirstName' DESC",
+      "SELECT * FROM Persons ORDER FirstName DESC",
+      "SELECT * FROM Persons SORT BY 'FirstName' DESC"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL chèn bản ghi mới vào bảng \"Persons\"",
+    "choices": [
+      "INSERT INTO Persons VALUES ('Jimmy', 'Jackson')",
+      "INSERT VALUES ('Jimmy', 'Jackson') INTO Persons",
+      "INSERT ('Jimmy', 'Jackson') INTO Persons",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL chèn bản ghi có giá trị cột LastName là Olsen vào bảng Persons?",
+    "choices": [
+      "INSERT INTO Persons (LastName) VALUES ('Olsen')",
+      "INSERT INTO Persons ('Olsen') INTO LastName",
+      "INSERT ('Olsen') INTO Persons (LastName)",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL sửa cột LastName từ Hansweren thành Nilsen trong bảng Persons?",
+    "choices": [
+      "UPDATE Persons SET LastName='Hansweren' INTO LastName='Nilsen'",
+      "UPDATE Persons SET LastName='Nilsen' WHERE LastName='Hansweren'",
+      "MODIFY Persons SET LastName='Nilsen' WHERE LastName='Hansweren'",
+      "MODIFY Persons SET LastName='Hansweren' INTO LastName='Nilsen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu lệnh SQL dùng để xóa bản ghi có giá trị cột FirstName là Peter trong bảng Persons?",
+    "choices": [
+      "DELETE FROM Persons WHERE FirstName = 'Peter'",
+      "DELETE FirstName='Peter' FROM Persons",
+      "DELETE ROW FirstName='Peter' FROM Persons",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Câu lệnh SQL trả về số lượng bản ghi trong bảng Persons?",
+    "choices": [
+      "SELECT COLUMNS() FROM Persons”",
+      "SELECT COUNT() FROM Persons",
+      "SELECT COLUMNS(*) FROM Persons",
+      "SELECT COUNT(*) FROM Persons"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "PHP là viết tắt của?",
+    "choicees": [
+      "Personal Hypertext Processor",
+      "PHP: Hypertext Preprocessor",
+      "Private Home Page",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mã php server được bao quanh bởi đoạn phân cách nào?",
+    "choicees": [
+      " <script>...</script>",
+      " <>...</>",
+      " <?php...?>",
+      "<?php>...</?>"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Làm thế nào để hiển thị \"Hello World\" với PHP",
+    "choicees": [
+      "Document.Write(\"Hello World\");",
+      "echo \"Hello World\";",
+      "\"Hello World\";",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Biến PHP bắt đầu bằng ký tự nào?",
+    "choicees": [
+      "!",
+      "$",
+      "&",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kết thúc câu lệnh PHP bằng?",
+    "choicees": [
+      ".",
+      "New line",
+      ";",
+      " </php> "
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cú pháp PHP giống ngôn ngữ nào nhất?",
+    "choicees": [
+      "JavaScript",
+      "Perl and C",
+      "VBScript",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong PHP, làm thế nào để lấy thông tin từ 1 form được submit sử dụng phương thức GET?",
+    "choicees": [
+      "$_GET[];",
+      "Request.QueryString;",
+      "Request.Form;",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Sử dụng phương thức POST, biến sẽ hiển thị trong URL?",
+    "choicees": [
+      "True'",
+      "False'",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong PHP, ngoặc đơn ' ' và ngoặc kép \" \" đều có thể dùng cho chuỗi?",
+    "choicees": [
+      "False",
+      "True",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong PHP, Include files phải có file extension",
+    "choicees": [
+      "True",
+      "False",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong PHP, làm thế nào để include the file \"time.inc\" ?",
+    "choicees": [
+      " < !-- include file=\"time.inc\" --> ",
+      " <?php include \"time.inc\"; ?>  ",
+      " <?php include file=\"time.inc\"; ?> ",
+      "  <?php include:\"time.inc\"; ?> "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Làm thế nào để tạo hàm trong PHP?",
+    "choicees": [
+      "new_function myFunction()",
+      "function myFunction()",
+      "create myFunction()",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong PHP, cách mở file \"time.txt\" để đọc là?",
+    "choicees": [
+      "fopen(\"time.txt\",\"r+\");",
+      "fopen(\"time.txt\",\"r\");",
+      "open(\"time.txt\");",
+      "open(\"time.txt\",\"read\");"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "PHP cho phép gửi mail trực tiếp?",
+    "choicees": [
+      "False",
+      "True",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Biến nào giữ thông tin về headers, paths, và script locations trong PHP?",
+    "choicees": [
+      "$_SESSION",
+      "$_GET",
+      "$_SERVER",
+      "$_GLOBALS"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Cách nào để cộng 1 vào biến count trong PHP?",
+    "choicees": [
+      "$count =+1",
+      "++count",
+      "$count++;",
+      "count++;"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Thêm comment trong PHP?",
+    "choicees": [
+      "/*...*/",
+      "*\\...\\*",
+      "<comment>...</comment>",
+      "<!--...-->"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "PHP có thể chạy trên Microsoft Windows IIS(Internet Information Server):",
+    "choicees": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hàm die() và exit() thực hiện cùng 1 chức năng trong PHP?",
+    "choicees": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Biến nào KHÔNG hợp lệ trong PHP?",
+    "choicees": [
+      "$myVar",
+      "$my_Var",
+      "$my-Var",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong PHP, Hàm setcookie() phải viết trước thẻ >html>",
+    "choicees": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong PHP, cách duy nhất để hiển thị text là echo?",
+    "choicees": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Tạo mảng trong PHP bằng cách nào?",
+    "choicees": [
+      "$cars = array[\"Volvo\", \"BMW\", \"Toyota\"];",
+      "$cars = \"Volvo\", \"BMW\", \"Toyota\";",
+      "$cars = array(\"Volvo\", \"BMW\", \"Toyota\");",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong PHP, lệnh if dùng để thực thi đoạn mã chỉ khi điều kiện nào đó là đúng?",
+    "choicees": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Toán tử nào kiểm tra 2 biến bằng nhau và cùng kiểu dữ liệu trong PHP?",
+    "choicees": [
+      "!=",
+      "==",
+      "===",
+      "="
+    ],
+    "answer": 3
+  }
+]

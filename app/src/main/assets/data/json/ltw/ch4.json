@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Câu nào sau đây là đúng?",
+    "choices": [
+      "jQuery là 1 thư viện JavaScript",
+      "jQuery là 1 thư viên JSON",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "jQuery sử dụng CSS selectors để chọn phần tử?",
+    "choices": [
+      "SAI",
+      "ĐÚNG",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Ký tự nào để viết tắt cho jQuery?",
+    "choices": [
+      "dấu ?",
+      "dấu %",
+      "dấu $",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "$(\"div\") dùng để chọn cái gì?",
+    "choices": [
+      "Tất cả thẻ div",
+      "Thẻ div đầu tiên",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": " Is jQuery a library for client scripting or server scripting?",
+    "choices": [
+      "Server scripting",
+      "Client scripting",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Có thể dùng jQuery cùng với AJAX?",
+    "choices": [
+      "Không",
+      "Có",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "hàm jQuery html() dùng cho cả HTML và XML",
+    "choices": [
+      "TRUE",
+      "FALSE",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mã jQuery để đặt màu nền cho toàn bộ thẻ p là màu đỏ?",
+    "choices": [
+      "$(\"p\").manipulate(\"background-color\",\"red\");",
+      "$(\"p\").css(\"background-color\",\"red\");",
+      "$(\"p\").style(\"background-color\",\"red\");",
+      "$(\"p\").layout(\"background-color\",\"red\");"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong jQuery, $(\"div.intro\") dùng để chọn...?",
+    "choices": [
+      "Thẻ đầu tiên có class=\"intro\"",
+      "Toàn bộ thẻ có id=\"intro\"",
+      "Toàn bộ thẻ có class=\"intro\"",
+      "Thẻ đầu tiên có id=\"intro\""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "hàm jQuery để ẩn toàn bộ phần tử được chọn?",
+    "choices": [
+      "hide()",
+      "display(none)",
+      "hidden()",
+      "visible(false)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Hàm jQuery nào dùng để định dạng kiểu dáng cho toàn bộ phần tử được chọn?",
+    "choices": [
+      "html()",
+      "css()",
+      "style()",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hàm jQuery nào để thực thi 1 yêu cầu HTTP không đồng bộ?",
+    "choices": [
+      "jQuery.ajaxAsync()",
+      "jQuery.ajaxSetup()",
+      "jQuery.ajax()",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hàm jQuery nào làm cho toàn bộ thẻ div có chiều cao 100px?",
+    "choices": [
+      "$(\"div\").height=\"100\"",
+      "$(\"div\").height(100)",
+      "$(\"div\").yPos(100)",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Câu nào là đúng trong các câu sau?",
+    "choices": [
+      "Muốn dùng jQuery phải mua thư viện tại jquery.com",
+      "Muốn dùng jQuery chẳng cần làm gì cả, hầu hết browser hiện đại đều sẵn sàng hỗ trợ jQuery",
+      "Muốn dùng jQuery có thể gắn thư viện từ nguồn bên ngoài như Google",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "jQuery được viết dưới dạng ngôn ngữ nào?",
+    "choices": [
+      "VBScript",
+      "C++",
+      "JavaScript",
+      "C#"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "hàm jQuery nào dùng để ngăn đoạn mã chạy cho đến khi toàn bộ trang web được tải hoàn thiện?",
+    "choices": [
+      "$(body).onload()",
+      "$(document).load()",
+      "$(document).ready()",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hàm jQuery nào dùng để tránh xung đột tên gọi?",
+    "choices": [
+      "nameConflict()",
+      "conflict()",
+      "noNameConflict()",
+      "noConflict()"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Dùng hàm jQuery nào để chuyển đổi thêm/xóa CSS class cho các phần tử được chọn?",
+    "choices": [
+      "toggleClass()",
+      "switch()",
+      "altClass()",
+      "switchClass()"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "$(\"div p\") dùng để chọn gì trong jQuery?",
+    "choices": [
+      "Thẻ p đầu tiên nằm trong 1 thẻ div",
+      "Toàn bộ thẻ p nằm bên trong 1 thẻ div",
+      "Toàn bô thẻ p",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "jQuery có là 1 tiêu chuẩn W3C?",
+    "choices": [
+      "Không",
+      "Có",
+      "",
+      ""
+    ],
+    "answer": 1
+  },
+  {
+    "question": "$(\"p#intro\") chọn gì trong jQuery?",
+    "choices": [
+      "Toàn bộ thẻ p có class=\"intro\"",
+      "Thẻ p có id=\"intro\"",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hàm jQuery nào để xóa bỏ các phần tử được chọn?",
+    "choices": [
+      "detach()",
+      "remove()",
+      "cả 2 đều được",
+      ""
+    ],
+    "answer": 3
+  },
+  {
+    "question": "$(\":disabled\") chọn gì trong jQuery?",
+    "choices": [
+      "Toàn bộ thẻ có chứa chữ \"disabled\"",
+      "Toàn bộ thẻ không chứa chữ \"disabled\"",
+      "Toàn bộ thẻ disabled input",
+      "Toàn bộ các thẻ bị ẩn"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hàm jQuery nào dùng để chọn phần tử cha trực tiếp của phần tử được chọn?",
+    "choices": [
+      "ancestor()",
+      "parents()",
+      "ancestors()",
+      "parent()"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Hàm jQuery animate() có thể tạo hiệu ứng hoạt cảnh cho toàn bộ các thuộc tính CSS?",
+    "choices": [
+      "Tất cả trừ các tuộc tính viết tắt",
+      "Tất cả",
+      "Chỉ những thuộc tính có giá trị số học",
+      ""
+    ],
+    "answer": 3
+  }
+]

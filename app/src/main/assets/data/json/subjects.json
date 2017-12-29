@@ -146,5 +146,16 @@
         "name": "Tổng hợp"
       }
     ]
+  },
+  {
+    "id": "hdh",
+    "name": "Hệ điều hành Linux, Unix, Windows",
+    "url_image": "data/image/ic_hdh.png",
+    "chapters": [
+      {
+        "id": 0,
+        "name": "Tổng hợp"
+      }
+    ]
   }
 ]

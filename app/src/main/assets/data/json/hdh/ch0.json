@@ -1,0 +1,1182 @@
+[
+  {
+    "question": "Phần quan trọng nhất của hệ điều hành Linux là:",
+    "choices": [
+      "File System",
+      "Services",
+      "Kernel",
+      "Shell"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Số phiên bản kernel của Linux có gì đặc biệt ",
+    "choices": [
+      "Số chẵn là phiên bản ổn định ",
+      "Số lẻ là phiên bản thử nghiệm ",
+      "Không quan trọng ",
+      "Câu a và b đúng "
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Khi cài RedHat Linux ở chế độ nào thì các partion DOS bị xoá hết ",
+    "choices": [
+      "Workstation ",
+      "Server ",
+      "Workstation and Server ",
+      "Không cái nào đúng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kiến trúc Kernel Linux là ",
+    "choices": [
+      "Static ",
+      "Microkernel ",
+      "Distributed ",
+      "Monolithic"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Tác giả của phiên bản hệ điều hành Linux đầu tiên là ? ",
+    "choices": [
+      "Bill Gates ",
+      "Linus Tolvards ",
+      "Alan Turing ",
+      "Pascal"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để liệt kê các file có trong thư mục hiện hành ta dùng lệnh:",
+    "choices": [
+      "lệnh ls ",
+      "lệnh df ",
+      "lệnh du ",
+      "lệnh cp "
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Để liệt kê đầy đủ thông tin của các file có trong thư mục hiện hành theo ta dùng lệnh ls với tham số ",
+    "choices": [
+      "–a ",
+      "–l ",
+      "–x ",
+      "–n"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để liệt kê các file ẩn trong thư mục hiện hành theo ta dùng lệnh ls với tham số ",
+    "choices": [
+      "–b ",
+      "-a",
+      "-1",
+      "-n"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để chuyển sang một thư mục khác ta dùng lệnh ",
+    "choices": [
+      "Lệnh cdir ",
+      "Lệnh cd ",
+      "Lệnh mkdir ",
+      "Lệnh dir "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Một user có username là sinhvien và home directory của anh ta là /home/sinhvien. Để trở về home dir của anh ta 1 cách nhanh nhất, anh ta phải dùng lệnh ",
+    "choices": [
+      "cd",
+      "cd /home/sinhvien",
+      "cd / ; cd home ; cd sinhvien ",
+      "cd home/sinhvien"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để chép một file /tmp/hello.txt vào thư mục /tmp/hello/ ta phải làm lệnh nào sau đây: ",
+    "choices": [
+      " copy /tmp/hello.txt  /tmp/hello/ ",
+      "cp tmp/hello.txt  /tmp/hello ",
+      " cp /tmp/hello  /tmp/hello ",
+      "cp /tmp/hello.txt  /tmp/hello"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Để xem nội dung một tập tin văn bản trong Linux ta có thể dùng lệnh nào sau đây ",
+    "choices": [
+      "cat ",
+      "less",
+      "more",
+      "cả 3 lệnh trên"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Để đọc nội dung một đĩa CD trong Linux ta phải làm thế nào ? ",
+    "choices": [
+      "Phải mount trước ",
+      "eject cdrom ",
+      "cd /mnt/cdrom ",
+      "Không đọc được CD rom "
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Làm thế nào để đọc một đĩa mềm trong Linux ",
+    "choices": [
+      "mount /dev/fd0 ",
+      "mount /dev/cdrom ",
+      "Không cần làm gì cả, chỉ việc đọc từ ổ a: ",
+      "cd /mnt/floppy"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Tập tin nào chứa các mount point mặc định khi hệ thống boot lên: ",
+    "choices": [
+      "/etc/mtab ",
+      "/etc/mount.conf ",
+      "/etc/fstab ",
+      "/etc/modules.conf "
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Tập tin nào chứa thông tin các file system đang được mount ",
+    "choices": [
+      "/etc/mntab ",
+      "/etc/mount.conf ",
+      "/etc/fstab ",
+      "/etc/modules.conf "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Tập tin sau đây có thuộc tính như thế nào : \n                       -rwx--x--x   hello.sh",
+    "choices": [
+      "077",
+      "644",
+      "755",
+      "711 "
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Để thiết lập thuộc tính cho một tập tin hello.sh với các yêu cầu sau: \nChủ sở hữu được quyền đọc ghi, nhóm được đọc, thực thi, other chỉ đọc thì ta làm lệnh nào dưới đây. ",
+    "choices": [
+      " chmod 665 ",
+      "chmod 654 ",
+      " chmod 653 ",
+      "chmod 754"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Tập tin có dấu chấm “.” Phía trước có đặc tính gì đặc biệt:\n         Ví dụ:   .hello.txt\t\t",
+    "choices": [
+      "Tập tin ẩn ",
+      "Thực thi  ",
+      "Không thấy được với lệnh ls  ",
+      "Tập tin hệ thống  "
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Lệnh nào cho phép ta tạo một account user mới trên hệ thống ",
+    "choices": [
+      "Lệnh adduser ",
+      "Lệnh useradd ",
+      "lệnh passwd ",
+      "Câu a và b đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Sau khi đánh lệnh useradd sinhvien. Hỏi user có account là sinhvien có thể login vào hệ thống được chưa ? ",
+    "choices": [
+      "Được ",
+      "Không",
+      "",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Tập tin /etc/passwd chứa thông tin gì của users hệ thống ",
+    "choices": [
+      "Chứa profile của người dùng ",
+      "Chứa uid,gid, home directory, shell ",
+      "Chứa password của người dùng ",
+      "Chứa tập shadow của người dùng "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Tập tin /etc/shadow chứa thông tin gì của users hệ thống ",
+    "choices": [
+      "Chứa profile của người dùng ",
+      "Chứa uid,gid, home directory, shell ",
+      "Chứa password của người dùng ",
+      "Chứa login name "
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong hệ thống Linux user nào có quyền cao nhất ",
+    "choices": [
+      "User administrator ",
+      "User root ",
+      "User admin ",
+      "User có UID=0 "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hệ thống Linux có mấy Run Level chính ",
+    "choices": [
+      "Có 7 Run Level ",
+      "Có 6 Run Level ",
+      "Có 5 Run Level ",
+      "Có 4 Run Level"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Run level nào là shutdown và halt hệ thống ",
+    "choices": [
+      "Level 6 ",
+      "Level 0 ",
+      "Level 3 ",
+      "Level 5 "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Run level nào là reboot hệ thống ",
+    "choices": [
+      "Level 6 ",
+      "Level 0",
+      "Level 3 ",
+      "Level 5"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Run level nào làm hệ thống chạy full mode with X window ",
+    "choices": [
+      "Level 6 ",
+      "Level 0",
+      "Level 3 ",
+      "Level 5 "
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Ở run level nào hệ thống không đòi hỏi ta phải nhập username password để login ",
+    "choices": [
+      "Level 1 ",
+      "Level 3 ",
+      "Level 5",
+      "Không có level nào "
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chương trình soạn thảo văn bản nào là phổ biến nhất trong hđh Linux: ",
+    "choices": [
+      "vi ",
+      "Word",
+      "Emacs",
+      "Pico"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chương trình soạn thảo nào sau đây không sử dụng giao diện đồ hoạ  ",
+    "choices": [
+      "emacs ",
+      "latex ",
+      "vi ",
+      "kword"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Emacs là một chương trình ",
+    "choices": [
+      "soạn thảo văn bản ",
+      "Công cụ lập trình ",
+      "Email client ",
+      "Tất cả các tính năng trên "
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Trong vi, để vào mode edit insert ta phải dùng lệnh nào : ",
+    "choices": [
+      "Dùng phím F4 ",
+      "ESC-:i ",
+      "ESC-:q ",
+      "ESC-:x "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong vi, để thoát không cần hỏi lại ta phải dùng lệnh nào : ",
+    "choices": [
+      "ESC-:q! ",
+      "ESC-wq ",
+      "ESC-w! ",
+      "ESC-! "
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Để xem các tiến trình hiện có trong hệ thống Linux ta dùng lệnh nào ",
+    "choices": [
+      "Lệnh ls ",
+      "Lệnh ps",
+      "Lệnh cs  ",
+      "Lệnh ds "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để xem chi tiết các tiến trình đang chạy trong hệ thống ta dùng lệnh ps với các tham số nào sau đây ",
+    "choices": [
+      "–ef ",
+      "–ax  ",
+      "–axf ",
+      "Cả 3 câu đều đúng "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Mỗi tiến trình chạy trong hệ thống Linux được đặc trưng bởi : ",
+    "choices": [
+      "PID ",
+      "PUID",
+      "PGUID ",
+      "GUID "
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tham số PPIUD dùng để chỉ:",
+    "choices": [
+      "Properly process ID ",
+      "Parent process ID ",
+      "Papa Process ID ",
+      "Không cái nào đúng "
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Để dừng một tiến trình ta dùng lệnh nào : ",
+    "choices": [
+      "stop",
+      "kill ",
+      "shutdown ",
+      "halt "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Điều gì xảy ra với một tiến trình khi ta kill tiến trình cha của nó ",
+    "choices": [
+      "Không có gì ảnh hưởng ",
+      "Tiến trình con sẽ chết theo ",
+      "Chương trình sẽ đọc lại file cấu hình ",
+      "Sẽ có một tiến trình con mới sinh ra "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để kill hết các tiến trình có tên là vi ta dùng lệnh nào ?",
+    "choices": [
+      " kill –9 vi ",
+      " kill –HUP vi ",
+      " killall –HUP vi ",
+      " killall –9 vi"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để thiết lập địa chỉ IP cho một máy Linux ta sử dụng lệnh nào trong các lệnh sau đây ?",
+    "choices": [
+      " ipconfig ",
+      " ifconfig ",
+      " netstat ",
+      "route"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để xem trạng thái các port đang mở của một máy Linux  ta sử dụng lệnh nào trong các lệnh sau đây ?",
+    "choices": [
+      "ipconfig",
+      "ifconfig ",
+      "netstat",
+      "route"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Để xem các thông tin về bảng routing trong hệ thống Linux ta sử dụng lệnh nào trong các lệnh sau đây ?",
+    "choices": [
+      "ifconfig ",
+      "netstat -nr ",
+      "route –n ",
+      "b và c đúng  "
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Để thiết lập địa chỉ IP cho card mạng eth0 dùng lệnh ifconfig, ta phải thực hiện lệnh nào sau đây ?",
+    "choices": [
+      "ifconfig eth0 172.16.10.11/ 255.255.255.0 ",
+      "ifconfig eth0 172.16.10.11 netmask 255.255.255.0 ",
+      "ifconfig eth0 172.16.10.11 mask 255.255.255.0 ",
+      "ifconfig eth0 172.16.10.11 mask 255.255.255.0 "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để tạm thời stop một card mạng ta dùng lệnh nào ?",
+    "choices": [
+      "ifconfig eth0 up ",
+      "ifconfig eth0 stop ",
+      "ifconfig eth0 start ",
+      "ifconfig eth0 down "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Giả sử ta muốn thêm vào bảng routing một con đường mới: qua mạng 192.168.10.0/24 thì phải qua gateway 172.16.10.140 ta làm cách nào: ",
+    "choices": [
+      "route add –net 192.168.10.0 netmask 255.255.255.0 gw 172.16.10.140 ",
+      " route add –net 192.168.10.0 mask 255.255.255.0 gw 172.16.10.140 netmask 255.255.255.0  ",
+      "route add –net 192.168.10.0/25 gw 172.16.10.140 )",
+      "route add –net 192.168.10.0 netmask 255.255.255.0 gw 172.16.10.0 "
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Khai báo default gw 172.16.8.2 cho 1 máy Linux sử dụnglàm lệnh nào: ",
+    "choices": [
+      " route add –net default gw 172.16.8.2 ",
+      "route add –net 0.0.0.0 netmask 0.0.0.0 gw 172.16.8.2 ",
+      " route add –net 0.0.0.0 netmask 255.255.255.255 gw 172.16.8.2 ",
+      "Câu a và b đúng "
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Để xem tải của hệ thống Linux ta dùng lệnh nào ?",
+    "choices": [
+      "Lệnh top ",
+      "Lệnh free ",
+      "Lệnh performance ",
+      "Không thể biết "
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tập tin nào trong Linux định nghĩa các port cho các dịch vụ chạy trong nó ?",
+    "choices": [
+      "/etc/service ",
+      "/etc/services ",
+      "/etc/ports.conf ",
+      "/etc/httpd.conf "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Dịch vụ SMTP chạy ở port nào ",
+    "choices": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Dịch vụ www chạy ở port nào ",
+    "choices": [
+      "53",
+      "80",
+      "110",
+      "443"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Dịch vụ nào cho phép ta truyền file qua mạng ",
+    "choices": [
+      "http",
+      "ftp",
+      "ucp",
+      "mc"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Làm thế nào để login từ xa qua mạng vào một máy Linux ",
+    "choices": [
+      "Dùng telnet ",
+      "Dùng ssh",
+      "Dùng rlogin ",
+      "Cả 3 cách trên "
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Dịch vụ SSH trong Linux là gì ? ",
+    "choices": [
+      "Secure Socket Shell ",
+      "Secure Shell ",
+      "Samba Shell ",
+      "Không là dịch vụ gì cả "
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lệnh nào dùng để cài đặt gói phần mềm “packagename.rpm”?",
+    "choices": [
+      "rpm –evh packagename.rpm",
+      "rpm –ivh packagename.rpm",
+      "rpm –q packagename.rpm",
+      "rpm –qa *.rpm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để thay đổi các lựa chọn gắn kết (mount) tự động cho một hệ thống tập tin cục bộ, ta cần sửa đổi nội dung tập tin nào?",
+    "choices": [
+      "/etc/filesystems",
+      "/etc/fstab",
+      "/etc/group",
+      "/etc/mnttab"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong dịch vụ httpd (Apache), để xây dựng “máy Web ảo”, ta cần chỉ khối dẫn nào?",
+    "choices": [
+      "Directory",
+      "VirtualMachine",
+      "VirtualHost",
+      "Tất cả đều sai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Để thay đổi tên đăng nhập của tài khoản “user” thành “newuser”, ta dùng lệnh?",
+    "choices": [
+      "userchange –name newuser user",
+      "passwd –n newuser user",
+      "usermode –l newuser user",
+      "usermode –m user newuser"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Để chỉ liệt kê danh sách các tập tin có ký tự cuối cùng trong tên là “?” ở thư mục hiện hành, ta dùng lệnh??",
+    "choices": [
+      "ls *?",
+      "ls*\\?",
+      "ls *[?]",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Tập tin nào chứa ánh xạ tên-địa chỉ IP cục bộ?",
+    "choices": [
+      "/etc/host.conf",
+      "/etc/hosts",
+      "/etc/resolv.conf",
+      "/etc/named.conf"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lệnh nào được sử dụng để cho người dùng thiết lập lịch của riêng họ?",
+    "choices": [
+      "vi ~/.crontab",
+      "cp /etc/crontab",
+      "crontab –v",
+      "crontab –e"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Để chép nội dung file1 vào cuối file2, sử dụng lệnh?",
+    "choices": [
+      "cat file1 file2",
+      "more file1 2> file2",
+      "cat file1 >> file2",
+      "copy file1 >> file2"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Lệnh nào để biết đầy đủ đường dẫn của thư mục hiện hành?",
+    "choices": [
+      "pwd",
+      "path",
+      "echo path",
+      "Không câu nào đúng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Để thực hiện phân giải ngược cho các máy thuộc mạng 192.168.20.0, ta cần định nghĩa zone có tên?",
+    "choices": [
+      "192.168.20.in-addr.arpa",
+      "192.168.20.0.in-addr.arpa",
+      "20.168.192.in-addr.arpa",
+      "Tất cả đều đúng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Để hủy bỏ lệnh đang thi hành, ta thực hiện:",
+    "choices": [
+      "Nhấn Ctrl + C",
+      "Nhấn Ctrl + D",
+      "Nhấn Ctrl + Z",
+      "Nhấn Ctrl + S"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Để xem nội dung của tập tin văn bản, ta dùng lệnh: ?",
+    "choices": [
+      "more",
+      " less",
+      " cat",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Để tạo tập tin “new” chứa nội dung của hai tập tin “data” và “odd”, ta dùng lệnh:",
+    "choices": [
+      "cp data odd > new",
+      "cp data odd >> new",
+      "cat data odd > new",
+      "Tất cả đều đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "“/doc” là một thư mục, lệnh nào sai trong các lệnh dưới đây?",
+    "choices": [
+      "ln –s /doc mydoc",
+      "ln /doc mydoc",
+      "rm –rf /doc",
+      "cp –s /doc mydoc"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để xem hướng dẫn cách dùng lệnh ls, ta thực hiện lệnh:",
+    "choices": [
+      "help ls",
+      "list ls",
+      "man ls",
+      " doc ls "
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Lệnh nào để xóa tập tin có tên là “-abc”",
+    "choices": [
+      "rm –f –abc",
+      "rm –i –abc",
+      "rm -- -abc",
+      "rm \\ -abc"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Lệnh nào tương đương với lệnh sau “mkdir –p /file/doc/priv”?",
+    "choices": [
+      "mkdir –parent /priv/doc/file",
+      "mkdir /file /doc /priv",
+      "mkdir /priv /doc /file",
+      "mkdir –p /priv/doc/file"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Trong trình soạn thảo vi, lệnh nào dùng để ghi và thoát?",
+    "choices": [
+      "wq",
+      "wq!",
+      ":wq",
+      ":qw"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Lệnh nào tương đương với lệnh sau “chmod u+rwx,g=rx,o-rwx myfile”",
+    "choices": [
+      "chmod 027 myfile",
+      "chmod 757 myfile",
+      "chmod 750 myfile",
+      "Không câu nào đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Để chuyển về thư mục chủ của người dùng hiện hành, ta dùng lệnh?",
+    "choices": [
+      "pwd",
+      "cd ~",
+      "cd ..",
+      "cd /home"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Trong RedHat Linux, tên tài khoản người dùng:?",
+    "choices": [
+      " Là duy nhất ",
+      " Phân biệt chữ thường với chữ hoa ",
+      "Không được bắt đầu bằng một ký số ",
+      " Tất cả đều đúng "
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Tập tin nào chứa khai báo địa chỉ máy chủ DNS?",
+    "choices": [
+      "/etc/named",
+      "/etc/resolv.conf",
+      "/etc/sysconfig/resolv.conf",
+      "/etc/sysconfig/network"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lệnh nào tương đương với lệnh sau “chown sales myfile”?",
+    "choices": [
+      "chown sales:sales myfile",
+      "chgroup sales:sales myfile",
+      "chgrp sales myfile",
+      "chmod sales myfile"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Tập tin /etc/sysconfig/network có chứa thông tin về:",
+    "choices": [
+      "Tên máy tính và default gateway",
+      "Các thiết bị được sử dụng để kết nối mạng",
+      "Các script dùng trong kết nối PPP và SLIP",
+      "Trạng thái của mạng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Để khóa tài khoản “user”, ta dùng lệnh?",
+    "choices": [
+      "usermod –L user",
+      "passwd –l user",
+      "A và B đều sai",
+      "A và B đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Tiến trình init:",
+    "choices": [
+      "Luôn có PID = 1;",
+      "Không thể kết thúc được",
+      "Gọi khởi động các tiến trình khác",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Tập tin nào được sử dụng để thay đổi mức thi hành mặc định (default runlevel)?",
+    "choices": [
+      "/etc/grub.conf",
+      "/etc/runlevel",
+      "/etc/inittab",
+      "/etc/init.conf"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong trình soạn thảo vi, để chuyển về chế độ lệnh, ta nhấn:",
+    "choices": [
+      "ESC",
+      "INS",
+      "Ctrl + Shift",
+      "Tất cả đều sai"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Có thể tạo một Symbolic Link chỉ tới một tập tin không tồn tại hay không?",
+    "choices": [
+      "Có",
+      "Không",
+      "Tùy trường hợp",
+      "Tất cả đều sai"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Tập tin script nào chứa khai báo định tuyến?",
+    "choices": [
+      "/etc/sysconfig/network",
+      "/etc/sysconfig/route",
+      "/etc/sysconfig/static-routes",
+      "/etc/sysconfig/network-scripts/routes"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Khi tạo một tài khoản người dùng, thông tin nào bắt buộc phải được cung cấp?",
+    "choices": [
+      "Tên đầy đủ (Full Name)",
+      "Tên đăng nhập",
+      "Mã nhận diện tài khoản (UID)",
+      "Shell"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Nếu muốn xem “crond” được cấu hình để khởi động ở mức thi hành (runlevel) nào, ta thi hành lệnh?",
+    "choices": [
+      "chkconfig -list -crond",
+      "chkconfig -l crond",
+      "chkconfig --list crond",
+      "chkconfig crond"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "“/xyz” là một symbolic link của “/tmp/dir”, lệnh nào sau đây cho phép ta chuyển vào thư mục “/tmp/dir”?",
+    "choices": [
+      "cd –L /xyz",
+      "cd –P /xyz",
+      "cd /xyz",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Để bật ngay lập tức chức năng chuyển gói tin (IP Forward), ta thực hiện:?",
+    "choices": [
+      "Sửa nội dung tập tin “/etc/sysctl.conf”",
+      "Thi hành lệnh echo 1> /proc/sys/net/ipv4/ip_forward",
+      "Thi hành lệnh echo 1> net.ipv4.ip_forward",
+      "Thi hành lệnh ./proc/sys/net/ipv4/ip_forward=1"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cho biết ý nghĩa của một mục từ crond như sau: 10 5 * * * /bin/foo",
+    "choices": [
+      "Thực thi /bin/foo vào lúc 10:05 sáng mỗi ngày",
+      "Thực thi /bin/foo vào 10 tháng 5 hàng năm",
+      "Thực thi /bin/foo vào lúc 5:10 sáng mỗi ngày",
+      "Không câu nào đúng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Để xem thông tin về phần chia đĩa cứng trên hệ thống, ta dùng lệnh:",
+    "choices": [
+      "fdisk /dev/had",
+      "fdisk /dev/sc",
+      "list /dev/had",
+      "fdisk –l"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Để kiểm tra dung lượng đĩa cứng còn trống, ta dùng lệnh:",
+    "choices": [
+      "du –a",
+      "df –a",
+      "df",
+      "du"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để kết thúc tiến trình có PID=1, ta thi hành lệnh:",
+    "choices": [
+      "kill –15 1",
+      "kill –9 1",
+      "kill –p 1",
+      "Không có lệnh nào"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Thư mục /dev chứa:",
+    "choices": [
+      "Các tập tin dùng phát triển hệ thống",
+      "Các tập tin rác, tạm thời",
+      "Các tập tin đại diện trạng thái hiện hành của hệ thống",
+      "Các tập tin đại diện thiết bị"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Để tạo thêm một địa chỉ IP 192.168.10.5/24 cho giao tiếp mạng eth0, ta dùng lệnh",
+    "choices": [
+      "alias eth0 192.168.10.5 up",
+      "ifconfig eth1:0 192.168.10.5 netmask 255.255.255.0 up",
+      "ifconfig eth0:0 192.168.10.5",
+      "if-cfg eth0:0 192.168.10.5 "
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong tập tin khai báo các tham số cho zone, bản ghi SOA: ",
+    "choices": [
+      "Bắt buộc phải có",
+      "Được đặt tùy ý trong tập tin",
+      "Được phép khai báo nhiều lần",
+      "Tất cả đều đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Chương trình nào dùng để kiểm tra cấu hình dịch vụ DNS??",
+    "choices": [
+      "dnscheck",
+      "BIND",
+      "nslookup",
+      "resolve"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Trong tập tin “httpd.conf” khai báo nào dưới đây là sai:",
+    "choices": [
+      "Alias /image/ /ftp/pub",
+      "DocumentRoot /var/www/html",
+      "ServerRoot /etc/httpd",
+      "DirectoryIndex index.cgi"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Lệnh nào dùng để xóa toàn bộ thư mục /dir?",
+    "choices": [
+      "rm –f /dir",
+      "rm –r /dir",
+      "rmdir /dir",
+      "rmdir –p /dir"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cấu trúc inode trong extfs, bao gồm::",
+    "choices": [
+      "10 con trỏ",
+      "13 con trỏ",
+      "16 con trỏ",
+      "Không câu nào đúng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Lệnh nào dùng để liệt kê danh sách tất cả các tập tin có tên phần mở rộng không chứa các ký tự trong khoảng từ “x” đến “w” trong thư mục hiện hành?",
+    "choices": [
+      "ls *.!x | .!w",
+      "ls *.[!x-w]",
+      "ls ! *.[xz]",
+      "ls *.[!xw]"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Để tạo tài khoản người dùng “abc” là thành viên của nhóm “group”, ta dùng lệnh:",
+    "choices": [
+      "useradd –g group abc",
+      "useradd –G group abc",
+      "useradd –m group abc",
+      "useradd group abc"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Có ít nhất bao nhiêu patition cần được tạo ra khi ta cài đặt LINUX?",
+    "choices": [
+      "1",
+      "2",
+      "Lớn hơn 2",
+      ""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "File nào trong số các file dưới đây chứa các biến môi trường khi sử dụng Bash Shell",
+    "choices": [
+      "~/.profile",
+      "/bash",
+      "/etc/profile",
+      "~/bash"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Tất cả các nhóm được liệt kê trong file /etc/group .Mỗi một nhóm được thể hiện trên một dòng.Hãy xác định trật tự đúng của các trường trên thực thể này :?",
+    "choices": [
+      "groupname, password, GID, member list",
+      "GID, groupname, password, member list",
+      "groupname, GID, password, member list",
+      "GID, member list, groupname, password"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bạn sử dụng lênh sau   useradd –m sapa song user sapa không đăng nhập vào được.Để đăng nhập được ta phải làm gì ?",
+    "choices": [
+      "Cần đăng ký mật khẩu cho user sapa bằng lệnh password sapa",
+      "Phải tạo thư mục home cho sapa và tạo quyền cho phép truy cập.",
+      "Bạn cần biên tập lại file /etc/passwd và đăng ký shell cho acount sapa",
+      "Tên người dùng nhỏ hơn 5 ký tự."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bạn tạo một user sinhvien mới bằng cách thêm vào /etc/passwd file một dòng như sau\n         sinhvien:abcdef:501:501:tensinhvien:/home/sinhvien:/bin/bash\n         Sau đó sinh vien gặp bạn và nói không logon vào hệ thống được. Bạn kiểm tra và thấy tên user và mật khẩu đều đúng .Điều gì đã xảy ra?",
+    "choices": [
+      "UID và  GID giống nhau",
+      "Bạn không gõ khoảng trống hoặc ngoặc kép vào những vị trí cần thiết.",
+      "Bạn không thể nhập mật khẩu trực tiếp .Cần dùng lệnh passwd command để đăng ký mật khẩu cho user.",
+      "Tên người dùng quá ngắn, tối thiểu nó phải có độ dài 6 ký tự."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Mở  file /etc/passwd ta thấy có các dòng .Trật tự nào sau đây của các trường là đúng:",
+    "choices": [
+      "username, UID, GID, home directory, command, comment",
+      "username, UID, GID, comment, home directory, command",
+      "UID, username, GID, home directory, comment, command",
+      "username, UID, group name, GID, home directory, comment"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Bạn có một máy tính và đang cài Windows98 và muốn cài thêm Linux trên đó song bạn không còn đủ không gian đĩa cứng để cài đặt.Bằng cách nào tối ưu nhất bạn có thể thực hiện công việc trên",
+    "choices": [
+      "Sử dụng Disk Manager để thay đổi lại kích thước (resize ) của partition chứa Windows 98.",
+      "Phân hoạch lại đĩa cứng từ đầu; cài lại  Windows 98 và sau đó cài Linux.",
+      "Không thể cài Windows 98 và Linux trên cùng một máy tính.",
+      "Tạo một directory trong Windows 98 và cài Linux vào directory này."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bạn đang  cài Linux lên máy tính của bạn.Bạn muốn có 5 partitions khác nhau và đã tạo ra được 4 partition.Còn partition thứ 5 không cách nào tạo ra được.Điều gì đã xảy ra :",
+    "choices": [
+      "Hard drive của bạn không đủ chỗ để tạo hơn 4 partition.",
+      "Bạn phải tạo swap partition .",
+      "Bạn đã tạo ra 4 primary partitions",
+      "Linux không cho phép tạo hơn 4 partitions."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Quan sát  file  /etc/passwd , bạn thấy trong trường  password chứa ký hiệu ‘x’.\nÝ nghĩa của ký tự này là gì?",
+    "choices": [
+      "Password đã được mã hoá.",
+      "Bạn đang sử dụng shadow password.",
+      "Tất cả  passwords đều rỗng.",
+      "Tất cả passwords đều hết hạn."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Sau khi Dung rời khỏi công ty ,bạn dùng lệnh  userdel Dung để xoá user này.Mẩu tin của user này trong file etc/passwd bị xoá , tuy vậy , trong home directory có thể vẫn còn thư mục của user này. Bạn có thể dùng lệnh nào sau đây để khẳng định  home directory cũng đã bị xoá?",
+    "choices": [
+      "userdel –m Dung",
+      "userdel –u Dung",
+      "userdel –l Dung",
+      "userdel –r Dung"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "GFile nào xác định tất cả các user trên hệ thống của bạn?",
+    "choices": [
+      "/etc/passwd",
+      "/etc/users",
+      "/etc/password",
+      "/etc/user.conf"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Bạn Dung có username là sapa.Bạn ấy nói  rằng quên mật mật khẩu đăng nhập.Lệnh nào sẽ giúp bạn Dung reset lại mật khẩu của mình.",
+    "choices": [
+      "passwd Dung",
+      "resetpassw",
+      "su sapa",
+      "passwd sapa"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "Những user name nào sau đây  không đúng ?",
+    "choices": [
+      "Theresa Hadden",
+      "thadden",
+      "TheresaH",
+      "T.H."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Dung lượng nhỏ nhất cho phép đối với các  swap partition là :",
+    "choices": [
+      "16 MB",
+      "64 MB",
+      "128 MB",
+      "256 MB"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Máy tính của bạn có hai ổ đĩa cứng IDE và bạn đang cài Linux trên chúng.Mỗi đĩa cứng bạn chia thành hai patitions .Các partition trên máy của bạn có tên là gì :",
+    "choices": [
+      "hda1, hda2, hda3, hda4",
+      "hda1, hda2, hdb1, hdb2",
+      "sda1, sda2, sda1, sdb2",
+      "sda1, sda2, sda3, sda4"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Hãy cho biết chương trình sau đây xuất ra nội dung nào đúng :\n#!/bin/sh\nmyvar=\"Chao ban\"\necho $myvar\necho 'message : $myvar' \necho \"message : $myvar\"\necho \"message :\\$myvar\"\necho “Nhap noi dung text”\nread myvar\necho '$myvar' se la $myvar\nexit 0\n",
+    "choices": [
+      "Chao ban\nmessage : $mayvar\nmessage : Chao ban\nmessage : $myvar\nNhap noi dung text\nMot ngay dep troi\n$myvar se la Mot ngay dep troi\n",
+      "Chao ban\nmessage : $mayvar\nmessage : Chao ban\nmessage : $myvar\nNhap noi dung text\nMot ngay dep troi\n$myvar se la Mot ngay dep troi\n",
+      "Chao ban\nmessage : $mayvar\nmessage : Chao ban\nmessage : $myvar\nNhap noi dung text\nMot ngay dep troi\n$myvar se la Mot ngay dep troi\n",
+      "Chao ban\nNhap noi dung text\nmessage : $mayvar\nmessage : $myvar\nmessage : Chao ban\nMot ngay dep troi\n$myvar se la Mot ngay dep troi\n"
+    ],
+    "answer": 1
+  }
+]
