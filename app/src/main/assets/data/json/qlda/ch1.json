@@ -1,0 +1,42 @@
+[
+  {
+    "question": "1. 4 giám đốc dự án(PM) ngồi ăn trưa với nhau và thảo luận về dự án của họ. phần lớn thời gian họ phàn nàn về việc quản lý và điều hành dự án khó khăn như thế nào. Một số lời phàn nàn là về các cổ đông và các thay đổi mà họ tạo ra cho dự án. Người khác thì phàn nàn về sự khó khăn trong việc thúc đẩy nhân viên hợp tác và làm việc. 1 người PM muốn tập trung vào tất cả các lợi ích của ma trận tổ chức mà họ đều làm ra. Anh ta sẽ đề cập tới vấn đề nào? ",
+    "choices": [
+      "Cải thiện quyền quản lý và kiểm soát nguồn lực của PM",
+      "Có hơn một người tham gia quản lý dự án",
+      "Truyền thông dễ dàng hơn",
+      "Báo cáo dễ dàng hơn."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. 2 PM vừa nhận ra họ đang ở trong một ma trận tổ chức yếu và quyền lực của họ trong vai trò là PM bị hạn chế. Một người nhận ra anh ta thật sự là người giải quyết công việc dự án (project expediter), người còn lại nhận ra rằng anh ta là điều phối viên của dự án (project coordinator). Vậy người tiến hành và điều phối viên của dự án khác nhau ntn? ",
+    "choices": [
+      "Người giải quyết công việc dự án không thể đưa ra các quyết định",
+      "Người giải quyết công việc dự án có thể đưa ra nhiều quyết định hơn điều phối viên dự án",
+      "Người giải quyết công việc báo cáo cho quản lý cấp cao hơn",
+      "Người giải quyết công việc có một số thẩm quyền riêng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "3. Trong một tổ chức hướng dự án (tổ chức trong đó k có các công việc thường nhật mà toàn là dự án), đội dự án có đặc điểm gì:",
+    "choices": [
+      "Báo cáo cho một vài thủ trưởng",
+      "Không có sự trung thành đối với dự án",
+      "Báo cáo với người quản lý có trách nhiệm và thẩm quyền (functional manager) ",
+      "Thường xuyên có mặt trong dự án, không có phòng ban chức năng(will not always have a home)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "4. Một PM đang cố gắng hoàn thành dự án phát triển phần mềm, nhưng không thể tập trung và quan tâm nhiều tới dự án. Nguồn nhân lực được tập trng vào hoàn thành các công việc liên quan tới các tiến trình sản xuất phần mềm, và PM có ít thẩm quyền để phân công nguồn lực một cách hợp lý. Loại hình tổ chức nào mà người PM này đang làm việc? ",
+    "choices": [
+      "Tổ chức bao gồm các phòng ban chức năng.",
+      "Ma trận. đối với tổ chức loại này, thành viên đội dự án phải báo cáo với 2 thủ trưởng: 1 là PM và quản lý bộ phận chức năng.",
+      "Tổ chức mà PM là người giải quyết công việc",
+      "Tổ chức mà PM là người điều hành"
+    ],
+    "answer": 1
+  }
+]

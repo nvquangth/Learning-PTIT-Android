@@ -1,0 +1,432 @@
+[
+  {
+    "question": "1. Để quản lý lịch trình, một PM phân tích lại dự án để dự đoán trước thời gian thực hiện dự án. Cô ấy phân tích chuỗi hành động với độ linh hoạt lịch trình ít nhất, đây là kỹ thuật gì? ",
+    "choices": [
+      "Phương pháp đường tới hạn (critical path method)",
+      "Sơ đồ dòng (flowchart)",
+      "Sơ đồ ưu tiên",
+      "WBS"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "2. Một thành phần (or phụ thuộc - dependency) yêu cầu thiết kế phải hoàn thành trước khi sản xuất bắt đầu. Đây là ví dụ của:",
+    "choices": [
+      "Thành phần rời rạc",
+      "Thành phần ngoại cảnh ",
+      "Thành phần bắt buộc",
+      "Thành phần phạm vi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. Biểu đồ đoạn (bar charts) giải thích điều nào tốt hơn là sơ đồ mạng?",
+    "choices": [
+      "Quan hệ logic",
+      "Các đường then chốt",
+      "Cân bằng tài nguyên ",
+      "Quá trình hoặc trạng thái"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "4. Nếu ước tính lạc quan nhất(optimistic estimate) cho 1 hoạt động là 12 ngày, và ước tính bi quan nhất là 18 ngày, độ lệch tiêu chuẩn của hành động này là bn? ",
+    "choices": [
+      "1",
+      "1.3",
+      "6",
+      "3"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5. Phương pháp giải quyết vấn đề bằng cách đánh giá kinh nghiệm (heuristic) đc miêu tả tốt nhất là:",
+    "choices": [
+      "Một công cụ điều khiển",
+      "Phương pháp lên lịch trình",
+      "Công cụ lên kế hoạch ",
+      "Quy tắc tự đặt ra (rule of thumb)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "6. Độ trễ có nghĩa là gì (lag means)",
+    "choices": [
+      "Khối lượng thời gian một hành động có thể trễ mà không làm chậm tiến độ dự án",
+      "Khối lượng thời gian một hành động có thể trễ mà không làm chậm ngày bắt đầu của hành động tiếp theo ",
+      "Thời gian chờ đợi",
+      "Sản phẩm của 2 hướng thành công tiên tiến và lạc hậu??? (the product of a forward and backward pass)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "7. Công cụ quản lý dự án nào tốt nhất để xác định thời gian dài nhất thực hiện 1 dự án?",
+    "choices": [
+      "WBS ",
+      "Sơ đồ mạng",
+      "Biểu đồ đoạn (bar chart)",
+      "Tôn chỉ dự án"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "8. Điều nào dưới đây là đúng? ",
+    "choices": [
+      "Đường tới hạn có thể lướt qua a dummy(k biết nên dịch là cái gì ) a critical path can run over a dummy)",
+      "Chỉ có thể có 1 đg then chốt",
+      "Sơ đồ mạng sẽ thay đổi mỗi khi thời gian kết thúc dự án thay đổi",
+      "Một dự án không bao giờ có trễ tiêu cực (negative float?)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "9. Khoảng thời gian tồn tại của một điểm mốc là:",
+    "choices": [
+      "Ngắn hơn khoảng thời gian tồn tại của hoạt động dài ngày nhất",
+      "Ngắn hơn khoảng thời gian của hoạt động đại diện của nó ",
+      "Không có khoảng thời gian tồn tại",
+      "Có cùng khoảng thời gian tồn tại giống hoạt động đại diện của nó"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "10. Điều nào dưới đây mô tả tốt nhất về quan hệ giữa độ lệch tiêu chuẩn và rủi ro?",
+    "choices": [
+      "không có quan hệ gì cả",
+      "độ lệch tiêu chuẩn cho biết nếu ước tính là chính xác ",
+      "độ lệch tiêu chuẩn cho biết độ không chắc chắn của ước tính",
+      "độ lệch tiêu chuẩn cho biết nếu ước tính có bao gồm cả phần thêm(đệm vào - pad) vào"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. Phân tích Monte Carlo đc dùng để làm gì? ",
+    "choices": [
+      "Có đc các dấu hiệu của rủi ro kéo theo trong dự án",
+      "Ước tính độ dài của hoạt động",
+      "Mô phỏng thứ tự xảy ra của các hoạt động",
+      "Chứng minh cho ban lãnh đạo rằng cần thêm nhân viên dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "12. Độ trễ của một hoạt động đc quyết định bởi",
+    "choices": [
+      "Việc thực hiện phân tích Monte Carlo",
+      "Thời gian chờ đợi giữa các hoạt động",
+      "Độ trễ của việc quyết định ",
+      "Việc quyết định khối lượng thời gian một hoạt động có thể bị chậm lại bởi sự chậm trễ trong đường tới hạn"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "13. Một dự án có 3 đường tới hạn. Điều nào dưới đây mô tả đúng nhất ảnh hưởng của các đường tới hạn này tới dự án?",
+    "choices": [
+      "Làm cho dự án dễ quản lý hơn ",
+      "Làm gia tăng rủi ro của dự án",
+      "Yêu cầu nhiều nhân lực hơn",
+      "Làm dự án tốn kém hơn"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "14. Nếu thời gian và chi phí dự án không quan trọng như số lượng các nguồn lực sử dụng trong 1 tháng, việc tốt nhất để làm trong các việc dưới đây là:",
+    "choices": [
+      "Thực hiện phân tích Monte Carlo",
+      "Xúc tiến dự án (fast track the project) ",
+      "Thực hiện cân bằng nguồn tài nguyên",
+      "Phân tích vòng đời chi phí"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "15. Khi nào đồ thị điểm mốc(milestone chart) được sử dụng thay cho sơ đồ đoạn (bar chart)?",
+    "choices": [
+      "Lên kế hoạch dự án",
+      "Báo cáo với thành viên đội dự án ",
+      "Báo cáo với ban lãnh đạo",
+      "Phân tích rủi ro"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "16. Kế hoạch quản lý dự án của bạn làm lịch trình dự án khá tốn thời gian. Nếu sơ đồ mạng của dự án không thay đổi nhưng bạn có thêm các nguồn nhân lực, điều tốt nhất nên làm là:",
+    "choices": [
+      "Xúc tiến dự án",
+      "Cấp lại các nguồn lực ",
+      "Hủy dự án (crash)",
+      "Phân tích Monte Carlo"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "17. Phương pháp sơ đồ ưu tiên khác với phương pháp sơ đồ mũi tên ở chỗ sơ đồ ưu tiên có đặc điểm:",
+    "choices": [
+      "Có thể sử dụng PERT ",
+      "Có 4 quan hệ giữa các hành động",
+      "Chỉ có quan hệ finish-to-finish (A F2F B tức là B không thể kết thúc trc khi A kết thúc)",
+      "Có thể sử dụng các hành động k đúng (dummy activities)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "18. Điều nào dưới đây là tốt nhất để thực hiện cố gắng hoàn thành một dự án trước 2 ngày?",
+    "choices": [
+      "Nói với nhà quản lý cấp cao rằng đường tới hạn của dự án không cho phép dự án hoàn thành trước hạn",
+      "Nói với thủ trưởng của bạn ",
+      "Gặp đội dự án và tìm kiếm lựa chọn để hủy hoặc xúc tiến dự án",
+      "Làm việc cật lực và nhìn vào trạng thái dự án trong tháng tới."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "19. Trong nỗ lực hoàn thành dự án trước hạn, PM tìm kiếm chi phí liên kết với việc hủy từng hoạt động. Cách tiếp cận tốt nhất để hủy hoạt động sẽ bao gồm tìm kiếm trong: ",
+    "choices": [
+      "Ảnh hưởng rủi ro của việc hủy từng hoạt động",
+      "Quan điểm của khách hàng đối với từng hoạt động bị hủy",
+      "Quan điểm của thủ trưởng về hoạt động nào bị hủy, hoạt động nào đc làm tiếp.",
+      "Các giai đoạn trong vòng đời dự án mà hoạt động đó xảy ra"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "20. Một PM đang cố gắng để sắp xếp tất cả các hành động trong dự án và đã xác định đc: hoạt động 1 có thể thực hiện ngay lập tức và ước tính sẽ kéo dài trong 1 tuần. Hoạt động 2 sẽ bắt đầu sau khi hoạt động 1 hoàn thành và ước tính kéo dài trong 4 tuần. Hoạt động 3 có thể bắt đầu sau khi hoạt động 2 hoàn thành và ước tính kéo dài trong 5 tuần. Hoạt động 4 có thể bắt đầu sau khi hoạt động 1 hoàn thành và ước tính kéo dài trong 8 tuần. Hoạt động 3 và 4 phải đc hoàn thành trước khi kết thúc dự án. Vậy đường tới hạncủa dự án này kéo dài trong bao lâu? ",
+    "choices": [
+      "10",
+      "11",
+      "14",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "21. Dựa vào dữ liệu của câu hỏi trên, nếu hoạt động 4 kéo dài trong 10 tuần, đường tới hạn của dự án sẽ kéo dài trong bao lâu?",
+    "choices": [
+      "10 ",
+      "11",
+      "14",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "22. Điều nào dưới đây bao gồm việc hỏi đội dự án về thời gian ước tính cho hoạt động của họ và có đc sự đồng ý (reaching agreement)trong lịch cho mỗi hoạt động?",
+    "choices": [
+      "Sắp xếp các hành động (activity sequencing) ",
+      "Xây dựng lịch trình",
+      "Định nghĩa phạm vi",
+      "Tạo ra tôn chỉ dự án"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "23. Một PM đang trong giai đoạn thực thi của một dự án xây dựng lớn khi anh khám phá ra thời gian cần thiết để hoàn thành dự án dài hơn thời gian hiện có. Điều tốt nhất nên làm là gì?",
+    "choices": [
+      "Cắt giảm phạm vi dự án",
+      "Gặp ban lãnh đạo và nói với họ rằng thời với hạn yêu cầu không thể hoàn thành kịp dự án.",
+      "Làm việc thêm ngoài giờ ",
+      "Xác định các lựa chọn để dồn lịch và giới thiệu chúng với ban lãnh đạo như một lựa chọn khuyến nghị."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "24. Trong khi lên kế hoạch dự án, bạn ước tính thời gian cần thiết cho mỗi hoạt động và thêm ước tính để tạo ra ước lượng dự án. Bạn cam kết hoàn thành dự án đúng hạn. Trong tình huống này, điều gì SAI?",
+    "choices": [
+      "Đội dự án không tạo ra ước tính và việc ước tính sẽ tốn thời gian nếu sử dụng phương pháp này ",
+      "Đội dự án không tạo ra ước tính và sơ đồ mạng k đc sử dụng",
+      "Ước tính quá tốt thời gian và nên đc ban lãnh đạo tạo ra",
+      "Ước lượng dự án nên giống với ngày yêu cầu hoàn thành của khách hàng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "25. Trong khi định nghĩa hoạt động, một nhân viên xác định rằng 1 hoạt động cần đc thực hiện. Tuy nhiên, 1 nhân viên khác tin rằng hoạt động đó không phải là 1 phần của dự án như anh ta hiểu trong tuyên bố phạm vi dự án. PM tốt nhất nên làm gì?",
+    "choices": [
+      "Cố gắng xây dựng sự đồng thuận trong đội dự án",
+      "Thực hiện quyết định cá nhân ",
+      "Hỏi nhà tài trợ về thông tin chi tiết",
+      "Hỏi quản lý cấp cao về thông tin chi tiết"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "26. Bạn là 1 PM ở Mỹ, phát triển dự án phần mềm 5,000,000$. Trong khi làm việc với đội dự án để xây dựng sơ đồ mạng, bạn chú ý một chuỗi các hoạt động có thể đc thực hiện song song nhưng phải hoàn thành trong một thứ tụ riêng biệt. Loại hoạt động nào của phương pháp sắp xếp thứ tự hoạt động đc yêu cầu cho những hoạt động này? ",
+    "choices": [
+      "Phương pháp sơ đồ ưu tiên",
+      "Phương pháp sơ đồ mũi tên",
+      "Phương pháp đường tới hạn",
+      "Phương pháo sơ đồ toán tử"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "27. Bạn là 1 PM ở Mỹ, phát triển dự án phần mềm 5,000,000$. Trong khi làm việc với đội dự án để xây dựng sơ đồ mạng, dữ liệu xây dựng của bạn cho thấy chất lượng có thể dc cải thiện nếu mô hình dữ liệu đc quản lý cấp cao phê chuẩn trước khi chuyển sang thành phần thiết kế khác. Họ hỗ trợ đề nghị này với một bài báo từ một tạp chí phần mềm hàng đầu. Mô tả nào dưới đây là tốt nhất với loại đầu vào này? (với loại hỗ trợ này)",
+    "choices": [
+      "Phụ thuộc (or thành phần - dependency) bắt buộc ",
+      "Phụ thuộc tùy ý",
+      "Phụ thuộc ngoại cảnh",
+      "Heuristic – phương pháp đánh giá kinh nghiệm"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "28. Dựa vào bảng sau, nếu bạn cần làm ngắn thời gian thực hiện dự án, bạn sẽ giảm thời gian cho hoạt động nào?",
+    "choices": [
+      "Hoạt động Start-B",
+      "Hoạt động A-D ",
+      "Hoạt động E-End",
+      "Hoạt động C-E"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "29. Bạn có một dự án với các hoạt động sau: hoạt động A kéo dài 40 giờ và có thể bắt đầu sau khi bắt đầu dự án. Hoạt động B kéo dài 25 giờ và nên bắt đầu sau khi bắt đầu dự án. Hoạt động C phải bắt đầu sau khi hoạt động A và kéo dài trong 35 giờ. Hoạt động D phải bắt đầu sau hoạt động B và C và kéo dài 30 giờ. Hoạt động E phải bắt đầu sau hoạt động C và kéo dài 10 giờ. Hoạt động F và D là các hoạt động cuối cùng của dự án. Điều nào dưới đây là đúng nếu hoạt động B thực sự kéo dài trong 37 giờ?",
+    "choices": [
+      "Đường tới hạn là 67 giờ",
+      "Đường tới hạn thay đổi: Start, B, D, End ",
+      "Đường tới hạn thay đổi thành Start, A, C, E, F, End",
+      "Đường tới hạn tăng lên 12h"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "30. Một PM vừa nhận được ước tính thời gian hoạt động từ đội dự án. Anh ta cần điều nào dưới đây để hoàn thành xây dựng lịch trình?",
+    "choices": [
+      "Thay đổi các yêu cầu",
+      "Hệ thống kiểm soát thay đổi lịch trình",
+      "Đề nghị các hành động hiệu chỉnh ",
+      "Thời gian dự trù"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "31. Một PM đang kiểm soát một dự án từ một PM khác trong giai đoạn lập kế hoạch. Nếu PM mới muốn xem kế hoạch của ng PM cũ để quản lý thay đổi lịch trình, tốt nhất nên xem xét văn bản nào?",
+    "choices": [
+      "Kế hoạch quản lý truyền thông",
+      "Kế hoạch quản lý dự án",
+      "Kế hoạch quản lý nhân lực ",
+      "Kế hoạch quản lý lịch trình, thời gian"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "32. Một PM đang sử dụng ước tính thời gian trung bình có điều chỉnh để thực hiện phân tích lịch trình mạng. Loại hình phân tích toán học nào đc sử dụng?",
+    "choices": [
+      "Phương pháp đường tới hạn ",
+      "PERT",
+      "Monte Carlo",
+      "Cân bằng nguồn lực"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "33. WBS, ước tính cho từng gói công việc, và sơ đồ mạng đều đã hoàn thành. Người PM nên làm gì tiếp theo?",
+    "choices": [
+      "Sắp xếp các hành động",
+      "Xác minh rằng phạm vi chuẩn đã có (verify that they have the correct scope) ",
+      "Tạo ra lịch trình sơ bộ và lấy phê chuẩn từ đội dự án",
+      "Hoàn thành quản lý rủi ro"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "34. Một dự án phát triển sản phẩm mới có 4 cấp (level) trong bảng WBS và dc xếp chuỗi sử dụng phương pháp sơ đồ mũi tên. Ước tính thời gian hoạt động đã có. Điều tiếp theo nên làm là gì?",
+    "choices": [
+      "Tạo ra danh sách hành động",
+      "Bắt đầu làm bảng WBS",
+      "Hoàn thành lịch trình ",
+      "Nén lịch trình (compress)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "35. Bạn là một PM cho một dự án phát triển sản phẩm mới có 4 cấp trong bảng WBS, và được sắp xếp bằng phương pháp sơ đồ mũi tên. Ước tính thời gian đã được nén và một lịch trình đã đc tạo ra. Hành động quản lý thời gian nào nên đc làm tiếp theo?",
+    "choices": [
+      "Bắt đầu kiểm soát lịch trình",
+      "Bắt đầu ước tính nguồn lực hành động (activity resource estimating)",
+      "Ước tính tương tự lịch trình ",
+      "Có đc sự phê chuẩn"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "36. Một nhân viên từ phòng nghiên cứu phát triển nói với bạn rằng công việc của cô ấy quá sáng tạo để cung cấp cho bạn một ước tính riêng có sẵn cho hoạt động. bạn phải quyết định sử dụng giờ lao động từ dự án trước để dự đoán cho tương lai. Đây là một ví dụ về: ",
+    "choices": [
+      "Ước tính thông số",
+      "Ước tính 3 điểm (three point)",
+      "Ước tính tương tự",
+      "Phân tích Monte Carlo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "37. An activity has an early start(ES) of day 3, a late start (LS) of day 13, an early finish(EF) of day 9, and a late finish(LF) of day 19. The activity:",
+    "choices": [
+      "Is on the critical path(đường tới hạn)",
+      "Has a lag",
+      "Is progressing well ",
+      "Is not on the critical path"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "38. Dự án đc tính toán để hoàn thành 4 ngày sau ngày hoàn thành mong đợi (desired completion date). Bạn không có nguồn lực nào khác. Dự án có rủi ro thấp, tỷ lệ chi phí có lợi (benefit cost ratio) đc mong đợi là 1.6 và các phụ thuộc đc ưu tiên. Trong tình huống này, điều tốt nhất nên làm là gì?",
+    "choices": [
+      "Cắt giảm nguồn lực từ một hoạt động ",
+      "Thực hiện nhiều hoạt động đồng thời",
+      "Di chuyển nguồn lực từ phụ thuộc đc ưu tiên sang các phụ thuộc khác",
+      "Bỏ một hoạt động ra khỏi dự án"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "39. Một PM của một công ty xây dựng nhỏ có một dự án với chi phí là 130000$ với thời hạn hơn 6 tuần. Theo lịch của cô ấy, dự án nên có chi phí 60000$ đến bây giờ. Tuy nhiên, hiện tại dự án đã chi ra 90000$. Dự án đang đi chậm lịch trình do ước tính gốc không đúng. Ai sẽ có trách nhiệm chính để giải quyết vấn đề này? ",
+    "choices": [
+      "PM",
+      "Nhà quản lý cấp cao",
+      "Nhà tài trợ dự án",
+      "Quản lý của ban quản lý dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "40. Tổ chức của bạn có một thời gian khó khăn trong quản lý toàn bộ các dự án. Bạn dc đề nghị để giúp nhà quản lý cấp cao hiểu vấn đề này. Loại báo cáo nào sẽ giúp công cấp thông tin tóm tắt cho nhà quản lý cấp cao?",
+    "choices": [
+      "Ước tính chi phí chi tiết",
+      "Kế hoạch quản lý dự án",
+      "Sơ đồ đoạn (bar chart) ",
+      "Báo cáo điểm mốc"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "41. Sắp xếp lại các nguồn lực để có hằng số tài nguyên đc sử dụng mỗi tháng đc gọi là:",
+    "choices": [
+      "Crashing",
+      "Floating ",
+      "Leveling",
+      "Fast tracking"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "42. Điều nào dưới đây là một lợi ích của một đánh giá dự án tương tự?",
+    "choices": [
+      "Đánh giá sẽ gần hơn với công việc sẽ thực sự yêu cầu",
+      "Nó đc dựa vào việc hiểu chi tiết yêu cầu công việc ",
+      "Nó mang lại cho đội dự án việc hiểu rõ mong đợi của ban lãnh đạo",
+      "Nó giúp PM xác định nếu dự án hoàn thành đúng lịch trình"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "43. Trong giai đoạn thực hiện dự án, một số lượng lớn thay đổi đã đc thực hiện. Người PM nên làm gì?",
+    "choices": [
+      "Chờ đợi đến khi tất cả thay đổi đc biết và làm một lịch trình mới ",
+      "Thực hiện phê chuẩn các thay đổi nếu cần, nhưng giữ lại đường chuẩn lịch trình (baseline)",
+      "Chỉ thực hiện thay đổi đc ban lãnh đạo phê chuẩn",
+      "Nói chuyện với ban lãnh đạo trước khi thực hiện bất kz thay đổi nào"
+    ],
+    "answer": 2
+  }
+]

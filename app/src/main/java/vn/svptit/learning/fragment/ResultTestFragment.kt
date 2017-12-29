@@ -3,6 +3,7 @@ package vn.svptit.learning.fragment
 import android.graphics.Color
 import android.os.Bundle
 import android.os.Handler
+import android.util.Log
 import android.view.View
 import com.quangnv.baseproject.fragment.BaseFragment
 import kotlinx.android.synthetic.main.fragment_test_result.*
@@ -57,14 +58,14 @@ class ResultTestFragment: BaseFragment() {
         chapterId = bundle.getInt(CHAPTER_TAG)
         subjectId = bundle.getString(SUBJECT_TAG)
         arrAnswer = IntArray(questionList.size)
-        arrAnswer = (parentFragment as ChapterDetailFragment).arrAnswer
+        arrAnswer = (parentFragment as ChapterDetailFragment2).arrAnswer
     }
 
     private fun setResult() {
         nCorrect = checkCorrect()
         nMistake = arrAnswer.size - nCorrect
 
-//        setCircleProgressBar(nCorrect)
+        setCircleProgressBar(nCorrect)
         txt_correct.text = "CORRECT: $nCorrect"
         txt_mistake.text = "MISTAKE: $nMistake"
     }
@@ -76,10 +77,10 @@ class ResultTestFragment: BaseFragment() {
             SharePrefUtils().setInt(context, "$subjectId _HIGHSCORE_$chapterId", highScore)
         }
         if (nCorrect >= (questionList.size * 2 / 3)) {
-            txt_noti.text = R.string.noti_pass.toString()
+            txt_noti.text = resources.getString(R.string.noti_pass)
             txt_noti.setTextColor(Color.parseColor("#1DE9B6"))
         } else {
-            txt_noti.text = R.string.noti_nopass_test.toString()
+            txt_noti.text = resources.getString(R.string.noti_nopass_test)
             txt_noti.setTextColor(Color.parseColor("#FF0000"))
         }
         txt_high_score.text = "$highScore"
@@ -87,7 +88,7 @@ class ResultTestFragment: BaseFragment() {
 
     private fun checkCorrect(): Int {
         var dem = 0
-        for (i in 1..arrAnswer.size) {
+        for (i in 0 until arrAnswer.size) {
             if (arrAnswer[i] == questionList[i].answer) {
                 dem++
             }
@@ -95,21 +96,21 @@ class ResultTestFragment: BaseFragment() {
         return dem
     }
 
-//    private fun setCircleProgressBar(n: Int) {
-//        progress_bar.progress = 0
-//        Thread(Runnable {
-//            var progressState = 0
-//            var time = 900
-//            var percent = (100 * n / arrAnswer.size)
-//            while (progressState < percent) {
-//                progressState++
-//                handler.post {
-//                    progress_bar.progress = progressState
-//                    txt_score.text = "$progressState"
-//                }
-//                Thread.sleep((time/percent).toLong())
-//            }
-//        })
-//    }
+    private fun setCircleProgressBar(n: Int) {
+        progress_bar.progress = 0
+        Thread(Runnable {
+            var progressState = 0
+            var time = 500
+            var percent = (100 * n / arrAnswer.size)
+            while (progressState < percent) {
+                progressState++
+                handler.post {
+                    progress_bar.progress = progressState
+                    txt_score.text = "$progressState%"
+                }
+                Thread.sleep((time/percent).toLong())
+            }
+        }).start()
+    }
 
 }

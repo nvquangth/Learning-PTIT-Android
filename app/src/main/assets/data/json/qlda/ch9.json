@@ -1,0 +1,272 @@
+[
+  {
+    "question": "1. Phần lớn sử dụng của truyền thông ……………… phần lớn giống như giúp đỡ trong giải quyết các vấn đề phức tạp",
+    "choices": [
+      "Ngôn ngữ, lời nói (verbal) ",
+      "Văn bản (written)",
+      "Chính thức (formal)",
+      "Phi ngôn ngữ (nonverbal)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "2. Bảng WBS có thể là một giúp đỡ hiệu quả cho truyền thông trong các tình huống nào?",
+    "choices": [
+      "Trong nội bộ đội dự án",
+      "Trong nội bộ tổ chức",
+      "Ngoài nội bộ với khách hàng ",
+      "Trong và ngoài nội bộ dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "3. Điều nào dưới đây giống với kết quả của truyền thông khối nhất?",
+    "choices": [
+      "Dự án bị chậm tiến độ",
+      "Tăng thêm mức độ tin cậy ",
+      "Xảy ra các mâu thuẫn",
+      "Người quản trị cấp trung không hài lòng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "4. Truyền thông thường được nâng cao khi người gửi……………… người nhận:",
+    "choices": [
+      "Nói chuyện",
+      "Sử dụng ngôn ngữ cơ thể khi nói chuyện",
+      "Nói chuyện 1 cách chậm rãi ",
+      "Chỉ ra các quan điểm có liên quan"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "5. Sự phù hợp của văn bản chính thức với khách hàng được yêu cầu khi:",
+    "choices": [
+      "Các mối nguy hại đc loại bỏ ",
+      "Khách hàng yêu cầu các công việc thêm vào nhưng không có trong hợp đồng",
+      "Dự án có lịch trình k đúng thời hạn và bao gồm thay đổi đường tới hạn",
+      "Dự án vượt quá kinh phí"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "6. Một PM có vấn đề với hiệu năng của đội dự án. Loại hình truyền thông nào sẽ giúp PM xác định vấn đề?",
+    "choices": [
+      "Văn bản truyền thông chính thức",
+      "Lời nói (verbal) truyền thông chính thức",
+      "Văn bản truyền thông không chính thức ",
+      "Lời nói truyền thông không chính thức"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "7. Truyền thông bên dưới hợp đồng nên hướng về: ",
+    "choices": [
+      "Văn bản truyền thông chính thức",
+      "Lời nói (verbal) truyền thông chính thức",
+      "Văn bản truyền thông không chính thức",
+      "Lời nói truyền thông không chính thức"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "8. Báo cáo trạng thái dự án là ví dụ về loại hình truyền thông nào? ",
+    "choices": [
+      "Văn bản truyền thông chính thức",
+      "Lời nói (verbal) truyền thông chính thức",
+      "Văn bản truyền thông không chính thức",
+      "Lời nói truyền thông không chính thức"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "9. Khi một PM đang bận thương lượng, kỹ năng truyền thông bằng phi ngôn ngữ là",
+    "choices": [
+      "Ít quan trọng ",
+      "Rất quan trọng",
+      "Quan trọng chỉ khi mục tiêu chi phí và lịch trình đc kéo theo",
+      "Quan trọng chỉ khi chắc rằng bạn muốn thương lượng thành công"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "10. Một dự án lớn về viễn thông trong 1 năm đã đi đc nửa đường khi bạn tiếp quản vị trí PM từ 1 ng khác. Dự án kéo theo 3 người bán khác nhau và một đội dự án gồm 30 người. bạn muôn xem các yêu cầu truyền thông dự án và kỹ thuật nào đc sử dụng để giúp đỡ trong truyền thông. Bạn sẽ tìm thấy nó ở đâu?",
+    "choices": [
+      "Kế hoạch quản lý dự án",
+      "Kế hoạch phân phối thông tin",
+      "Sơ đồ đoạn (bar chart) ",
+      "Kế hoạch quản lý truyền thông"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "11. Thông tin dự án đã đc phân phối dựa theo kế hoạch quản lý truyền thông. Một vài sản phẩm của dự án đã thay đổi tuân theo kế hoạch quản lý dự án. Một bên có liên quan tỏ ra ngạc nhiên với PM khi nghe thấy các thay đổi đã đc công bố về sản phẩm dự án. Tất cả các bên có liên quan đều nhận đc thông báo về thay đổi. PM nên làm gì?",
+    "choices": [
+      "Xác định tại sao bên có liên quan đó không nhận đc thông tin và cho anh ta biết khi nó đã đc công bố",
+      "Hỏi giám đốc chức năng xem tại sao bên có liên quan không hiểu trách nhiệm của mình ",
+      "Xem xét lại kế hoạch quản lý truyền thông và thực hiện sửa lại nếu cần thiết",
+      "Xác định tình huống trong buổi họp ủy ban hướng dẫn lần tới để những người còn lại không bỏ sót các thông tin thay đổi đc công bố."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "12. Truyền thông là chìa khóa thành công của dự án. Với tư cách là PM, bạn có 3 bên có liên quan cần phải giao tiếp. bạn có 6 kênh truyền thông. Một bên có liên quan mới đc thêm vào và bạn cũng phải giao tiếp với anh ta. Như vậy có bao nhiêu kênh truyền thông bạn đang có bi h?",
+    "choices": [
+      "7 ",
+      "10",
+      "12",
+      "16"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. 2 nhân viên đang cãi nhau về điều gì cần làm để hoàn thành gói công việc. Nếu PM muốn biết chuyện gì đang xảy ra, cô ấy nên chú ý nhất vào:",
+    "choices": [
+      "Điều gì đã đc nói ra và khi nào",
+      "Điều gì đã đc nói ra, ai nói và thời gian nói",
+      "Cách nói riêng của mỗi người và điều gì đã đc nói ra ",
+      "Mức độ và tông giọng của mỗi người(nói từ từ hay quát vào mặt nhau ) ) và cách nói riêng của mỗi người."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "14. Một PM có một đội dự án bao gồm các nhân viên từ 4 quốc gia. Dự án rất quan trọng đối với công ty, và PM có liên quan tới thành công của dự án. Thời gian của dự án là chấp nhận được. Loại phương pháp truyền thông nào anh ta nên sử dụng?",
+    "choices": [
+      "Lời nói không chính thức ",
+      "Văn bản chính thức",
+      "Lời nói chính thức",
+      "Văn bản không chính thức"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "15. Buổi họp tiến trình dự án không diễn ra tốt đẹp. mọi người nói tất cả mọi lúc, có nhiều ngừoi không tham gia vào và có nhiều chủ đề đc thảo luận ngẫu nhiên. Luật nào dưới đây cho buổi họp hiệu quả đã không được tuân theo?",
+    "choices": [
+      "Sự tập trung lịch sự và cân nhắc của mỗi cá nhân, sự điều khiển ai sẽ được nói",
+      "Lịch trình buổi họp",
+      "Họp có mục đích, với những người phù hợp tham gia vào buổi họp ",
+      "Tạo ra và công bố một vấn đề và một tập các luật để điều khiển buổi họp"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "16. Bạn vừa đc phân công là PM cho một dự án sản xuất lớn. dự án 1 năm này đã thực hiện đc 1 nửa. nó kéo theo 5 người bán và 20 thành viên trong công ty tham gia vào đội dự án. Bạn muốn xem xét lại thật nhanh dự án đang tiến triển tới đâu. Báo cáo nào dưới đây là có ích nhất để tìm những thông tin như vậy?",
+    "choices": [
+      "Trạng thái công việc(work status) ",
+      "Tiến trình (progress)",
+      "Dự báo(forecast)",
+      "Truyền thông"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "17. Một nhân viên đang tham quan nhà máy sản xuất của một trong những nhà cung cấp. Điều nào dưới đây là quan trọng nhất phải làm trong bất kz cuộc gọi nào mà PM sẽ gọi cho anh ta? ",
+    "choices": [
+      "Yêu cầu nhân viên lặp lại những gì PM nói",
+      "Xem xét lại danh sách thông tin liên lạc của tất cả các bên có liên quan",
+      "Yêu cầu nhân viên tìm kiếm các yêu cầu thay đổi",
+      "Xem xét lại lịch họp sắp tới"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "18. Một PM tình cờ nghe được cuộc hội thoại giữa 2 bên có liên quan đang nói về sự không hài lòng của họ về ảnh hưởng của dự án tới phòng ban của họ. bên có liên quan A hỏi dự án đang đúng tiến độ không và bên B trả lời là 1.05. bên A hỏi PM có biết sự liên quan của việc này tới bên B không, bên B trả lời anh ta không chắc chắn. Điều tốt nhất là PM nên làm là gì?",
+    "choices": [
+      "Chắc chắn rằng các bên có liên quan nhìn thấy PM đang tình cờ nghe và yêu cầu họ chuyển các câu hỏi cho PM bằng văn bản",
+      "Thuyết trình với tất cả các bên có liên quan về trạng thái của dự án",
+      "Gửi cho 2 bên có liên quan này bản copy về nhật ký vấn đề (issue log) và hỏi xem có nhận xét gì nữa ko ",
+      "Sắp xếp 1 cuộc họp với cả 2 bên có liên quan này để nghe họ nói về bất kz vấn đề liên quan nào mà họ có."
+    ],
+    "answer": 4
+  },
+  {
+    "question": "19. Một PM đã quản lý 4 dự án cho công ty và đang đc cân nhắc để tham gia vào phòng quản lý dự án. Đây là những điều đã rút ra được sau quá trình đáng giá năng lực của anh ta: dự án đầu tiên của PM này có biến động chi phí CV = -500, sử dụng 2 nguồn lực then chốt, cần phải làm lại tôn chỉ dự án trong giai đoạn thực thi và đc xếp hạng ưu tiên thứ 14 trong công ty. Dự án thứ 2 kết thúc với biến động lịch trình là +100, đc hoàn thành với lịch trình nén rộng (vastly compressed schedule) và nhận đc thư giới thiệu từ nhà tài trợ, nhưng sản phẩm của dự án không đc sử dụng. Dự án thứ 3 có số lượng thay đổi hơn 23% so với dự kiến, có SPI=0.90 và 35 mục trong nhật ký vấn đề (issue log) khi dự án hoàn thành. Mỗi dự án có ngân sách chi phi là 1000$ và khoảng 20 tới 28% thay đổi nhiều hơn so với các dự án khác cùng quy mô. Phòng quản lý dự án quyết định không cân nhắc người PM này vào phòng nữa. Điều nào dưới đây mô tả tốt nhất tại sao PM lại ko đc vào?",
+    "choices": [
+      "PM chỉ quản lý các dự án có mức độ ưu tiên thấp và anh ta phải nén lịch trình, cho thấy anh ta không đủ kỹ năng để làm việc trong phòng quản lý dự án",
+      "Nhật ký lỗi không nên đc sử dụng trong những dự án có quy mô này, cho thấy PM không đủ kiến thức để làm việc trong phòng quản lý dự án ",
+      "PM không thu hút hiệu quả các bên có liên quan, cho thấy anh ta không đủ kiến thức để làm việc trong phòng quản lý dự án",
+      "PM có 2 nguồn lực then chốt trong đội của mình và vẫn cần phải làm lại tôn chỉ dự án, cho thấy anh ta không đủ kỷ luật để làm việc trong phòng quản lý dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "20. Mọi thứ đang hoạt động tốt trong giai đoạn giữa của một dự án. Hệ thống cấp phép công việc cho phép mọi người biết thời gian bắt đầu công việc và nhật ký lỗi đã giúp theo dõi các yêu cầu của các bên có liên quan. Tỷ suất chi phí có ích đc cải thiện và nhà tài trợ bày tỏ sự đánh giá cao của mình cho những nỗ lực của đội dự án bằng cách tổ chức một buổi tiệc quan trọng cho đội. PM đã nhận đc 1 cuộc gọi từ 1 thành viên dự án nói rằng kết quả từ việc hoàn thành hoạt động trước đã bị chậm 2 ngày. Lý do nào dưới đây là tốt nhất giải thích tại sao điều này xảy ra?",
+    "choices": [
+      "PM tập trung vào yêu cầu của nhà tài trợ ",
+      "Ban lãnh đạo chức năng không đc tính đến trong kế hoạch quản lý truyền thông",
+      "Hoạt động tiếp sau nên đc theo dõi, không phải hoạt động trước đó",
+      "Những người cần thiết không đc mời đến buổi tiệc quan trọng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "21. Có nhiều gói công việc đã hoàn thành tốt đẹp trong dự án và nhà tài trợ đã có một vài sự đánh giá cao cho sự cải thiện. Dự án đang trong đúng lịch trình để đáp ứng hạn chót gấp gáp (aggressive schedule) khi hành động sau của hoạt động đường tới hạn gặp phải một trở ngại lớn (suffer a major setback). Hoạt động này có 14 ngày trễ (14days of float) và đc 4 ng hoàn thành. Có 2 nhân viên khác có kỹ năng trợ giúp hoạt động này, nếu cần thiết. PM nhận đc 1 cuộc gọi rằng 3 nhân viên khác đang cố gắng rời khỏi dự án do họ không cảm thấy rằng dự án có thể thành công. Khi PM tiếp tục theo đuổi vấn đề này, cô ấy khám phá ra rằng những nhân viên này có vấn đề mà chưa đc xác định trc đó. Điều nào dưới đây là tốt nhất để cải thiện dự án?",
+    "choices": [
+      "Các nhân viên dự án ngay lập tức cố gắng giải quyết hoạt động đang gặp vấn đề",
+      "Điều tra xem tại sao lịch trình dự án lại gấp gáp",
+      "Tìm xem ai có thể thay thế 3 nhân viên đó ",
+      "Tạo nhật ký lỗi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "22. Dự án có 13 nhân viên và chịu ảnh hưởng từ 15 phòng ban trong tổ chức. Do dự án đã hoàn thành đc 20% thời hạn dự án và có báo cáo hiệu năng thành công từ 5 phòng ban, PM tổ chức 1 buổi tiệc. PM mời các bên có liên quan từ tất cả các phòng ban, cung cấp những đánh giá tốt về một cơ hội truyền thông phi chính thức để truyền tải những điều tốt tới những phòng ban chưa tham gia vào dự án. Tại buổi tiệc, PM đi 1 vòng để khám phá và tìm các thông tin có liên quan tới 1 trng những phòng ban đang nói về việc thiết lập nhiều buổi họp chính thức hơn trong dự án. Điều tốt nhất PM nên làm đầu tiên là:",
+    "choices": [
+      "Ghi lại những ấn tượng sâu sắc của buổi tiệc vào các bài học thu đc từ dự án ",
+      "Xem lại phương pháp phân phối thông tin trong dự án",
+      "Tổ chức một buổi họp với tất cả các bên có liên quan để thảo luận các mối bận tâm của họ",
+      "Chắc chắn rằng ban lãnh đạo có bản copy của kế hoạch quản lý truyền thông để anh ta có thể nhớ những mối bận tâm này nên đc gửi tới PM"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "23. Một dự án lớn đang thực hiện khi một nhân viên đội dự án xem lại báo cáo trạng thái dự án. Anh ta thấy rằng dự án hiện tại đang thực hiện chậm lịch trình. Khi tìm kiếm sâu hơn, anh ta chú ý rằng sự chậm trễ là nguyên nhân của hoạt động của anh ta bị dời lịch trong thời gian anh ra nước ngoài và không thể thực hiện đc hoạt động này. Đây là mối bận tâm lớn do anh ta cam kết dự án sẽ thành công và anh ta không muốn là nguyên nhân của sự chậm trễ hơn của dự án. Điều tốt nhất nên làm là gì?",
+    "choices": [
+      "Liên lạc với PM ngay lập tức để cung cấp cho PM lịch trình",
+      "Thêm các thông tin này vào báo cáo lần tới của anh ta",
+      "Yêu cầu vấn đề này đc thêm vào nhật ký lỗi của dự án ",
+      "Khuyến nghị hành động hiệu chỉnh"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "24. Dự án của bạn đang có một thời gian khó khăn trong việc có được phê chuẩn chính thức của kế hoạch quản lý dự án do có nhiều yêu cầu của các bên có liên quan chưa đc phê chuẩn để liên quan trong dự án. Các bên có liên quan cãi nhau và làm chậm tiến độ dự án khi họ cứ tổ chức buổi họp này tới buổi họp khác về các yêu cầu của họ. Dự án cuối cùng cũng đc phê chuẩn và đã bắt đầu từ 6 tháng trước. Tất cả những điều sau sẽ là những hành động ngăn chặn tốt, ngoại trừ:",
+    "choices": [
+      "Giữ một file về những yêu cầu nào chưa đc bao gồm trong dự án",
+      "Chắc chắn rằng quy trình kiểm soát thay đổi không đc sử dụng như một phương tiện để thêm vào những yêu cầu vào dự án",
+      "Duy trì nhật ký lỗi ",
+      "Tổ chức các buổi họp với các bên có liên quan để vượt qua những công việc chưa đc thêm vào dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "25. PM đang hi vọng một sản phẩm sẽ đc đệ trình (submit) bằng email từ một nhân viên vào ngày hôm nay. Vào cuối ngày, PM liên lạc với nhân viên đó để thông báo rằng PM chưa nhận đc email. Nhân viên này xin lỗi và nói rằng anh ra không thể email về sản phẩm, và nó sẽ đc gửi thông qua thư thay vì email. Nhân viên này tiếp tục giải thích rằng anh ta đã thông báo với PM điều này sẽ xảy ra trong một cuộc điện thoại khi PM đang du lịch. PM nói:”chúng ta có nói chuyện không khi mà tôi đã nói với anh là tôi ko nghe thấy anh nói gì vì sóng yếu?” người nhân viên trả lời: “Có”. Điều gì sẽ ngăn chặn vấn đề này?",
+    "choices": [
+      "Sử dụng ngôn ngữ truyền đạt cụ thể (paralingual communication)",
+      "Thêm vào nhật ký lỗi sau cuộc gọi đó",
+      "Chú ý nhiều hơn để quyết định yêu cầu truyền thông ",
+      "Phản hồi lại trong quá trình truyền thông"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "26. Các thủ tục công ty bao gồm việc tạo ra văn bản các bài học thu được. điều nào dưới đây là tốt nhất khi sử dụng các bài học thu được? ",
+    "choices": [
+      "Các thông tin lịch sử cho các dự án trong tương lai",
+      "Lên kế hoạch ghi lại bản ghi lịch sử cho dự án hiện tại",
+      "Thông báo cho đội dự án về những gì PM đã làm",
+      "Thông báo cho đội dự án về kế hoạch quản lý dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "27. Các bài học thu được, được hoàn thành tốt nhất bởi:",
+    "choices": [
+      "PM",
+      "Đội dự án",
+      "Nhà tài trợ ",
+      "Các bên có liên quan"
+    ],
+    "answer": 4
+  }
+]

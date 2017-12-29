@@ -1,0 +1,312 @@
+[
+  {
+    "question": "1. Gần cuối dự án cuối cùng của bạn, một nhóm các bên có liên quan muốn thêm các yêu cầu vào khi họ biết rằng họ sẽ bị ảnh hưởng từ dự án của bạn. điều này sẽ là một rắc rối do bạn không bao gồm thời gian và chi phí trong kế hoạch quản lý dự án cho những yêu cầu kiểu này. Điều tốt nhất bạn nên làm đề ngăn chặn những vấn đề này trong các dự án sắp tới là:",
+    "choices": [
+      "Xem xét lại từ điển WBS thật kỹ lưỡng, tìm kiếm các mô tả chưa hoàn tất",
+      "Xem xét lại tôn chỉ dự án thật kỹ lưỡng, kiểm tra các lỗ hổng nghiệp vụ",
+      "Làm thêm một công việc kỹ lưỡng về lên kế hoạch hợp đồng ",
+      "Chú ý thêm vào ban lãnh đạo các bên có liên quan"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "2. Dự án phát triển phần mềm không phát triển tốt. có hơn 30 bên có liên quan, và không ai đồng ý với mục tiêu dự án. Một bên có liên quan tin rằng dự án có thể có đc 30% cải thiện trong khi một bên khác tin rằng có thể lên tới 50%. PM thì là 10% cải thiện là thực tế hơn. Cách giải quyết tốt nhất là:",
+    "choices": [
+      "Tiếp tục phát triển dự án và tìm kiếm thêm thông tin sau đó để giải quyết vấn đề",
+      "Lấy số liệu trung bình và sử dụng làm mục tiêu ",
+      "Thực hiện một phân tích khả thi",
+      "Hỏi nhà tài trợ để có quyết định cuối cùng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. Một đội dự án đã hoàn thành, và khách hàng đã chấp nhận, phạm vi dự án đã hoàn thành. Tuy nhiên, các bài học rút ra do phòng ban quản lý dự án yêu cầu vẫn chưa dc hoàn thành. Trạng thái của dự án là ntn?",
+    "choices": [
+      "Dự án chưa hoàn thành do dự án cần phải lên kế hoạch lại ",
+      "Dự án chưa hoàn thành cho tới khi toàn bộ dự án và sản phẩm bàn giao là hoàn thành và đc chấp nhận",
+      "Dự án là hoàn thành do khách hàng đã chấp nhận sản phẩm bàn giao",
+      "Dự án hoàn thành do dự án đã đến ngày kết thúc (reach the due date)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "4. Bạn đang ở giai đoạn giữa dự án của một sản phẩm mới phát triển cho 1công ty công khai giao dịch, bạn biết đc người PM trước đã chi trả 3000000$ mà không đc phê chuẩn theo chính sách công ty. Thật may mắn, CPI=1.2. bạn nên làm gì? ",
+    "choices": [
+      "Liên lạc với người quản lý của bạn",
+      "Đặt khoản chi đó vào một tài khoản của bên thứ 3 (escrow account) để làm bằng chứng",
+      "Che giấu khoản chi này trong phần tập trung chi phí lớn nhất sẵn có (the largest cost center available)",
+      "Từ chối khoản chi này"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5. Trong cuộc họp với một vài bên có liên quan, PM đc yêu cầu thêm công việc vào phạm vi dự án. PM đã sử dụng thông tin phù hợp với dự án trước khi tôn chỉ dự án đc ký và nhớ rằng nhà tài trợ đã từ chối rõ ràng các khoản vốn cho phạm vi đc đề cập bởi các bên có liên quan. Điều tốt nhất mà PM nên làm là:",
+    "choices": [
+      "Cho nhà tài trợ biết các yêu cầu của các bên có liên quan",
+      "Đánh giá ảnh hướng của các phạm vi thêm vào ",
+      "Nói với các bên có liên quan rằng không thể thêm phạm vi",
+      "Thêm công việc nếu còn thời gian trong lịch trình dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "6. Khi kiểm tra lịch của một nhân viên để lên lịch họp, bạn nhìn thấy cô ấy đã đặt lịch gặp với 1 bên có liên quan chính nhưng bạn đã không đc thông báo. Cách thăm dò tốt nhất là:",
+    "choices": [
+      "Từ chối đề cập vấn đề này với nhân viên đó nhưng vẫn tiếp tục theo dõi các hành động của cô ta.",
+      "Thông báo với thủ trưởng của bạn về vấn đề này",
+      "Nói chuyện về việc này với thủ trưởng của cô ta ",
+      "Nói chuyện về việc này với cô ấy"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "7. PM đang có một thời gian khó khăn khi giữ cho dự án phát triển đúng lịch trình. Dự án yêu cầu 220 người để hoàn thành. Tất cả các vấn đề của dự án đã đc giải quyết và PM hài lòng, SPI=0.67, CPI=1.26, có 23 hoạt động trong đường tới hạn và độ dài PERT của dự án là 26. Trong điều kiện này, báo cáo trạng thái hàng tháng nên báo cáo rằng:",
+    "choices": [
+      "Dự án vẫn hoạt động tốt",
+      "Dự án sẽ bị chậm tiến độ",
+      "Chi phí dự án thấp hơn ngân sách ",
+      "Các vấn đề và các tùy chọn"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "8. Nhân viên của bạn đã chậm 3 ngày so với lịch báo cáo. 5 phút trước khi cuộc họp mà chủ đề của báo cáo sẽ đc thảo luận thì cô ấy mới đưa cho bạn báo cáo. Bạn nhận thấy có 1 vài lỗi nghiêm trọng trong đó, bạn nên làm gì? ",
+    "choices": [
+      "Hủy cuôc họp và lên lịch họp lại sau khi báo cáo đã đc sửa chữa",
+      "Tới buổi họp và nói với mọi người tham gia là có lỗi trong báo cáo",
+      "Bắt buộc nhân viên phải thuyết trình và những người tham gia khác im lặng tìm lỗi",
+      "Hủy cuộc họp và tự viết lại báo cáo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "9. Một người quản lý có trách nhiệm cho 1 dự án có đc sự hỗ trợ từ người lãnh đạo cấp cao. Từ khi bắt đầu, bạn đã không đồng ý với ng quản lý này về việc dự án nên tiến hàng ntn và các sản phẩm bàn giao là gì. Bạn và cô ấy đã bất đồng quan điểm rất nhiều vấn đề trong quá khứ. Phòng ban của bạn đc giao nhiệm vụ cung cấp 1 vài gói công việc quan trọng do dự án. Bạn nên làm gì? ",
+    "choices": [
+      "Cung cấp cho cô ta những gì cô ấy cần",
+      "Thông báo với quản lý của bạn về mối lo âu về sự hỗ trợ của cô ấy",
+      "Nói chuyện với cô ta vào lúc bắt đầu dự án và cố gắng mô tả tại sao bạn phản đối và tìm ra 1 cách để giải quyết vấn đề",
+      "Hỏi để đc thoát ra khỏi dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "10. Một dự án lớn và phức tạp về xây dựng trong một công ty nc ngoài yêu cầu sự kết hợp để di chuyển các thiết bị yêu cầu qua 1 con phố đông đúc. Để chắc chắn thiết bị đc vận chuyển an toàn, các mối liên hệ của bạn ở nc này thông báo rằng bạn phải trả cho các cảnh sát địa phương 1 khoản để thuận tiện cho việc vận chuyển. bạn nên làm gì?",
+    "choices": [
+      "Không trả do đó là tiền hối lộ",
+      "Loại trừ công việc ",
+      "Trả khoản phí",
+      "Không trả phí nếu đấy không phải là 1 phần của ước lượng dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. Một cuộc thương lượng lớn với 1 nhà thầu phụ tiềm năng đã đc lên lịch vào ngày mai, bạn phát hiện ra có 1 cơ hội tốt mà dự án sẽ bị hoãn. Bạn nên làm gì?",
+    "choices": [
+      "Không giành nhiều thời gian chuẩn bị cho cuộc thương lượng",
+      "Cắt giảm thời gian thương lượng",
+      "Chỉ thương lượng các hạng mục chunhs ",
+      "Hoãn cuộc thương lượng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "12. Bạn đc phân công quản lý 1 dự án đã hoàn thành đc 1 nửa theo lịch trình. Sau đánh giá bao quát, bạn phát hiện ra dự án đang đi chậm hơn lịch trình(far behind schedule), và dự án có thể sẽ kéo dài gấp đôi thời gian ước tính ban đầu của PM trước. tuy nhiên, nhà tài trợ đã đc nói là dự án đang đúng lịch trình. Hành đông tốt nhất là:",
+    "choices": [
+      "Cố gắng cấu trúc lại lịch trình để đáp ứng với thời hạn cuối cùng của dự án ",
+      "Báo cáo đánh giá của bạn với nhà tài trợ",
+      "Chuyển lại dự án cho PM cũ",
+      "Tiếp tục thực hiện với lịch trình đc PM cũ lên kế hoạch và báo cáo điều này vào điểm mốc bị lỡ đầu tiên (first missed milestone)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. Bạn đang đi đc ½ chặng đường qua 1 buổi giới thiệu máy bay mạng lớn (major network rollout). Có 300 địa điểm trong US và 20 ở UK. Một người bán phần mềm vừa phát hành một phần mềm lớn nâng cao chất lượng cho 1 vài thiết bị đc cài đặt. việc nâng cao chất lượng cung cấp cho khách hàng chức năng họ yêu cầu mà không có sẵn tại thời điểm dự án bắt đầu. trong điều kiệnnày, hành động nào là tốt nhất?",
+    "choices": [
+      "Tiếp tục theo kế hoạch, khách hàng của bạn sẽ không yêu cầu thay đổi ",
+      "Thông báo với khách hàng về việc nâng cao chất lượng và ảnh hưởng của nó tới thời gian và các chức năng của dự án",
+      "Cài đặt thay đổi và điều chỉnh lịch trình nếu cần thiết vì nó hỗ trợ yêu cầu đầu tiên của khách hàng",
+      "Cài đặt thay đổi đối với các địa điểm còn lại và tiếp tục theo lịch trình"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "14. Bạn đang làm việc trong dự án nghiên cứu và phát triển, khách hàng yêu cầu bạn bao gồm một thành phần đặc biệt vào dự án. Bạn biết rằng nó có nghĩa là thêm công việc, và bạn k muốn có sự vượt quá nguồn dự trữ có sẵn. bạn nên làm gì>",
+    "choices": [
+      "Xóa gói công việc có mức ưu tiên thấp hơn để dành thời gian và nguồn dự trữ có sẵn",
+      "Sử dụng nguồn dự trữ từ khoản dành riêng ngẫu nhiên để bù đắp chi phí ",
+      "Tuân theo quy trình kiểm soát thay đổi hợp đồng",
+      "Yêu cầu thêm nguồn dự trữ từ nhà tài trợ"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "15. Bạn là PM cho 1 trong nhiều dự án trong 1 chương trình lớn và quan trọng. tại buổi họp quan trọng, bạn chú ý rằng một PM khác đã báo cáo dự án của cô ấy đúng lịch trình. Tìm kiếm trong dự án của bạn khoảng 1 vài tuần trc, bạn nhớ rằng nhiều sản phẩm bàn giao từ dự án khác đã bị chậm trễ. Bạn nên làm gì?",
+    "choices": [
+      "Gặp người quản lý chương trình",
+      "Xây dựng kế hoạch kiểm soát rủi ro",
+      "Thảo luận vấn đề với thủ trường của bạn ",
+      "Gặp người PM kia"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "16. Bạn luôn đc ban lãnh đạo yêu cầu cắt giảm ước tính dự án 10% sau khi bạn đưa nó cho họ. phạm vi của dự án mới là k rõ ràng và có hơn 30 bên có liên quan. Ban lãnh đạo mong muốn giảm thời gian giải lao 25% như 1 kết quả của dự án. Điều nào dưới đây là hành động tốt nhất trong tình huống này?",
+    "choices": [
+      "Lên kế hoạch lại để có đc 35% cải thiện thời gian giải lao",
+      "Giảm ước tính và ghi lại thay đổi trong kế hoạch phản ứng rủi ro ",
+      "Cung cấp một ước tính chính xác của chi phí thực tế và cố gắng chứng minh nó",
+      "Gặp đội dự án để xác định bạn có thể tiết kiệm 10% ở đâu"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "17. Nhân viên của bạn đã chậm 3 ngày so với lịch báo cáo. 5 phút trước khi cuộc họp mà chủ đề của báo cáo sẽ đc thảo luận thì cô ấy mới đưa cho bạn báo cáo. Bạn thấy có 1 vài lỗi nghiêm trọng trong báo cáo. Điều này có thể ngăn chặn ntn?",
+    "choices": [
+      "Yêu cầu các nhân viên cập nhật định kz",
+      "Huấn luyện và cố vấn cho nhân viên",
+      "Chắc chắn nhân viên có khả năng làm công việc ",
+      "Hoãn buổi họp sớm hơn do bạn không có thời gian xem lại báo cáo"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "18. Dự án đang đi đc nửa đường khi bạn phát hiện có 1 ng bán phần mềm cho dự án của bạn có khó khăn lớn trong việc giữ nhân viên do bất đồng lao động. nhiều dự án khác trong công ty của bạn cũng sử dụng các dịch vụ của công ty. Bạn nên làm gì?",
+    "choices": [
+      "Cố gắng giữ yêu cầu của họ trong dự án của bạn ",
+      "Nói với các PM khác trong công ty về vấn đề lao động",
+      "Liên lạc với công ty và hỏi ý kiến rằng bạn sẽ hủy công việc của họ trong dự án trừ phi họ giải quyết đc vấn đề bất đồng lao động",
+      "Kết thúc công việc kinh doanh với công ty này"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "19. Điều nào dưới đây KHÔNG phải là trách nhiệm của PM",
+    "choices": [
+      "Duy trì sự bí mật của thông tin bảo mật của khách hàng ",
+      "Xác định tính hợp pháp của các thủ tục công ty",
+      "Chắc chắn rằng một xung đột về lợi ích không làm ảnh hưởng tới tính hợp pháp lợi ích của khách hàng",
+      "Cung cấp kết quả chính xác và trung thực trong ước tính chi phí"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "20. Để hoàn thành công việc trong dự án của bạn, bạn đã đc cung cấp các thông tin bí mật từ tất cả khách hàng của bạn. một trường đại học liên lạc với bạn để nhờ giúp đỡ trong nghiên cứu của họ. sự giúp đỡ như vậy sẽ đòi hỏi bạn cung cấp cho công ty 1 vài dữ liệu khách hàng từ file của bạn. bạn nên làm gì?",
+    "choices": [
+      "Phát hành(release) thông tin, nhưng xóa hết những liên quan tới danh tính của khách hàng",
+      "Chỉ cung cấp những thông tin quan trọng ( or cần thiết? – high-level) ",
+      "Liên lạc với khách hàng của bạn và tìm kiếm sự cho phép để cung cấp các thông tin của họ",
+      "Cung cấp thông tin"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "21. Ban lãnh đạo đã hứa với bạn 1 phần phí ưu đãi từ khách hàng nếu bạn hoàn thành dự án sớm hạn. trong khi hoàn thành 1 sản phẩm bàn giao quan trọng, đội của bạn thông báo rằng sản phẩm đã đáp ứng các yêu cầu trong hợp đồng nhưng không cung cấp chức năng mà khách hàng cần. nếu sản phẩm bàn giao muộn, dự án không thể hoàn thành sớm hạn. bạn nên làm gì /",
+    "choices": [
+      "Cung cấp sản phẩm như nó vốn thế( provide the deliverable as it is) ",
+      "Thông báo với khách hàng về tình hình và tìm ra giải pháp chung có thể chấp nhận đc",
+      "Bắt đầu biên tập 1 danh sách các nguyên nhân chậm trễ do khách hàng để chuẩn bị cho thương lượng",
+      "Cắt giảm các hoạt động khác theo cách mà sẽ không bị chú ý để cung cấp nhiều thời gian hơn để sửa sản phẩm bàn giao"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "22. Bạn vừa phát hiện ra 1 lỗi trong kế hoạch cài đặt mà sẽ ngăn cản 1 cuộc họp quan trọng(milestone date). điều tốt nhất bạn nên làm là:",
+    "choices": [
+      "Phát triển các tùy chọn để có đc ngày quan trọng",
+      "Thay đổi ngày quan trọng",
+      "Xóa 1 vài thảo luận về thời gian theo báo cáo trang thái dự án",
+      "Huấn luyện đội về sự cần thiết để có đc ngày quan trọng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "23. Trong khi kiểm tra độ bền của bêtông đc đổ trong dự án của bạn, bạn phát hiện ra hơn 35% bê tông không đáp ứng đc tiêu chuẩn chất lượng của công ty bạn. bạn cảm thấy chắc chắn rằng bê tông sẽ hoạt động tốt, và bạn k nghĩ rằng bê tông cần đáp ứng các tiêu chuẩn chất lượng. bạn nên làm gì?",
+    "choices": [
+      "Thay đổi tiêu chuẩn chất lượng phù hợp với mức độ có thể có",
+      "Liệt kê trong báo cáo rằng bê tông đơn giản là”đáp ứng yêu cầu của chúng tôi”",
+      "Chắc chắn rằng số bê tông còn lại sẽ đạt tiêu chuẩn ",
+      "Báo cáo về chất lượng kém và cố gắng tìm 1 giải pháp"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "24. Bạn là PM cho 1 dự án đa quốc gia mới và đội dự án của bạn bao gồm nhân viên đến từ 4 quốc gia. Phần lớn nhân viên chưa bao h làm việc trong 1 dự án kiểu như thế này, nhưng dự án có sự hỗ trợ lớn từ ban lãnh đạo cấp cao. Điều tốt nhất để chắc chắn rằng sự khác biệt văn hóa không ảnh hưởng tới dự án là:",
+    "choices": [
+      "Dành thêm 1 khoảng thời gian để tạo WBS và chắc chắn nó hoàn thành",
+      "Là một PM, chắc chắn bạn chọn từ ngữ cẩn thận khi bạn giao tiếp ",
+      "Yêu cầu 1 người trong mỗi buổi họp mô tả những điều đặc biệt về văn hóa của họ",
+      "Mã hóa cẩn thận tất cả các giao tiếp của PM"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "25. Một dự án có ngân sách eo hẹp khi bạn bắt đầu thương lượng với 1 người bán về thiết bị. người bán nói với bạn rằng giá của thiết bị này là cố định. Ng quản lý của bạn nói với bạn thương lượng giá cả với người bán. Hành động nào là tốt nhất/ ",
+    "choices": [
+      "Thực hiện nỗ lực cam kết tốt để tìm cách giảm giá",
+      "Hoãn thương lượng cho tới khi bạn thuyết phục đc ng quản lý của bạn thay đổi quyết định",
+      "Vẫn thương lượng, nhưng chỉ về những khía cạnh khác của dự án",
+      "Hủy thương lượng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "26. Bạn đang làm việc trong 1 dự án xây dựng lớn đang thực hiện trong đường giới hạn. các nguồn lực đc sử dụng từ từ(remain steady), thủ trưởng của bạn vừa thưởng bạn vì nỗ lực của bạn. một thành viên đội dự án trở về từ 1 cuộc họp với khách hàng và nói với bạn rằng khách hàng không hài lòng với việc thực hiện dự án. Điều đầu tiên bạn nên làm là:",
+    "choices": [
+      "Nói với ng quản lý của bạn",
+      "Hoàn thành các bài tập xây dựng đội dự án và mời đại diện khách hàng tham dự",
+      "Thay đổi đường lịch trình cơ bản ",
+      "Gặp khách hàng để tìm ra chi tiết (uncover detail)"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "27. Một PM phát hiện một khuyết điểm trong sản phẩm mà phải bàn giao cho khách hàng hôm nay. PM biết khách hàng k có hiểu biết kĩ thuật để chú ý tới khuyết điểm này. Sản phẩm đáp ứng các yêu cầu của hợp đồng, nhưng không đáp ứng tiêu chuẩn chất lượng của PM. PM nên làm gì trong tình huống này?",
+    "choices": [
+      "Đưa ra sản phẩm và lấy sự chấp nhận chính thức từ khách hàng",
+      "Ghi lại vấn đề trong các bài học thu được để các dự án trong tương lai sẽ không mắc phải vấn đề đó nữa ",
+      "Thảo luận vấn đề với khách hàng",
+      "Thông báo với khách hàng sản phẩm sẽ bị chậm trễ"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "28. Ban lãnh đạo nói với 1 PM để thầu lại một phần của dự án cho 1 công ty mà ban lãnh đạo đã làm việc nhiều lần. trong tình huống này, PM nên bận tâm lớn nhất về: ",
+    "choices": [
+      "Chắc chắn công ty có đủ khả năng để hoàn thành dự án",
+      "Đáp ứng yêu cầu thời gian của ban lãnh đạo",
+      "Chi phí của công việc thầu lại",
+      "Các điều khoản và điều kiện hợp đồng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "29. Khách hàng trong một dự án nói với PM rằng anh ta đã hết tiền chi trả cho dự án. PM nên làm gì đầu tiên?",
+    "choices": [
+      "Thay đổi lịch trình các công việc để thực hiện thời gian muộn hơn so với lịch trình cũ để khách hàng có thêm nguồn vốn ",
+      "Bắt đầu kết thúc các hoạt động quản trị",
+      "Dừng công việc",
+      "Cắt giảm nhân sự 1 phần đội dự án(release part of the team)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "30. Bạn là PM cho 1 dự án lớn trong hợp đồng với chính phủ. Hợp đồng 2 năm, nhiều triệu $ đã đc ký 6 tháng trước. bạn không đc kéo theo trong thương lượng hợp đồng hay thiết lập các thủ tục cho việc quản lý các thay đổi, nhưng bạn đang tràn ngập với các thay đổi từ khách hàng và từ những người trong tổ chức của bạn. thông thường, ai sẽ có trách nhiệm cho việc xem xét chính thức các thay đổi lớn đối với dự án/hợp đồng? ",
+    "choices": [
+      "Ban kiểm soát thay đổi",
+      "Ban ký hợp đồng/pháp lý",
+      "PM",
+      "Lãnh đạo cấp cao"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "31. Phòng kĩ thuật muốn mục tiêu dự án cải thiện 10%. Phòng IT muốn nguồn lực của phòng k bị sử dụng nhiều hơn 5% vào dự án. Ban lãnh đạo, cũng là thủ trưởng của bạn, muốn đội dự án giảm thuế pháp lý (tax liability). Điều tốt nhất bạn nên làm là:",
+    "choices": [
+      "Xây dựng 1 kế hoạch đáp ứng tất cả các mục tiêu trên",
+      "Mọi người cùng bàn bạc và đồng ý 1 mục tiêu ",
+      "Tính đến mục tiêu của phòng kỹ thuật và phòng IT nhưng đáp ứng ít đối với mục tiêu của ban lãnh đạo(holding a further meeting)",
+      "Chỉ tính đến mục tiêu của ban lãnh đạo."
+    ],
+    "answer": 3
+  }
+]

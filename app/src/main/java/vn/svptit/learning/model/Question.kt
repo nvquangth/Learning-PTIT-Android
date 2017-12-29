@@ -7,6 +7,6 @@ import java.io.Serializable
  */
 class Question: Serializable {
     var question = ""
-    var choies = arrayListOf<String>()
+    var choices = arrayListOf<String>()
     var answer = 0
 }

@@ -1,0 +1,342 @@
+[
+  {
+    "question": "1. Tất cả những điều sau đều là nhân tố trong đánh giá rủi ro dự án, ngoại trừ:",
+    "choices": [
+      "Sự kiện rủi ro",
+      "Xác suất rủi ro",
+      "Số tiền rủi ro (amout at stake) ",
+      "Chi phí bảo hiểm"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "2. Nếu một dự án có 60% cơ hội kiếm được 100000$ và có 40% cơ hội mất 100000$, giá trị tiền tệ dự kiến cho dự án là:",
+    "choices": [
+      "Thu được 100000$",
+      "Mất đi 60000$ ",
+      "Thu được 20000$",
+      "Mất đi 40000$"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. Cho rằng 2 đầu của dải các ước tính trung bình là +/-3sigma, dải ước tính nào dưới đây bao gồm ít rủi ro nhất?",
+    "choices": [
+      "30 ngày, cộng trừ 5 ngày",
+      "Từ 22-30 ngày ",
+      "Optimistic=26days, most likely=30days, pessimistic=33days",
+      "28 ngày"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "4. Sự kiện rủi ro nào dưới đây gây trở ngại cho việc đạt tới mục tiêu lịch thực hiện dự án nhất? ",
+    "choices": [
+      "Chậm trễ trong việc có được các phê chuẩn đc yêu cầu",
+      "Tăng đáng kể chi phí mua nguyên vật liệu",
+      "Tranh chấp hợp đồng sinh ra các yêu sách tăng thanh toán",
+      "Cuộc họp đã đc lên kế hoạch để xem lại việc thực hiện k đúng thời hạn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "5. Nếu 1 rủi ro có 20% cơ hội xảy ra trong 1 tháng cho trước, và dự án dự kiến kéo dài 5 tháng, xác suất mà sự kiện rủi ro này sẽ xảy ra trong tháng thứ 4 của dự án là bn>",
+    "choices": [
+      "Ít hơn 1% ",
+      "20%",
+      "60%",
+      "80%"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "6. Nếu một sự kiện rủi ro có 90% cơ hội xảy ra, và hậu qua là 10000$, tương ứng với 90000$ là:",
+    "choices": [
+      "Giá trị rủi ro",
+      "Giá trị hiện tại ( present value- giá trị hiện tại của dòng tiền mặt sẽ đem lại lượng giá trị quay vòng vốn đầu tư nhất định trong tương lai) ",
+      "Giá trị tiền tệ dự kiến",
+      "Ngân sách ngẫu nhiên"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "7. Các rủi ro sẽ đc xcá định trong các quá trình quản lý rủi ro nào?",
+    "choices": [
+      "Phân tích định lượng rủi ro và xác định rủi ro ",
+      "Xác định rủi ro và kiểm soát rủi ro",
+      "Phân tích định lượng rủi ro và kiểm soát rủi ro",
+      "Xác định rủi ro"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "8. Điều gì nên đc hoàn thành với những rủi ro trong danh sách theo dõi (watchlist)",
+    "choices": [
+      "Ghi lại chúng cho các thông tin lịch sử để sử dụng trong các dự án khác ",
+      "Ghi lại chúng và xem lại trong quá trình thực hiện dự án",
+      "Ghi lại chúng và để sang một bên vì chúng đã có trong kế hoạch đối phó với sự kiện ngẫu nhiên",
+      "Ghi lại chúng và đưa cho khách hàng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "9. Tất cả những điều sau luôn là đầu vào cho quá trình quản lý rủi ro, ngoại trừ:",
+    "choices": [
+      "Các thông tin lịch sự",
+      "Các bài học rút ra",
+      "WBS ",
+      "Báo cáo trạng thái dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "10. Khả năng chấp nhận rủi ro đc xác định để giúp: ",
+    "choices": [
+      "Đội dự án xếp loại đc các rủi ro dự án",
+      "PM ước tính dự án",
+      "Đội dự án lên lịch trình dự án",
+      "Ban lãnh đạo biết đc những người quản lý khác sẽ hành động trong dự án ntn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "11. Tất cả những điều sau có 1 kết quả chung của quản lý rủi ro, ngoại trừ:",
+    "choices": [
+      "Các điều kiện và điều khoản trong hợp đồng đc tạo ra",
+      "Kế hoạch quản lý dự án đc thay đổi",
+      "Kế hoạch quản lý truyền thông đc thay đổi ",
+      "Tôn chỉ dự án đc thay đổi"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "12. Bảo hiểm mua bán đc xem xét tốt nhất như là một ví dụ về loại rủi ro nào?",
+    "choices": [
+      "Mitigation(sự làm dịu) ",
+      "Chuyển khoản (transfer)",
+      "Chấp nhận được (acceptance)",
+      "Sự tránh xa (avoidance)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "13. Bạn đang thấy rằng thật khó để ước lượng chính xác chi phí sẽ ảnh hưởng bởi rủi ro. Bạn nên ước lượng với:",
+    "choices": [
+      "Cơ sở định lượng",
+      "Cơ sở số học ",
+      "Cơ sở định tính",
+      "Cơ sở kinh tế"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "14. Đầu ra của kế hoạch đối phó rủi ro (risk response planning) là: ",
+    "choices": [
+      "Số dư rủi ro",
+      "Các rủi ro đc xác định",
+      "Danh sách ưu tiên của các rủi ro",
+      "Các ảnh hưởng đc xác định"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "15. Việc khắc phục(workaround) đc xác định trong quá trình quản lý rủi ro nào?",
+    "choices": [
+      "Xác định rủi ro",
+      "Phân tích định lượng rủi ro",
+      "Kế hoạch đối phó rủi ro ",
+      "Kiểm soát rủi ro"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "16. Trong quá trình quản lý rủi ro nào là nhân tố xác định chuyển giao một loại rủi ro (risk made)",
+    "choices": [
+      "Xác định rủi ro",
+      "Phân tích định lượng rủi ro ",
+      "Kế hoạch đối phó rủi ro",
+      "Kiểm soát rủi ro"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "17. Một PM vừa hoàn thành kế hoạch đối phó rủi ro cho 1 dự án kỹ thuật có kinh phí 387000$. Điều nào dưới đây anh ta nên làm tiếp theo?",
+    "choices": [
+      "Xác định tỷ lệ rủi ro tổng thể cho toàn dự án",
+      "Bắt đầu phân tích rủi ro và chỉ ra trong phác thảo dự án (project drawing) ",
+      "Thêm các gói công việc vào bảng WBS",
+      "Tổ chức đánh giá lại rủi ro dự án"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "18. Một PM hỏi nhiều bên có liên quan để xác định xác suất và ảnh hưởng của một số rủi ro. Anh ta sau đó đã phân tích các giả thuyết. Anh ta đang chuyển sang bước tiếp theo của quản lý rủi ro. Dựa vào các thông tin trên, PM đã QUÊN không làm gì?",
+    "choices": [
+      "Ước lượng xu hướng trong phân tích rủi ro",
+      "Xác định các yếu tố kích hoạt rủi ro (triggers) ",
+      "Cung cấp ma trận tỷ lệ rủi ro tiêu chuẩn",
+      "Tạo ra kế hoạch dự phòng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "19. Một PM tập hợp đội dự án lại, xác định 56 rủi ro trong dự án, xác định các yếu tố kích hoạt rủi ro, xếp hạng trong ma trận mức độ rủi ro, kiểm tra các giả thiết và ước lượng chất lượng dữ liệu sử dụng. Đội dự án vẫn tiếp tục chuyển sang quá trình quản lý rủi ro. PM đã quên không làm gì?",
+    "choices": [
+      "Mô phỏng rủi ro",
+      "Làm giảm, làm nhẹ rủi ro",
+      "Xếp hạng rủi ro tổng thể cho dự án ",
+      "Kéo theo các bên có liên quan tới dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "20. Bạn là một PM cho một dự án xây dựng của một nhà máy sản xuất lớn mới và chưa từng làm trước đó. Chi phí dự án đc ước tính là 30.000.000$ và sẽ sử dụng 3 người bán. Một khi bắt đầu, dự án không thể xóa bỏ, và sẽ có một phí tổn lớn trong thiết bị và nhà máy. Là PM của dự án này, điều quan trọng nhất phải thật cẩn thận là:",
+    "choices": [
+      "Xem xét lại tất cả đề nghị chi phí từ người bán",
+      "Kiểm tra ngân sách dự phòng",
+      "Hoàn thành tôn chỉ dự án ",
+      "Thực hiện xác định các rủi ro"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "21. Trong khi lên kế hoạch quản lý rủi ro, đội của bạn đã đưa ra 434 rủi ro và 16 nguyên nhân chính của các rủi ro này. Dự án là dự án cuối cùng trong chuỗi các dự án mà đội sẽ làm việc cùng nhau. Nhà tài trợ rất khuyến khích và một khối lượng lớn thời gian đã đc đầu tư để chắc chắn tôn chỉ dự án đã hoàn thành và đc ký bởi tất cả các bên có liên quan chính. Trong giai đoạn lập kế hoạch dự án, đội không đưa ra một cách thức hiệu quả để làm giảm hoặc thoát rủi ro. Nó không phải là công việc để có thể thuê ngoài hay bị loại bỏ. Giải pháp tốt nhất là: ",
+    "choices": [
+      "Chấp nhận rủi ro",
+      "Tiếp tục điều tra để làm giảm nhẹ rủi ro",
+      "Tìm kiếm cách để tránh rủi ro",
+      "Tìm kiếm cách để chuyển rủi ro (transfer the risk)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "22. Một PM đang định lượng rủi ro cho dự án của cô ấy. Cô ấy có nhiều chuyên môn bên ngoài, nhưng giá như có thể sử dụng bên trong dự án. Điều này có thể đc thực hiện ntn?",
+    "choices": [
+      "Sử dụng phân tích Monte Carlo sử dụng Internet như một công cụ",
+      "Áp dụng phương pháp đường tới hạn",
+      "Xác định các tùy chọn cho các hành động sửa lỗi khuyến nghị ",
+      "Áp dụng kỹ thuật Delphi"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "23. Một PM nhiều kinh nghiệm vừa bát đầu làm việc trong một tổ chức hợp nhất công nghệ thông tin lớn. Quản lý của cô ấy cung cấp cho cô ta một bản nháp tôn chỉ dự án và ngay lập tức yêu cầu cô ấy cung cấp phân tích về rủi ro trong dự án. Điều nào dưới đây là tốt nhất có thể giúp đỡ PM?",
+    "choices": [
+      "Một bài báo từ tạp chí mạng PM",
+      "Tuyên bố phạm vi dự án từ giai đoạn lên kế hoạch dự án",
+      "Kế hoạch nguồn lực từ giai đoạn lên kế hoạch dự án ",
+      "Một cuộc nói chuyện với 1 nhân viên từ 1 dự án tương tự đã thất bại trong quá khứ"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "24. Bạn đc trang bị như một người quản lý của một dự án lớn, mới và phức tạp. do dự án này là then chốt trong kinh doanh và rất rõ ràng (visible), các nhà quản lý cấp cao nói với bạn phân tích rủi ro dự án và chuẩn bị chiến lược đáp ứng rủi ro càng sớm càng tốt. Tổ chức có quy trình quản lý rủi ro mà rất ít khi đc sử dụng, và có lịch sử nắm bắt rủi ro kém. Điểm mốc đầu tiên của dự án là trong vòng 2 tuần nữa. Trong khi chuẩn bị kế hoạch đối phó rủi ro, đầu vào từ đâu thông thường là ít quan trọng nhất trong số các đáp án sau:",
+    "choices": [
+      "Nhân viên đội dự án ",
+      "Nhà tài trợ dự án",
+      "Những cá nhân có trách nhiệm với các chính sách và mẫu biểu quản lý rủi ro",
+      "Các bên có liên quan chính"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "25. Bạn đang trong quá trình thực hiện một dự án 2 năm để triển khai các văn phòng dọc theo đất nước. một cơn bão gây ra mất điện khi việc nâng cấp đã gần hoàn thành. Khi có điện trở lại, toàn bộ báo cáo dự án và dữ liệu lịch sử đã mất mà không có cách nào lấy lại được. Điều gì nên làm để giảm nhẹ rủi ro này?",
+    "choices": [
+      "Bảo hành mua bán",
+      "Lên kế hoạch cho quỹ dự phòng ",
+      "Kiểm soát thời tiên và có kế hoạch đối phó với sự ngẫu nhiên",
+      "Lên lịch cho việc triển khai ngoài mùa mưa bão"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "26. Một dự án phát triển hệ thống đang gần tới ngày kết thúc, một rủi ro không xác định trước đây đã đc khám phá ra. Điều này có khả năng ảnh hưởng tới khả năng tổng thể của dự án để giao sản phẩm. điều nên làm tiếp theo là gì?",
+    "choices": [
+      "Báo động cho nhà tài trợ dự án về các ảnh hưởng tiền năng tới chi phí, phạm vi, lịch trình ",
+      "Định tính rủi ro",
+      "Làm giảm nhẹ rủi ro bằng cách xây dựng kế hoạch đối phó rủi ro",
+      "Xây dựng việc khắc phục không nằm trong kế hoạch với rủi ro đang xảy ra (wordaround)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "27. CPI=0.6, SPI=0.71. Dự án có 625 gói công việc và đang đc hoàn thành trong giai đoạn hơn 4 năm. Nhân viên đội dự án rất thiếu kinh nghiệm và dự án nhận được ít hỗ trợ cho các kế hoạch thích hợp. Điều nào dưới đây là tốt nhất để thực hiện? ",
+    "choices": [
+      "Cập nhật xác định rủi ro và phân tích",
+      "Dành nhiều thời gian hơn để cải thiện ước tính chi phí",
+      "Loại bỏ càng nhiều gói công việc càng tốt",
+      "Tổ chức lại ma trận gán trách nhiệm"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "28. Trong khi chuẩn bị kế hoạch đối phó rủi ro, bạn xác định thêm 1 vài rủi ro. Bạn nên làm gì?",
+    "choices": [
+      "Thêm khoản dự phòng vào dự án để xem xét các rủi ro mới và thông báo với ban lãnh đạo ",
+      "Ghi lại các mục rủi ro và tính toán giá trị tiền tệ dự kiến dựa trên xác suất và ảnh hưởng từ kết quả của việc xảy ra rủi ro",
+      "Xác định các sự kiện rủi ro và các chi phí liên quan, sau đó thêm các chi phí này vào ngân sách dự án như một khoản dự phòng",
+      "Thêm 10% chi phí của sự bất ngờ vào ngân sách dự án và thông báo với khách hàng"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "29. Bạn vừa đc phân công làm PM cho một dự án truyền thông mới và đang bắt đầu vào giai đoạn thứ 2 của dự án. Có khá nhiều rủi ro xuất hiện trong dự án, nhưng không có ai ước tính chúng để đánh giá khoảng kết quả có thể xảy ra. Điều gì cần được hoàn thành? ",
+    "choices": [
+      "Kế hoạch quản lý rủi ro",
+      "Kế hoạch định lượng rủi ro",
+      "Kế hoạch đối phó rủi ro",
+      "Kiểm soát rủi ro"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "30. Trong giai đoạn thực thi dự án, một nhân viên xác định một rủi ro không có trong sổ ghi. Bạn nên làm gì?",
+    "choices": [
+      "Lấy thêm nhiều thông tin xem làm thế nào nhân viên đó xác định đc rủi ro, do bạn đã thực hiện phân tích chi tiết và không xác định đc rủi ro này",
+      "Không quan tâm tới rủi ro, do các rủi ro đã đc xác định trong giai đoạn lên kế hoạch dự án",
+      "Thông báo với khách hàng về rủi ro này ",
+      "Phân tích rủi ro này"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "31. Trong giai đoạn thực thi dự án, một vấn đề lớn xảy ra mà không có trong sổ ghi rủi ro. Bạn nên làm gì đầu tiên? ",
+    "choices": [
+      "Tạo một bản đối phó với rủi ro không nằm trong kế hoạch (create a workaround)",
+      "Ước tính lại quy trình xác định rủi ro",
+      "Tìm kiếm cho các hậu quả không mong đợi của vấn đề này",
+      "Nói với ban lãnh đạo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "32. Khách hàng yêu cầu thực hiện 1 thay đổi dự án mà sẽ gia tăng rủi ro của dự án. Điều nào dưới đây bạn nên làm trước tất cả mọi người?",
+    "choices": [
+      "Tính đến giá trị tiền tệ dự kiến của rủi ro trong ước tính chi phí mới",
+      "Nói với khách hàng về ảnh hưởng của thay đổi",
+      "Phân tích ảnh hưởng của thay đổi cùng với đội dự án",
+      "Thay đổi kế hoạch quản lý rủi ro"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "33. Điều nào dưới đây là tính chất quan trọng của kỹ thuật Delphi?",
+    "choices": [
+      "Sự kết luận từ các bản ghi lịch sử từ các dự án đã thực hiện trước đó ",
+      "Ý kiến chuyên gia",
+      "Quá trình phân tích theo cấp bậc",
+      "Cách tiếp cận từ dưới lên"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "34. Một dự án có 1 vài vấn đề, nhưng vẫn trong khả năng kiểm soát. Vào những tháng cuối của dự án, phần lớn các khoản dự phòng đã đc sử dụng và phần lớn các ảnh hưởng tiêu cực của các sự kiện đc dự báo trước đều đã xảy ra. Có 4 hoạt động còn sót lại và 2 hoạt động trong số đó nằm trên đường tới hạn. Ban lãnh đạo đã thông báo với PM rằng công ty thích hoàn thành dự án sớm hơn 2 tuần theo lịch để nhận đc thêm lợi nhuận. Để phản hồi lại, PM gửi một yêu cầu đề xuất cho 1 vài công việc đội dự án chuẩn bị làm, với hi vọng một công ty khác sẽ hoàn thành công việc nhanh hơn. PM tốt nhất nên cố gắng để làm việc với:",
+    "choices": [
+      "Khoản dự phòng ",
+      "Các cơ hội",
+      "Xác minh phạm vi",
+      "Các nguy cơ"
+    ],
+    "answer": 2
+  }
+]

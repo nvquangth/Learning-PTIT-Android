@@ -1,0 +1,412 @@
+[
+  {
+    "question": "1. Một khi đã ký, hợp đồng là ràng buộc pháp lý trừ phi:",
+    "choices": [
+      "Một bên không thể thực hiện",
+      "Một bên không đủ khả năng tài chính cho phần công việc của họ ",
+      "Vi phạm luật pháp",
+      "Hợp đồng đc tuyên bố là vô hiệu lực thông qua luật sư của 1 trong 2 bên"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "2. Với một hợp đồng rõ ràng, một người bán hoàn thành công việc đc chỉ rõ, nhưng người mua không hài lòng với kết quả. Hợp động sẽ đc xem xét để:",
+    "choices": [
+      "Vô hiệu hóa (null and void)",
+      "Không hoàn thành ",
+      "Hoàn thành",
+      "Từ bỏ"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "3. Tuyên bố nào liên quan tới tài liệu thầu là đúng?",
+    "choices": [
+      "Tài liệu thầu đc thiết kế tốt có thể làm đơn giản quá việc so sánh của việc phản ứng (response)",
+      "Tài liệu thầu phải nghiêm ngặt và không có tính mềm dẻo để cho phép các ý kiến, đề nghị của người mua đc cân nhắc",
+      "Nói chung, tài liệu thầu không nên bao gồm tiêu chuẩn ước tính",
+      "Tài liệu thầu đc thiết kế tốt không bao gồm hợp đồng tuyên bố công việc"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "4. Một PM cho người bán đc ban lãnh đạo của cô ấy nói rằng dự án nên làm điều gì có thể để thưởng tiền ưu đãi. Mục tiêu chính của các điều khoản ưu đãi trong hợp đồng là:",
+    "choices": [
+      "Giảm giá thành từ người mua",
+      "Giúp người bán kiểm soát chi phí ",
+      "Đồng bộ hóa các mục tiêu",
+      "Giảm rủi ro từ người bán bằng cách chuyển rủi ro sang phía người mua"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "5. Tuyên bố nào dưới đây về kiểm soát thay đổi là đúng?",
+    "choices": [
+      "Một hợp đồng giá cố định (fixed) sẽ làm giảm sự cần thiết phải kiểm soát thay đổi",
+      "Các thay đổi hiếm khi cung cấp lợi ích thực cho dự án ",
+      "Các hợp đồng nên bao gồm các thủ tục phù hợp với các thay đổi",
+      "Các thông số càng chi tiết sẽ loại trừ các nguyên nhân thay đổi"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "6. Một thủ tục kiểm tra của hợp đồng có thể hoàn trả chi phí (cost reimbursable CR) xác định báo giá cao đã đc thực hiện. Nếu hợp đồng không chỉ rõ các hành động hiệu chỉnh, người mua nên: ",
+    "choices": [
+      "Tiếp tục thực hiện trả tiền cho dự án",
+      "Trả 1 nửa cho đến khi vấn đề đc khắc phục",
+      "Vô hiệu hóa hợp đồng và bắt đầu các hành động pháp lý để thu hồi khoản thanh toán vượt quá.",
+      "Thay đổi hợp đồng để yêu cầu nhiều kiểm tra thường xuyên hơn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "7. Mục tiêu chính của thương lượng đàm phán hợp đồng là:",
+    "choices": [
+      "Có thêm nhiều hơn từ bên kia ",
+      "Bảo vệ mối quan hệ",
+      "Có đc sự quay vòng tiền tệ cao nhất(highest monetary return)",
+      "Xác định mục tiêu và gắn bó với mục tiêu đó"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "8. Một người bán đang thực hiện hợp đồng hoàn trả chi phí CR khi người mua quyết định sẽ mở rộng phạm vi dịch vụ và thay đổi thành hợp đồng giá cố định (fixed price FP). Tất cả các điều dưới đây là lựa chọn của người bán, ngoại trừ:",
+    "choices": [
+      "Hoàn thành công việc lúc đầu trong hoàn trả chi phí cơ bản và sau đó thương lượng 1 giá sẵn đối với các công việc thêm vào",
+      "Hoàn thành công việc lúc đầu và từ chối các công việc thêm vào",
+      "Thương lượng một hợp đồng giá cố định bao gồm tất cả các công việc ",
+      "Bắt đầu một hợp đồng mới"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "9. Hội nghị các nhà thầu là một phần của:",
+    "choices": [
+      "Kế hoạch ký hợp đồng",
+      "Quản lý hợp đồng ",
+      "Yêu cầu trả lời từ người bán(request seller responses)",
+      "Kế hoạch mua bán và những thứ thu lại đc"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "10. Tất cả những điều dưới đây phải có để có một hợp đồng, ngoại trừ:",
+    "choices": [
+      "Hợp đồng tuyên bố công việc",
+      "Sự chấp nhận ",
+      "Địa chỉ của người bán",
+      "Chữ ký của người mua"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "11. Điều nào dưới đây mô tả đúng nhất vai trò của PM trong quá trình ký kết hợp đồng?",
+    "choices": [
+      "PM chỉ có vai trò không quan trọng",
+      "PM nên là người thương lượng đàm phán ",
+      "PM nên cung cấp sự hiểu biết rõ về rủi ro của dự án",
+      "PM nên nói với người quản lý hợp đồng làm thế nào để có thể đảm trách đc quá trình ký kết hợp đồng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "12. Đâu là một trong những mục tiêu chính trong quá trình thương lượng ",
+    "choices": [
+      "Có đc mức giá hợp lý (a fair and reasonable price)",
+      "Thương lượng một mức giá theo dự toán của người bán",
+      "Chắc chắn rằng tất cả các rủi ro của dự án đc mô tả kỹ lưỡng",
+      "Chắc chắn rằng đã có một kế hoạch quản lý truyền thông hiệu quả"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "13. Hành động nào dưới đây xảy ra trong khi lên kế hoạch cho việc thu mua? ",
+    "choices": [
+      "Quyết định làm hay bán (make-or-buy)",
+      "Trả lời câu hỏi của người bán về các tài liệu thầu",
+      "Tạo ra các điều kiện và điều khoản trong hợp đồng",
+      "Tạo ra các yêu cầu về các tài liệu đề nghị hoặc tài liệu thầu"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "14. Điều nào dưới đây là tốt nhất cho PM thực hiện trong phần yêu cầu hồi đáp từ người bán của hoạt động quản lý hợp đồng?",
+    "choices": [
+      "Ước tính các rủi ro",
+      "Xác nhận rằng sự quy thuận (submittal) đã đc gửi",
+      "Xác nhận rằng các thay đổi với hợp đồng đã đc thực hiện ",
+      "Trả lời câu hỏi của khách hàng về tài liệu thầu"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "15. Nhà tài trợ đang lo lắng về người bán phát sinh thêm lợi nhuận trong hợp đồng chi phí cộng phí cố định (cost plus fixed fee CPFF). Mỗi tháng người bán yêu cầu PM đệ trình các tính toán CPI và một phân tích của chi phí để hoàn thành. PM giải thích với nhà tài trợ rằng các khoản lợi nhuận phát sinh không nên phải bận tâm trong dự án này do:",
+    "choices": [
+      "Đội dự án đã chắc chắn người bán không cắt giảm phạm vi ",
+      "Tất cả các chi phí đc lập hóa đơn sẽ đc kiểm tra",
+      "Chỉ có thể tăng tối đa 10% nếu có chi phí bất ngờ vượt quá",
+      "Chi phí chỉ nhận đc từ người bán khi dự án hoàn thành"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "16. Trong một hợp đồng giá cố định, lệ phí hay lợi nhuận là: ",
+    "choices": [
+      "Không xác định",
+      "Là 1 phần trong thương lượng liên quan trong việc chi trả mọi hóa đơn",
+      "Áp dụng như một mục hàng trong mọi hóa đơn",
+      "Đc xác định với các bên khác vào cuối dự án"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "17. Một dự án thực hiện theo hợp đồng có thể hoàn lại chi phí cuối cùng đã sắp kết thúc. Người mua phải nhớ phải làm gì?",
+    "choices": [
+      "Giảm mức độ rủi ro của dự án ",
+      "Kiểm tra sự đồng thuận với giá của người bán",
+      "Ước tính lệ phí anh ta phải trả",
+      "Chắc chắn rằng người bán không thêm nguồn lực nào"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "18. Nhà tài trợ và PM đang thảo luận loại hợp đồng nào mà PM lên kế hoạch sử dụng trong dự án. Người bán chỉ ra rằng tổ chức thực hiện đã dành ra nhiều tiền để thuê đội ngũ thiết kế để đưa ra bản thiết kế. PM lo lắng rằng rủi ro từ người mua sẽ ít nhất có thể. Một lợi thế từ hợp đồng giá cô định cho người bán là: ",
+    "choices": [
+      "Chi phí rủi ro nhỏ hơn",
+      "Chi phí rủi ro cao hơn",
+      "Chỉ có ít rủi ro",
+      "Rủi ro đc chia đều cho tất cả các bên"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "19. Như một phần của hệ thống quản lý sổ sách, bạn đang cố gắng chắc chắn rằng toàn bộ hồ sơ từ hợp đồng đã được ghi lại và ghi vào bản mục lục. Điều nào dưới đây bạn không nên lo lắng?",
+    "choices": [
+      "Sự đề nghị (proposal)",
+      "Tuyên bố công việc",
+      "Các điều khoản và điều kiện ",
+      "Quá trình thương lượng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "20. Bạn đang ở trong một thương lượng phức tạp khi bên kia nói:”chúng tôi cần hoàn thành trong 1h do tôi phải đón máy bay”. Người này đang sử dụng chiến lược thương lượng nào?",
+    "choices": [
+      "Người xấu, người tốt (good guy, bad guy)",
+      "Trì hoãn ",
+      "Thời hạn cuối cùng (deadline)",
+      "Các yêu cầu quá khích (extreme demands)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "21. Điều nào dưới đây là một lợi thế của hợp đồng tập trung?",
+    "choices": [
+      "Cho phép việc truy cập dễ dàng hơn để ký hợp đồng chuyên môn ",
+      "Gia tăng chuyên môn của cônt ty trong việc ký hợp đồng",
+      "Trung thành hơn với dự án",
+      "Cho phép 1 người có hợp đồng có thể làm việc trong một dự án riêng (allow a contracts person to work on a single project)"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "22. Với loại hợp đồng nào dưới đây, người bán có liên quan nhiều nhất tới phạm vi dự án? ",
+    "choices": [
+      "Hợp đồng giá cố định",
+      "Hợp đồng chi phí cộng phí cố định",
+      "Hợp đồng thời gian và nguyên vật liệu",
+      "Hợp đồng đơn đặt hàng (purchase order)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "23. Công ty của bạn có một việc khẩn cấp và cần các công việc hợp đồng hoàn thành càng sớm càng tốt. Với tình huống này, điều nào dưới đây là có ích nhất để thêm vào hợp đồng?",
+    "choices": [
+      "Một tuyên bố hợp đồng làm việc",
+      "Các yêu cầu mà trong đó các hợp đồng con có thể sử dụng ",
+      "Các ưu đãi",
+      "Một điều khoản không thể bào chữa (a force majeure clause)"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "24. Trong phần nào của quá trình ký hợp đồng mà việc thương lượng hợp đồng diễn ra?",
+    "choices": [
+      "Kế hoạch thu mua",
+      "Kế hoạch ký hợp đồng",
+      "Yêu cầu trả lời người bán",
+      "Lựa chọn người bán"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "25. Đội dự án đang cãi nhau về người bán tiềm năng mà chấp nhận các đề nghị. Một nhân viên dự án tranh luận về một người bán tin cậy trong khi 1 nhân viên khác muốn dự án đc trao cho một người bán khác. Đội dự án đang ở trong phần nào của quá trình quản lý thu mua?",
+    "choices": [
+      "Kế hoạch thu mua",
+      "Kế hoạch ký hợp đồng",
+      "Yêu cầu trả lời người bán ",
+      "Lựa chọn người bán"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "26. Đội dự án dường như thích tranh luận: họ đã tranh luận về mọi thứ. Thật may là PM đã thiết lập 1 hệ thống kiểm tra và các buổi họp xây dựng đội mà sẽ giúp đỡ và khuyến khích đội dự án hợp tác nhiều hơn với nhau. Điều mới nhất họ tranh luận là họ nên tự hoàn thành gói công việc của mình hay thuê ngoài. Họ đang ở trong quá trình nào của việc quản lý thu mua?",
+    "choices": [
+      "Quản trị hợp đồng ",
+      "Kế hoạch thu mua",
+      "Yêu cầu trả lời người bán",
+      "Lựa chọn người bán"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "27. Một PM đang tạo ra các yêu cầu đề nghị (request for proposal RFP). Anh ấy đang ở trong quá trình nào của việc quản lý thu mua?",
+    "choices": [
+      "Kế hoạch thu mua ",
+      "Kế hoạch ký hợp đồng",
+      "Yêu cầu trả lời người bán",
+      "Lựa chọn người bán"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "28. Bạn là 1 PM, người quản lý chương trình đến để giúp đỡ về giá thầu cho dự án mới nhất của cô ấy. bạn muốn bảo vệ công ty của bạn khỏi các rủi ro tài chính. Bạn đã có định nghĩa phạm vi giới hạn. Loại hình hợp đồng nào là tốt nhất để lựa chọn?",
+    "choices": [
+      "Hợp đồng giá cố định",
+      "Hợp đồng chi phí cộng phần trăm chi phí (cost plus percent of cost CPPC)",
+      "Hợp đồng thời gian và nguyên vật liệu ",
+      "Hợp đồng chi phí cộng phí cố định CPFF"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "29. Thương lượng giữa 2 bên đang trở nên phức tạp, nên bên A làm một vài ghi chép mà cả 2 bên đều ký vào. Tuy nhiên, khi công việc hoàn thành, bên B khẳng định rằng họ không yêu cầu cung cấp một hạng mục mà cả 2 bên đều đồng ý trong quá trình thương lượng, do nó không có trong hợp đồng tiếp theo. Trong trường hợp này, bên B:",
+    "choices": [
+      "Không đúng, do cả 2 bên phải tuân theo với những gì họ đã đồng ý",
+      "Đúng, do đó là một lời đề nghị ",
+      "Nhìn chung là đúng, do cả 2 bên chỉ yêu cầu thực hiện những gì ghi trong hợp đồng",
+      "Nhìn chung là sai, do tất cả hợp đồng phải đc tôn trọng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "30. Dự án của bạn vừa đc xúc tiến và bạn đang tìm kiếm một nhà thầy phụ để hoàn thiện mạng lưới nhanh chóng. Không có thời gian để đưa ra yêu cầu cho các đề nghị (RFP) nên bạn chọn sử dụng một công ty bạn đã sử dụng nhiều lần để phát triển phần mềm. Mối bận tâm chính trong tình huống này là:",
+    "choices": [
+      "Sự thông đồng giữa các nhà thầu phụ ",
+      "Trình độ chuyên môn của các nhà thầu",
+      "Tiêu chuẩn đánh giá của các nhà thầu",
+      "Tổ chức hội nghị nhà thầu"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "31. PM và nhà tài trợ dự án đang thảo luận về chi phí dự án và khi nào tốt để công ty của họ tham gia vào dự án hoặc thuê một công ty khác làm việc này. Nếu họ hỏi ý kiến của bạn, bạn nên nói rằng công ty nên tự làm dự án này sẽ tốt hơn nếu như: ",
+    "choices": [
+      "Có quá nhiều dữ liệu độc quyền",
+      "Công ty có chuyên môn nhưng k sẵn có nhân lực",
+      "Công ty không cần kiểm soát công việc",
+      "Các nguồn lực của công ty là giới hạn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "32. Sau rất nhiều hứng thú và các công việc nặng nhọc, hợp đồng tuyên bố công việc cho dự án đã hoàn thành. Ngay cả khi có đc sự đồng ý rằng hợp đồng tuyên bố công việc đã hoàn thành, PM vẫn lo lắng khi nào xác định thật sự tất cả các yêu cầu của người mua. PM tham dự hội nghị các nhà thầu. Anh ta hỏi bạn lời khuyên nên làm gì tiếp trong cuộc họp hội nghị. Lời khuyên nào là tốt nhất bạn có thể giúp đỡ anh ta?",
+    "choices": [
+      "Bạn không cần phải tham gia vào hội nghị, người quản lý hội nghị sẽ làm việc đó",
+      "Chắc chắn rằng bạn không thương lượng phạm vi dự án ",
+      "Chắc chắn bạn đã cho toàn bộ người bán đủ thời gian để trả lời câu hỏi. họ không muốn trả lời câu hỏi khi đối thủ cạnh tranh của họ cũng có mặt trong hội nghị",
+      "Để nhà tài trợ dự án điều khiển hội nghị và bạn sẽ đóng vai trò “người tốt” trong hội nghị."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "33. Một người bán đc thưởng một hợp đồng để xây dựng một đường ống. các điều khoản và điều kiện trong hợp đồng yêu cầu kế hoạch công việc được đưa ra để người mua phê duyệt trước khi bắt đầu công việc, nhưng người bán không cung cấp đc kế hoạch công việc. điều nào dưới đây là tốt nhất cho PM của người bán để thực hiện",
+    "choices": [
+      "Đưa ra một văn bản có mục đích (file a letter of intent)",
+      "Xác dựng kế hoạch công việc và đưa ra cho người bán để làm công việc đc trôi chảy (move thing along) ",
+      "Đưa ra một văn bản mặc định (default letter)",
+      "Yêu cầu người bán ngừng làm việc cho tới khi kế hoạch công việc đc chuẩn bị"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "34. Kết thúc hợp đồng khác với kết thúc hoạt động quản trị ở chỗ, kết thúc hợp đồng: ",
+    "choices": [
+      "Xảy ra trước khi kết thúc các hoạt động quản trị",
+      "Là điều duy nhất liên quan tới khách hàng",
+      "Bao gồm cả thu hồi tài sản (return of property)",
+      "Có thể hoàn thành nhiều hơn 1 lần trong mỗi hợp đồng"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "35. Bạn vừa bắt đầu quản trị một hợp đồng khi ban lãnh đạo quyết định chấm dứt hợp đồng. bạn nên làm gì trước tiên?",
+    "choices": [
+      "Quay lại yêu cầu sự trả lời của người bán",
+      "Quay lại để lên kế hoạch hợp đồng",
+      "Hoàn thành việc quản lý hợp đồng(contract admin) ",
+      "Đến giai đoạn kết thúc hợp đồng"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "36. Đội dự án đang tranh luận về người bán sắp tới, người đã đệ trình các đề nghị (submit proposals). Một nhân viên tranh luận về một người bán tin cậy, trong khi một nhân viên khác muốn một nguòi bán khác sẽ có dự án. Điều tốt nhất mà PM nên nhắc nhở đội của mình tập trung vào trong quá trình tìm ra lựa chọn là:",
+    "choices": [
+      "Các tài liệu hợp đồng",
+      "Kiểm tra hợp đồng ",
+      "Các tiêu chuẩn đánh giá",
+      "Kế hoạch quản lý hợp đồng"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "37. Tổ chức đang cố gắng quyết định có nên chia phòng ban quản lý hợp đồng và phân công trách nhiệm ký kết hợp đồng cho một phòng ban có trách nhiệm trực tiếp với dự án hay ko. Một chuyên gia về hợp đồng không thực sự muốn có sự chia tách này do họ sẽ mất……………………… trong môi trường phân tán việc ký kết hợp đồng(or phi tập trung- decentralized)",
+    "choices": [
+      "Tiêu chuẩn thực hiện quản lý dự án của công ty",
+      "Sự trung thành với dự án (loyalty)",
+      "Kinh nghiệm ",
+      "Quyền đc truy cập cho những người khác với những chuyên môn tương tự"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "38. Trong giai đoạn thực thi dự án, các nhân viên đội dự án bàn giao sản phẩm của dự án cho người bán. Tuy nhiên, người bán từ chối những sản phẩm này, tuyên bố rằng nó không đáp ứng yêu cầu ở trang 300 của tài liệu đặc tả chi tiết kỹ thuật. bạn đã xem lại tài liệu và cũng đồng ý. Điều tốt nhất nên làm là gì?",
+    "choices": [
+      "Giải thích rằng hợp đồng đã sai và nên đc thay đổi",
+      "Đưa ra yêu cầu thay đổi ",
+      "Xem lại các yêu vầu và gặp nhân viên chịu trách nhiệm với việc này để xem lại từ điển WBS",
+      "Họp đội dự án để xem xét lại yêu cầu ở trang 300"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "39. Loại hợp đồng nào bạn KHÔNG muốn sử dụng nếu bạn không đủ nhân lực để kiểm tra các hóa đơn? ",
+    "choices": [
+      "Hợp đồng chi phí cộng phí cố định (CPFF)",
+      "Hợp đồng thời gian và nguyên vật liệu (T&M)",
+      "Hợp đồng giá cố định (FP)",
+      "Hợp đồng khuyến mại giá cố định (FPIF-fixed price incentive fee)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "40. Một PM mới đang bắt đầu tạo ra bản hợp đồng tuyên bố công việc. Một bên có liên quan muốn thêm 1 vài hạng mục vào bản hợp đồng tuyên bố công việc. Một bên có liên quan khác chỉ muốn mô tả các yêu cầu chức năng. dự án rất quan trọng với công ty của PM, nhưng một người bán sẽ làm việc này. Bạn sẽ khuyên PM này điều gì?",
+    "choices": [
+      "Bản hợp đồng tuyên bố công việc nên chung chung(general) để cho phép người bán có quyết định của riêng mình",
+      "Bản hợp đồng tuyên bố công việc nên chung chung để cho phép các hiệu chỉnh sau này",
+      "Bản hợp đồng tuyên bố công việc nên chi tiết để cho phép các hiệu chỉnh sau này ",
+      "Bản hợp đồng tuyên bố công việc nên càng chi tiết càng tốt cho loại dự án"
+    ],
+    "answer": 4
+  },
+  {
+    "question": "41. Một khách hàng đưa cho bạn bản hợp đồng tuyên bố công việc cho một dự án 8 tháng khá phức tạp và có 1 vài điểm chưa biết. Khách hàng yêu cầu bạn chỉ làm việc (just “get it done”) và chỉ muốn gặp bạn vào cuối tháng thứ 8 khi bạn bàn giao dự án hoàn thiện. trong tình huống này, điều tốt nhất nên làm là: ",
+    "choices": [
+      "Hoàn thành dự án như đc yêu cầu, nhưng thỉnh thoảng xác minh phạm vi với khách hàng trong suốt dự án",
+      "Hoàn thành dự án chỉ trong 8 tháng mà không hề liên lạc với khách hàng trong khoảng thời gian này",
+      "Hỏi ban lãnh đạo để thỉnh thoảng xác nhận với khách hàng",
+      "Hoàn thành dự án, nhưng ghi lại rằng khách hàng không muốn liên lạc"
+    ],
+    "answer": 1
+  }
+]

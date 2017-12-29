@@ -2,7 +2,6 @@ package vn.svptit.learning.fragment
 
 import android.graphics.drawable.Drawable
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import com.quangnv.baseproject.fragment.BaseFragment
 import kotlinx.android.synthetic.main.fragment_chapters.*
@@ -46,12 +45,12 @@ class ChaptersFragment: BaseFragment(), OnItemClickListener {
     }
 
     private fun setView() {
-        setToobar()
+        setToolbar()
         setCollapsingLayout()
         setRecyclerView()
     }
 
-    private fun setToobar() {
+    private fun setToolbar() {
         toolbar.setNavigationIcon(R.drawable.ic_action_back)
         toolbar.setNavigationOnClickListener { mainActivity.onBackPressed() }
     }
@@ -70,7 +69,7 @@ class ChaptersFragment: BaseFragment(), OnItemClickListener {
     }
 
     override fun onClick(position: Int) {
-        mainActivity.onOpenFragment(ChapterDetailFragment().newInstance(subject.id, subject.chapters[position]), true)
+        mainActivity.onOpenFragment(ChapterDetailFragment2().newInstance(subject.id, subject.chapters[position]), true)
     }
 
 }

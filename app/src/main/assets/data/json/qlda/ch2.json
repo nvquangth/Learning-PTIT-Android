@@ -1,0 +1,152 @@
+[
+  {
+    "question": "1. Trong giai đoạn (quy trình - process) nào của vòng đời dự án mà tài liệu ngân sách chi tiết được viết ra?",
+    "choices": [
+      "Khởi tạo",
+      "Trước quy trình quản lý dự án",
+      "Lập kế hoạch",
+      "Thực thi"
+    ],
+    "answer":3
+  },
+  {
+    "question": "2. Tôn chỉ dự án được viết ra trong giai đoạn nào của vòng đời dự án?",
+    "choices": [
+      "Thực thi",
+      "Lập kế hoạch",
+      "Kết thúc ",
+      "Khởi tạo"
+    ],
+    "answer":4
+  },
+  {
+    "question": "3. Đội dự án vừa hoàn thành lịch khởi tạo dự án (initial project schedule) và ngân sách dự án. Việc phải làm tiếp theo là:",
+    "choices": [
+      "Bắt đầu xác định rủi ro",
+      "Bắt đầu lặp lại hành động ",
+      "Xác định các yêu cầu truyền thông",
+      "Làm sơ đồ Gantt"
+    ],
+    "answer":3
+  },
+  {
+    "question": "4. Lịch làm việc chi tiết của dự án có thể được tạo ra sau khi đã có:",
+    "choices": [
+      "Ngân sách dự án ",
+      "Bảng phân rã công việc WBS",
+      "Kế hoạch quản lý dự án",
+      "Bảng đánh giá rủi ro chi tiết"
+    ],
+    "answer":2
+  },
+  {
+    "question": "5. Người nên được kiểm soát dự án trong quá trình lập kế hoạch dự án là: ",
+    "choices": [
+      "Người quản lý dự án PM",
+      "Nhân viên dự án",
+      "Giám đốc bộ phận chức năng",
+      "Nhà tài trợ"
+    ],
+    "answer":1
+  },
+  {
+    "question": "6. Trong giai đoạn khởi tạo dự án, văn bản nào dưới đây KHÔNG cần thiết:",
+    "choices": [
+      "Các quy trình của công ty",
+      "Văn hóa của công ty",
+      "Các bảng phân rã công việc đã có trước đó WBS ",
+      "Tuyên bố phạm vi dự án"
+    ],
+    "answer":4
+  },
+  {
+    "question": "7. Nhà tài trợ dự án vừa cung cấp bản tuyên bố phạm vi dự án sơ bộ. việc phải làm tiếp theo là:",
+    "choices": [
+      "Bắt đầu hoàn thành gói công việc",
+      "Hoàn thành phê chuẩn phạm vi dự án",
+      "Bắt đầu kết hợp điều khiển thay đổi",
+      "Bắt đầu tạo ra các kế hoạch quản lý"
+    ],
+    "answer":4
+  },
+  {
+    "question": "8. Các ràng buộc về lịch trình dự án mức cao được xác định trong giai đoạn nào? ",
+    "choices": [
+      "Khởi tạo",
+      "Lập kế hoạch",
+      "Thực thi",
+      "Kiểm soát"
+    ],
+    "answer":1
+  },
+  {
+    "question": "9. Bảng phân rã công việc WBS và từ điển WBS đều được hoàn thành. Đội dự án bắt đầu xác định các rủi ro. Nhà tài trợ liên lạc với PM để yêu cầu làm ma trận trách nhiệm. dự án có ngân sách là 100000$ với 14 nhân lực đến từ 3 quốc gia. Dự án có một rủi ro nhỏ và PM đã quản lý rất nhiều dự án giống dự án này. Việc phải làm tiếp theo là:",
+    "choices": [
+      "Hiểu rõ kinh nghiệm của nhà tài trợ trong các dự án trước ",
+      "Tạo ra danh sách hoạt động (activity list)",
+      "Chắc chắn rằng phạm vi dự án đã được xác định",
+      "Hoàn thành quản lý rủi ro và ma trận trách nhiệm"
+    ],
+    "answer":2
+  },
+  {
+    "question": "10. Một PM không có nhiều thời gian để lên kế hoạch trước khi ngày bắt buộc khởi động dự án đang tới. Do đó anh ta muốn lập kế hoạch hiệu quả nhất có thể. Anh ta nên làm gì?",
+    "choices": [
+      "Chắc chắn nên có tuyên bố phạm vi dự án sơ bộ đã hoàn thành và sau đó tiến hành làm WBS ",
+      "Tạo danh sách hoạt động trước khi tạo ra sơ đồ mạng",
+      "Có tài liệu về các rủi ro đã biết trước khi làm các giả thuyết và ước tính sâu hơn",
+      "Hoàn thiện kế hoạch quản lý chất lượng trước khi quyết định đơn vị đo chất lượng"
+    ],
+    "answer":2
+  },
+  {
+    "question": "11. PM chắc chắn rằng sản phẩm của dự án phải hoàn thiện theo kế hoạch quản lý dự án. Anh ta đang ở giai đoạn nào của dự án?",
+    "choices": [
+      "Lên kế hoạch",
+      "Thực thu",
+      "Kiểm soát",
+      "Kết thúc"
+    ],
+    "answer":4
+  },
+  {
+    "question": "12. Một PM nhận đc cuộc gọi từ nhân viên dự án, thông báo rằng đã có sự khác nhau giữa tốc độ của một hệ thống trong dự án và tốc độ đề ra. PM ngạc nhiên bởi vì quản lý hiệu năng không được xác định trong giai đoạn lập kế hoạch. Nếu PM sau đó có thể ước tính đc khi nào sẽ có phản hồi của sự khác nhau này, thì anh ta đang ở giai đoạn nào của quản lý dự án?",
+    "choices": [
+      "Khởi tạo",
+      "Thực thi ",
+      "Kiểm soát",
+      "Kết thúc"
+    ],
+    "answer":3
+  },
+  {
+    "question": "13. Một nhân viên dự án thông báo cho PM rằng hoạt động bao gồm một gói công việc hiện nay không còn thích hợp nữa. điều này là tốt nhất cho PM khi anh ta đang ở trong một phần nào của giai đoạn phát triển dự án?",
+    "choices": [
+      "Hành động hiệu chỉnh",
+      "Kết hợp điều khiển thay đổi ",
+      "Kiểm soát",
+      "Kết thúc dự án"
+    ],
+    "answer":3
+  },
+  {
+    "question": "14. Trong buổi họp đội dự án, một nhân viên dự án hỏi về đơn vị đo đạc nào được sử dụng trong dự án để kiểm soát hiệu năng. nhân viên này cảm thấy một vài thước đo có liên quan tới công việc của anh ta đang không chính xác. Dự án đc xem xét tốt nhất trong phần nào của giai đoạn phát triển dự án?",
+    "choices": [
+      "Kết thúc",
+      "Kiểm soát ",
+      "Thực thi",
+      "Khởi tạo"
+    ],
+    "answer":3
+  },
+  {
+    "question": "15. Trong khi hoàn thành gói công việc, nhà tài trợ yêu cầu PM báo cáo dự án đang đc diễn tiến ntn. Trong quá trình chuẩn bị báo cáo, PM yêu cầu tất cả nhân viên dự án họ đã làm đc bao nhiêu % công việc của mình. Có một nhân viên rất khó khăn trong việc quản lý từ đầu. khi trả lời câu hỏicủa PM, anh ta nói rằng chưa hoàn thành gì cả. Mệt mỏi vì đc trả lời như vậy, PM báo cáo với thủ trưởng của đội dự án là các nhân viên không có tinh thần hợp tác. Vấn đề thật sự ở đây là gì?",
+    "choices": [
+      "PM không có đủ nguồn lực cho dự án",
+      "PM không tạo ra hệ thống tưởng thưởng xứng đáng cho nhân viên để nâng cao tinh thần hợp tác của họ",
+      "PM nên có buổi họp với thủ trưởng của đội dự án khi lần đầu tiên nhân viên dự án có vấn đề ",
+      "PM không có gói công việc"
+    ],
+    "answer":4
+  }
+]
