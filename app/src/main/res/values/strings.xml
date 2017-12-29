@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Learning</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <!-- Noti for result test-->
+    <string name="noti_pass">Congratulated, you have passed the test!</string>
+    <string name="noti_nopass_test">You have to answer 2/3 on all questions correctly!</string>
+    <string name="noti_nopass_mix">You have to answer 15 out of 20 questions correctly!</string>
+</resources>

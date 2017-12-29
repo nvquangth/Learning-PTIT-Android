@@ -1,0 +1,150 @@
+[
+  {
+    "id": "mmt",
+    "name": "Mạng máy tính",
+    "url_image": "data/image/ic_mmt.png",
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Kiến thức cơ sở"
+      },
+      {
+        "id": 2,
+        "name": "Mô hình OSI và mô hình TCP/IP"
+      },
+      {
+        "id": 3,
+        "name": "Tầng ứng dụng"
+      },
+      {
+        "id": 4,
+        "name": "Tầng giao vận"
+      },
+      {
+        "id": 5,
+        "name": "Tầng mạng"
+      },
+      {
+        "id": 6,
+        "name": "Tầng liên kết dữ liệu và tầng vật lý"
+      },
+      {
+        "id": 7,
+        "name": "An toàn và bảo mật mạng"
+      },
+      {
+        "id": 8,
+        "name": "Các công cụ mạng"
+      },
+      {
+        "id": 0,
+        "name": "Tổng hợp"
+      }
+    ]
+  },
+  {
+    "id": "atbm",
+    "name": "An toàn bảo mật",
+    "url_image": "data/image/ic_atbm.png",
+    "chapters": [
+      {
+        "id": 0,
+        "name": "Tổng hợp"
+      }
+    ]
+  },
+  {
+    "id": "qlda",
+    "name": "Quản lý dự án",
+    "url_image": "data/image/ic_qlda.png",
+    "chapters": [
+      {
+        "id": 1,
+        "name": "Kiến thức cơ sở"
+      },
+      {
+        "id": 2,
+        "name": "Các giai đoạn phát triển dự án"
+      },
+      {
+        "id": 3,
+        "name": "Tính chỉnh thể của dự án"
+      },
+      {
+        "id": 4,
+        "name": "Quản lý phạm vi"
+      },
+      {
+        "id": 5,
+        "name": "Quản lý thời gian"
+      },
+      {
+        "id": 6,
+        "name": "Quản lý chi phí"
+      },
+      {
+        "id": 7,
+        "name": "Quản lý chất lượng"
+      },
+      {
+        "id": 8,
+        "name": "Quản lý nguồn nhân lực"
+      },
+      {
+        "id": 9,
+        "name": "Quản lý truyền thông"
+      },
+      {
+        "id": 10,
+        "name": "Quản lý rủi ro"
+      },
+      {
+        "id": 11,
+        "name": "Quản lý mua sắm"
+      },
+      {
+        "id": 12,
+        "name": "Trách nhiệm nghề nghiệp và xã hội"
+      },
+      {
+        "id": 0,
+        "name": "Tổng hợp"
+      }
+    ]
+  },
+  {
+    "id": "ltw",
+    "name": "Lập trình web",
+    "url_image": "data/image/ic_ltw.png",
+    "chapters": [
+      {
+        "id": 1,
+        "name": "HTML"
+      },
+      {
+        "id": 2,
+        "name": "CSS"
+      },
+      {
+        "id": 3,
+        "name": "JavaScript"
+      },
+      {
+        "id": 4,
+        "name": "JQuery"
+      },
+      {
+        "id": 5,
+        "name": "SQL"
+      },
+      {
+        "id": 6,
+        "name": "PHP"
+      },
+      {
+        "id": 0,
+        "name": "Tổng hợp"
+      }
+    ]
+  }
+]
